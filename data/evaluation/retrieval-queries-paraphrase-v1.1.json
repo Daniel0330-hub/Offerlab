@@ -1,0 +1,190 @@
+[
+  {
+    "query_id": "P01",
+    "query": "梳理业务场景 制定智能化方案 推动应用落地",
+    "terms": [
+      "业务场景",
+      "智能化",
+      "方案",
+      "应用落地"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-ah-it-dev",
+      "pilot-cmcc-nj-ai-app",
+      "corpus-cetc-gz-ai-application",
+      "corpus-cetc-bj-llm"
+    ]
+  },
+  {
+    "query_id": "P02",
+    "query": "生成式AI 知识库问答 多Agent任务编排",
+    "terms": [
+      "生成式AI",
+      "知识库",
+      "Agent",
+      "任务编排"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-nj-ai-rd",
+      "corpus-cetc-bj-llm",
+      "ctower-jilin-ai-41267",
+      "ctower-gansu-ai-41263"
+    ]
+  },
+  {
+    "query_id": "P03",
+    "query": "通信基础设施监控 异常处置 安全防护",
+    "terms": [
+      "通信",
+      "基础设施",
+      "监控",
+      "异常",
+      "防护"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-nj-network-ops",
+      "pilot-cmcc-bynr-tech"
+    ]
+  },
+  {
+    "query_id": "P04",
+    "query": "售前咨询 客户方案 上线验收 进度协调",
+    "terms": [
+      "售前",
+      "客户方案",
+      "上线",
+      "验收",
+      "进度"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-nj-ai-app",
+      "pilot-cmcc-dt-delivery",
+      "corpus-cetc-xj-big-data-rd",
+      "corpus-cetc-bj-llm"
+    ]
+  },
+  {
+    "query_id": "P05",
+    "query": "图像识别 端侧推理 工厂缺陷检测",
+    "terms": [
+      "图像识别",
+      "端侧",
+      "推理",
+      "缺陷检测"
+    ],
+    "relevant_job_ids": [
+      "corpus-cetc-gz-ai-application",
+      "corpus-cetc-sz-cv"
+    ]
+  },
+  {
+    "query_id": "P06",
+    "query": "企业数据标准 元数据管理 质量核查 平台建设",
+    "terms": [
+      "数据标准",
+      "元数据",
+      "质量核查",
+      "平台建设"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-ah-it-dev",
+      "pilot-cmcc-bynr-tech",
+      "corpus-cetc-xj-big-data-rd"
+    ]
+  },
+  {
+    "query_id": "P07",
+    "query": "用智能感知设备搭建行业联网底座并改善交互体验",
+    "terms": [
+      "智能感知",
+      "联网底座",
+      "行业应用",
+      "交互体验"
+    ],
+    "relevant_job_ids": [
+      "ctower-hainan-aiot-41337"
+    ]
+  },
+  {
+    "query_id": "P08",
+    "query": "用生成式工具策划内容并通过脚本分析传播热点",
+    "terms": [
+      "生成式AI",
+      "内容策划",
+      "Python",
+      "热点挖掘"
+    ],
+    "relevant_job_ids": [
+      "cnpubg-huawen-aigc-new-media-2027"
+    ]
+  },
+  {
+    "query_id": "P09",
+    "query": "沉淀读者标签 做人群分层并设计积分权益",
+    "terms": [
+      "读者标签",
+      "人群分层",
+      "积分权益",
+      "运营复盘"
+    ],
+    "relevant_job_ids": [
+      "cnpubg-private-domain-member-marketing-2027"
+    ]
+  },
+  {
+    "query_id": "P10",
+    "query": "规划在线教育内容功能并完成声音影像后期加工",
+    "terms": [
+      "在线教育",
+      "功能设计",
+      "声音",
+      "影像",
+      "后期制作"
+    ],
+    "relevant_job_ids": [
+      "cnpubg-digital-textbook-platform-editor-2027"
+    ]
+  },
+  {
+    "query_id": "P11",
+    "query": "保障企业内部系统稳定 处理异常并做好数据容灾",
+    "terms": [
+      "内部系统",
+      "异常处置",
+      "数据备份",
+      "安全维护"
+    ],
+    "relevant_job_ids": [
+      "cee-xidian-system-operations-2027"
+    ]
+  },
+  {
+    "query_id": "P12",
+    "query": "跟踪高端制造公司 整理资料并沉淀可查询的数据资产",
+    "terms": [
+      "高端制造",
+      "公司分析",
+      "资料整理",
+      "数据库"
+    ],
+    "relevant_job_ids": [
+      "galaxy-fund-assistant-researcher-2027"
+    ]
+  },
+  {
+    "query_id": "P13",
+    "query": "训练垂直领域智能模型 构建语料并开发任务代理",
+    "terms": [
+      "垂直领域",
+      "智能模型",
+      "语料",
+      "Agent"
+    ],
+    "relevant_job_ids": [
+      "ctower-jilin-ai-41267",
+      "ctower-gansu-ai-41263",
+      "pilot-cmcc-nj-ai-rd",
+      "corpus-cetc-bj-llm"
+    ]
+  }
+]

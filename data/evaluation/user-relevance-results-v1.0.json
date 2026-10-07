@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "run_count": 3,
+  "scope": "真实用户三级相关性标注",
+  "macro_average": {
+    "ndcg_at_10": 0.9087,
+    "precision_at_10": 0.6667,
+    "highly_relevant_at_10": 5.0
+  },
+  "runs": [
+    {
+      "file": "data/evaluation/user-labels-v1.0/P1.json",
+      "count": 10,
+      "ndcg_at_10": 0.9259,
+      "precision_at_10": 0.8,
+      "highly_relevant_at_10": 7,
+      "label_distribution": {
+        "0": 2,
+        "1": 1,
+        "2": 7
+      }
+    },
+    {
+      "file": "data/evaluation/user-labels-v1.0/P2.json",
+      "count": 10,
+      "ndcg_at_10": 0.8673,
+      "precision_at_10": 1.0,
+      "highly_relevant_at_10": 7,
+      "label_distribution": {
+        "0": 0,
+        "1": 3,
+        "2": 7
+      }
+    },
+    {
+      "file": "data/evaluation/user-labels-v1.0/P3.json",
+      "count": 10,
+      "ndcg_at_10": 0.9328,
+      "precision_at_10": 0.2,
+      "highly_relevant_at_10": 1,
+      "label_distribution": {
+        "0": 8,
+        "1": 1,
+        "2": 1
+      }
+    }
+  ]
+}

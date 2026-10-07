@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国人寿保险（集团）公司",
+  "seed_url": "https://chinalife.zhiye.com/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://chinalife.zhiye.com/",
+      "http_status": 200,
+      "title": "中国人寿招聘官网",
+      "text": "﻿ 中国人寿招聘官网",
+      "html_bytes": 68912
+    }
+  ],
+  "errors": []
+}

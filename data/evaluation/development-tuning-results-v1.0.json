@@ -1,0 +1,1969 @@
+{
+  "dataset": "development-set-v1.0.json",
+  "training_source": "train-set-v1.0.json",
+  "test_set_used": false,
+  "synonym_groups": [
+    [
+      "ai",
+      "人工智能",
+      "大模型",
+      "智能算法",
+      "机器学习",
+      "深度学习"
+    ],
+    [
+      "llm",
+      "大模型",
+      "生成式ai",
+      "语言模型"
+    ],
+    [
+      "agent",
+      "多智能体",
+      "智能体"
+    ],
+    [
+      "客户需求",
+      "用户需求",
+      "需求",
+      "需求分析",
+      "需求沟通",
+      "需求调研"
+    ],
+    [
+      "产品方案",
+      "技术方案",
+      "方案",
+      "解决方案"
+    ],
+    [
+      "上线",
+      "交付",
+      "实施",
+      "落地",
+      "验收"
+    ],
+    [
+      "巡检",
+      "故障处理",
+      "运维",
+      "运营维护",
+      "运行维护"
+    ],
+    [
+      "信息安全",
+      "安全",
+      "攻防",
+      "渗透测试",
+      "网络安全"
+    ],
+    [
+      "元数据",
+      "数据标准",
+      "数据治理",
+      "数据质量"
+    ],
+    [
+      "大数据平台",
+      "数据中台",
+      "数据平台"
+    ],
+    [
+      "机器学习",
+      "模型",
+      "深度学习",
+      "算法"
+    ],
+    [
+      "产品化",
+      "工程化",
+      "落地",
+      "部署"
+    ],
+    [
+      "项目",
+      "项目实施",
+      "项目管理"
+    ],
+    [
+      "cv",
+      "图像识别",
+      "视觉算法",
+      "计算机视觉"
+    ],
+    [
+      "开发",
+      "研制",
+      "研发"
+    ]
+  ],
+  "queries": [
+    {
+      "query_id": "D01",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.425
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.3125
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.2
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.1
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.1
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.45
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.425
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.35
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.2375
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.225
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.293982
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.01983
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.014434
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.013402
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.007289
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.385695
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.320949
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.24933
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.170271
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.158891
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.359491
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.234915
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.182217
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.125451
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.114818
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.333288
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.148881
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.115104
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.080631
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.070745
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D02",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.47
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.24
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.21
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.5
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.36
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.3
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.18
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.11
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.122999
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.090023
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.04967
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.004608
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.003293
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.377007
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.266901
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.2469
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.127382
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.077988
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.295011
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.2115
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.204835
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.092304
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.056647
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.213016
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.176099
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.142769
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.057226
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.035305
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D03",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.4125
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.4
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.1
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.1
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.0875
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.4125
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.4
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.1
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.1
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.0875
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-bynr-tech",
+              0.201823
+            ],
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.087101
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.007293
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.007027
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.003762
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-bynr-tech",
+              0.340547
+            ],
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.31488
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.072188
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.071128
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.063358
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-bynr-tech",
+              0.300912
+            ],
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.249801
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.053647
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.051881
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.047264
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-bynr-tech",
+              0.261276
+            ],
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.184721
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.035105
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.032633
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.031169
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D04",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9829,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.5
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.32
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.16
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.08
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.08
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.59
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.32
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.32
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.24
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.24
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.166892
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.071261
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.008136
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.005592
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.002944
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.463068
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.245378
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.226441
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.169678
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.168576
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.378446
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.195631
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.164068
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.122796
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.12096
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.293824
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.145883
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.101695
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.075914
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.073344
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D05",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.6
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.41
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.08
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.07
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.6
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.49
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.17
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.08
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.08
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-sz-cv",
+              0.126508
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.10634
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.017142
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.009341
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.007409
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.451902
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.380952
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.120212
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.058802
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.058223
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.35317
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.308254
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.08702
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.044671
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.043704
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.254438
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.235556
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.053828
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.030539
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.029186
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D06",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.26
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.21
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.19
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.15
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.08
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.36
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.29
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.27
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.15
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.191065
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.094459
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.070778
+            ],
+            [
+              "pilot-cmcc-ty-tech",
+              0.01738
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.016094
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.309319
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.224233
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.217338
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.105541
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.07046
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.275532
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.18223
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.180389
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.075902
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.050767
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.241745
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.147122
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.136544
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.046263
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.031074
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P01",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 0.75,
+          "ndcg_at_5": 0.8048,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.1
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.1
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.1
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.1
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.1
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 0.75,
+          "ndcg_at_5": 0.8048,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.1
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.1
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.1
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.1
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.7877,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.099247
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.051963
+            ],
+            [
+              "pilot-cmcc-ty-tech",
+              0.010652
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.00896
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.007364
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8048,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.099774
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.085589
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.072688
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.072209
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.070797
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8048,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.099623
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.075982
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.05448
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.053682
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.051329
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8048,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.099473
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.066374
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.036272
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.035155
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.03186
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P02",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.1875
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.4
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.010084
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.009645
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.006446
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.006226
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.002901
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.283025
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.071868
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.002893
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.001934
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.00087
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.205042
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.053113
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.004822
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.003223
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.001451
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.127059
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.034358
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.006751
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.004512
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.002031
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P03",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8772,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.11
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.08
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.08
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.08
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8772,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.11
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.08
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.08
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.08
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.052328
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.019941
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.006387
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.006288
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.001318
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.092698
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.061982
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.057916
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.057886
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.000395
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.081164
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.04997
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.043193
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.043144
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.000659
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.069629
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.037958
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.028471
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.028402
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.000923
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P04",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.25,
+          "recall_at_10": 0.25,
+          "ndcg_at_5": 0.3904,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.08
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 0.75,
+          "ndcg_at_5": 0.7095,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.42
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.16
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.16
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.16
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.16
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9829,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.019211
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.009545
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.004425
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.002793
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.002132
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8319,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.299763
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.114863
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.113328
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.112
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.112
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8319,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.219605
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.084772
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.082213
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.08
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.08
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 0.75,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8319,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.139447
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.054681
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.051098
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.048
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.048
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P05",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.1875
+            ]
+          ]
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.275
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.2125
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.062431
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.031142
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.211229
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.158093
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.168716
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.121821
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.126202
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.085549
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "P06",
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "synonym_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.2
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.2
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.2
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.6183,
+          "top_5": [
+            [
+              "pilot-cmcc-ty-tech",
+              0.03927
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.037872
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.015298
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.010035
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.006028
+            ]
+          ]
+        },
+        "ensemble_70_30": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.144589
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.143011
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.141808
+            ],
+            [
+              "pilot-cmcc-ty-tech",
+              0.011781
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.011362
+            ]
+          ]
+        },
+        "ensemble_50_50": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.107649
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.105018
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.103014
+            ],
+            [
+              "pilot-cmcc-ty-tech",
+              0.019635
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.018936
+            ]
+          ]
+        },
+        "ensemble_30_70": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.070709
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.067025
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.06422
+            ],
+            [
+              "pilot-cmcc-ty-tech",
+              0.027489
+            ],
+            [
+              "pilot-cmcc-dt-delivery",
+              0.02651
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "offerlab_hybrid": {
+      "mean_recall_at_5": 0.75,
+      "mean_recall_at_10": 0.75,
+      "mean_ndcg_at_5": 0.7668
+    },
+    "synonym_hybrid": {
+      "mean_recall_at_5": 0.9167,
+      "mean_recall_at_10": 0.9167,
+      "mean_ndcg_at_5": 0.9104
+    },
+    "char_tfidf": {
+      "mean_recall_at_5": 0.9792,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.9366
+    },
+    "ensemble_70_30": {
+      "mean_recall_at_5": 0.9583,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.9506
+    },
+    "ensemble_50_50": {
+      "mean_recall_at_5": 0.9583,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.9573
+    },
+    "ensemble_30_70": {
+      "mean_recall_at_5": 0.9583,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.9573
+    }
+  }
+}

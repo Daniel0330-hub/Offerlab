@@ -1,0 +1,85 @@
+[
+  {
+    "case_id": "EC01",
+    "category": "different_title_high_relevance",
+    "query": "AI 产品 数据分析 Python",
+    "title": "经营分析与产品支撑",
+    "jd_excerpt": "分析用户行为和经营数据，识别产品需求，参与功能验证与效果评估。",
+    "expected": {"relevance": 2, "must_retrieve": true, "reason_contains": ["数据分析", "产品需求"]}
+  },
+  {
+    "case_id": "EC02",
+    "category": "similar_title_low_relevance",
+    "query": "AI 产品经理",
+    "title": "产品生产工程师",
+    "jd_excerpt": "负责生产工艺参数维护、现场设备巡检与质量控制。",
+    "expected": {"relevance": 0, "must_retrieve": false}
+  },
+  {
+    "case_id": "EC03",
+    "category": "required_skill_gap",
+    "query": "数据与开发岗位",
+    "title": "Java 后端开发工程师",
+    "jd_excerpt": "必须熟练掌握 Java 和 Spring，能够独立完成服务端模块开发。",
+    "candidate_skills": ["Python", "SQL"],
+    "expected": {"skill": "Java", "level": "required", "coverage": "gap"}
+  },
+  {
+    "case_id": "EC04",
+    "category": "preferred_not_required",
+    "title": "数据分析工程师",
+    "jd_excerpt": "掌握 SQL，具备统计分析能力；有 Python 项目经验者优先。",
+    "candidate_skills": ["SQL"],
+    "expected": {"Python_level": "preferred", "overall_not_ineligible": true}
+  },
+  {
+    "case_id": "EC05",
+    "category": "unknown_major",
+    "title": "数字化运营岗",
+    "jd_excerpt": "面向计算机、管理及相关专业招聘。",
+    "candidate_major": "统计学",
+    "expected": {"major_status": "unknown"}
+  },
+  {
+    "case_id": "EC06",
+    "category": "explicit_graduation_year_fail",
+    "title": "软件开发岗",
+    "jd_excerpt": "招聘对象为 2026 届应届毕业生。",
+    "candidate_graduation_year": 2027,
+    "expected": {"graduation_year_status": "fail"}
+  },
+  {
+    "case_id": "EC07",
+    "category": "location_not_default_filter",
+    "query": "Python 数据分析",
+    "title": "数据分析岗",
+    "location": "上海",
+    "candidate_preferred_locations": ["北京"],
+    "active_location_filter": null,
+    "expected": {"must_retrieve": true}
+  },
+  {
+    "case_id": "EC08",
+    "category": "location_active_filter",
+    "query": "Python 数据分析",
+    "title": "数据分析岗",
+    "location": "上海",
+    "active_location_filter": "北京",
+    "expected": {"must_retrieve": false}
+  },
+  {
+    "case_id": "EC09",
+    "category": "language_no_equivalence",
+    "title": "经营分析岗",
+    "jd_excerpt": "须取得大学英语六级证书。",
+    "candidate_language": "TOEFL 100，无 CET-6",
+    "expected": {"condition_group": "other_explicit_conditions", "status": "fail", "must_not_convert": true}
+  },
+  {
+    "case_id": "EC10",
+    "category": "missing_information",
+    "title": "算法工程师",
+    "jd_excerpt": "参与算法模型开发与验证。",
+    "expected": {"degree": "unknown", "major": "unknown", "graduation_year": "unknown"}
+  }
+]

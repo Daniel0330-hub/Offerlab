@@ -1,0 +1,32 @@
+{
+  "version": "v1.0",
+  "run_at": "2026-10-06",
+  "run_count": 1,
+  "status": "completed_locked",
+  "configuration_modified_after_test": false,
+  "rerun_guard_verified": true,
+  "artifacts_sha256": {
+    "data/evaluation/retrieval-config-v1.1.json": "aff2bf36e0b568a67da73865a9aa2a9e049264365fe3d11552dd829c8178c83b",
+    "data/evaluation/test-set-v1.0.json": "50bee0e6368fee7d77e43edd634604b5bb97c8395aa14153e55e99216a6ac7ab",
+    "data/evaluation/test-queries-v1.0.json": "c332dcd4ef3f0566c64ce09f8fd6c8acf635e604c29846fd5e591d955a45ebea",
+    "data/evaluation/test-queries-paraphrase-v1.0.json": "a25e589b25d9f125fe222dfa796bebe7f9ab45ab8b695804f469fd0575617a38",
+    "data/evaluation/frozen-test-results-v1.0.json": "1123699b3ec96472ed9b29f95a3a8fce327bb46bf3f6f9424ea58b2c7be4afd2"
+  },
+  "summary": {
+    "offerlab_hybrid": {
+      "mean_recall_at_5": 0.575,
+      "mean_recall_at_10": 0.575,
+      "mean_ndcg_at_5": 0.5547
+    },
+    "char_tfidf": {
+      "mean_recall_at_5": 1.0,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.884
+    },
+    "frozen_two_stage": {
+      "mean_recall_at_5": 1.0,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.8821
+    }
+  }
+}

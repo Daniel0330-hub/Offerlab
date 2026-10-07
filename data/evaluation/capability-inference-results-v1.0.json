@@ -1,0 +1,125 @@
+{
+  "version": "1.0",
+  "case_count": 10,
+  "passed": 10,
+  "accuracy": 1.0,
+  "scope": "规则契约测试；不代表真实用户推荐准确率",
+  "results": [
+    {
+      "id": "C01",
+      "passed": true,
+      "actual": [
+        "统计分析",
+        "统计建模",
+        "数据分析"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C02",
+      "passed": true,
+      "actual": [
+        "数据查询",
+        "基础数据分析",
+        "数据库基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C03",
+      "passed": true,
+      "actual": [
+        "数据分析",
+        "数据工程基础",
+        "数据平台基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C04",
+      "passed": true,
+      "actual": [
+        "人工智能基础",
+        "机器学习基础",
+        "模型训练基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C05",
+      "passed": true,
+      "actual": [
+        "Java开发",
+        "后端开发基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C06",
+      "passed": true,
+      "actual": [
+        "编程基础",
+        "数据处理",
+        "自动化脚本",
+        "风险分析",
+        "统计建模",
+        "数据分析"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C07",
+      "passed": true,
+      "actual": [
+        "数据清洗",
+        "数据处理",
+        "基础数据分析",
+        "机器学习",
+        "模型训练与评估"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C08",
+      "passed": true,
+      "actual": [
+        "需求分析",
+        "数据分析",
+        "业务流程理解",
+        "用户研究",
+        "产品方案",
+        "原型设计",
+        "产品表达"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C09",
+      "passed": true,
+      "actual": [
+        "C++开发",
+        "系统编程基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    },
+    {
+      "id": "C10",
+      "passed": true,
+      "actual": [
+        "C语言开发",
+        "系统编程基础"
+      ],
+      "missing": [],
+      "forbidden_hits": []
+    }
+  ]
+}

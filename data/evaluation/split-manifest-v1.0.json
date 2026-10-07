@@ -1,0 +1,100 @@
+{
+  "version": "v1.0",
+  "created_at": "2026-10-06",
+  "strategy": "parent_group_holdout",
+  "source_corpus": "data/corpus/job-corpus-v0.1.json",
+  "note": "当前57条语料的阶段性60/20/20近似拆分；按parent_group完全隔离，后续新增语料只进入训练候选池，冻结测试集不用于调参。",
+  "splits": {
+    "train": {
+      "count": 35,
+      "parent_groups": [
+        "中国中车集团有限公司",
+        "中国信息通信科技集团有限公司",
+        "中国兵器工业集团有限公司",
+        "中国兵器装备集团有限公司",
+        "中国核工业集团有限公司",
+        "中国联合网络通信集团有限公司",
+        "中国航天科工集团有限公司",
+        "中国船舶集团有限公司"
+      ],
+      "job_ids": [
+        "dev-cu-hn-ai-developer",
+        "dev-cu-yt-security",
+        "dev-cu-bj-architect",
+        "dev-cu-bj-compute-ops",
+        "dev-cu-bj-satellite-network",
+        "dev-crrc-cc-software-test",
+        "dev-crrc-cc-data-software",
+        "dev-crrc-cc-ai-engineer",
+        "dev-crrc-cc-big-data",
+        "dev-crrc-cc-data-analysis",
+        "corpus-cict-wh-application-software-j11126",
+        "corpus-cict-wh-algorithm-research-j11138",
+        "corpus-cict-wh-embedded-software-j11131",
+        "corpus-cict-wh-solution-manager-j11116",
+        "corpus-cnnc-sh-technology-validation-j31010",
+        "corpus-cnnc-bj-structural-engineer-j30976",
+        "corpus-cnnc-bj-electrical-engineer-j30977",
+        "corpus-cnnc-bj-system-design-j30979",
+        "corpus-cssc-sh-general-process",
+        "corpus-cssc-wh-fuel-cell-control",
+        "corpus-cssc-sh-intelligent-underwater-acoustics",
+        "corpus-cssc-bj-ai-data-research",
+        "corpus-cssc-gz-electrical-engineer",
+        "corpus-casic-guiyang-ground-software-development",
+        "corpus-casic-guiyang-intelligent-software-testing",
+        "corpus-casic-guiyang-network-information-security",
+        "corpus-casic-guiyang-fpga-software-testing",
+        "corpus-casic-guiyang-engineering-ai-platform",
+        "corpus-norinco-nanjing-embedded-algorithm-j14678",
+        "corpus-norinco-xiangyang-digital-manufacturing-j14686",
+        "corpus-norinco-shijiazhuang-rd-technology-j15357",
+        "corpus-csgc-chongqing-it-engineer-j14732",
+        "corpus-csgc-chongqing-advanced-manufacturing-j15233",
+        "corpus-csgc-xian-llm-agent-j15243",
+        "corpus-csgc-xian-hmi-ui-j15241"
+      ]
+    },
+    "development": {
+      "count": 11,
+      "parent_groups": [
+        "中国电子科技集团有限公司",
+        "中国移动通信集团有限公司"
+      ],
+      "job_ids": [
+        "pilot-cmcc-ah-it-dev",
+        "pilot-cmcc-nj-ai-app",
+        "pilot-cmcc-nj-network-ops",
+        "pilot-cmcc-nj-ai-rd",
+        "pilot-cmcc-ty-tech",
+        "pilot-cmcc-dt-delivery",
+        "pilot-cmcc-bynr-tech",
+        "corpus-cetc-xj-big-data-rd",
+        "corpus-cetc-gz-ai-application",
+        "corpus-cetc-bj-llm",
+        "corpus-cetc-sz-cv"
+      ]
+    },
+    "test": {
+      "count": 11,
+      "parent_groups": [
+        "中国华能集团有限公司",
+        "中国电信集团有限公司",
+        "中国航空工业集团有限公司"
+      ],
+      "job_ids": [
+        "pilot-ct-bj-ai-pm",
+        "pilot-ct-bj-pm",
+        "pilot-ct-bj-data-analyst",
+        "corpus-avic-catic-bj-information-j2027",
+        "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+        "corpus-avic-catic-bj-quality-airworthiness-j2027",
+        "corpus-huaneng-sz-product-management",
+        "corpus-huaneng-sz-ai-agent-development",
+        "corpus-huaneng-sz-data-analysis-governance",
+        "corpus-huaneng-sz-digital-project-system-ops",
+        "corpus-huaneng-sz-devops-cloud"
+      ]
+    }
+  }
+}

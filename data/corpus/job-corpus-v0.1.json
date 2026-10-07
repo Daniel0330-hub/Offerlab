@@ -1,0 +1,5344 @@
+[
+  {
+    "job_id": "pilot-ct-bj-ai-pm",
+    "title": "AI产品经理",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "产品全生命周期",
+        "evidence_span": "产品全生命周期管理"
+      },
+      {
+        "normalized_label": "需求调研",
+        "evidence_span": "开展客户需求调研"
+      },
+      {
+        "normalized_label": "原型设计",
+        "evidence_span": "原型绘制与需求文档撰写"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "原型绘制",
+        "normalized_name": "原型设计",
+        "level": "expected",
+        "evidence_span": "原型绘制与需求文档撰写"
+      },
+      {
+        "raw_name": "竞品分析",
+        "normalized_name": "竞品分析",
+        "level": "expected",
+        "evidence_span": "客户需求调研、竞品分析"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-ct-bj-pm",
+    "title": "产品经理",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "市场调研",
+        "evidence_span": "市场调研"
+      },
+      {
+        "normalized_label": "需求分析",
+        "evidence_span": "需求分析及产品设计"
+      },
+      {
+        "normalized_label": "经营分析",
+        "evidence_span": "数据治理/经营分析"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "需求分析",
+        "normalized_name": "需求分析",
+        "level": "expected",
+        "evidence_span": "需求分析及产品设计"
+      },
+      {
+        "raw_name": "数据治理",
+        "normalized_name": "数据治理",
+        "level": "expected",
+        "evidence_span": "数据治理/经营分析"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-ct-bj-data-analyst",
+    "title": "数据分析师",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "预算分析",
+        "evidence_span": "预算偏差分析、滚动预测"
+      },
+      {
+        "normalized_label": "经营分析",
+        "evidence_span": "日常经营分析体系建设"
+      },
+      {
+        "normalized_label": "风险预警",
+        "evidence_span": "异动预警与问题诊断"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "经营分析",
+        "normalized_name": "经营分析",
+        "level": "expected",
+        "evidence_span": "日常经营分析体系建设"
+      },
+      {
+        "raw_name": "滚动预测",
+        "normalized_name": "预测分析",
+        "level": "expected",
+        "evidence_span": "滚动预测与资源优化调配"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-ah-it-dev",
+    "title": "IT开发与系统运营（省公司）",
+    "company": "中国移动安徽公司",
+    "locations": [
+      "合肥"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI应用开发",
+        "evidence_span": "负责AI开发与数智化应用"
+      },
+      {
+        "normalized_label": "数据质量",
+        "evidence_span": "网络资源数据全生命周期质量监控"
+      },
+      {
+        "normalized_label": "产品需求分析",
+        "evidence_span": "个人及家庭产品的需求分析"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届应届、2026届未就业"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "人工智能",
+          "计算机科学与技术",
+          "软件工程",
+          "数据科学与大数据技术"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "人工智能、计算机科学与技术、软件工程"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=1d01e88a-1748-4dd0-8589-ab062862f731&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-nj-ai-app",
+    "title": "AI应用工程师",
+    "company": "中国移动南京分公司",
+    "locations": [
+      "南京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI场景落地",
+        "evidence_span": "推动AI应用场景落地"
+      },
+      {
+        "normalized_label": "需求对接",
+        "evidence_span": "负责现场需求对接/业务梳理"
+      },
+      {
+        "normalized_label": "解决方案",
+        "evidence_span": "定制信息化解决方案"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高等教育形式"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上应届毕业生"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=1dccfc2f-f07a-401c-9cd7-e200bb4126a2&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-nj-network-ops",
+    "title": "网络运维工程师",
+    "company": "中国移动南京分公司",
+    "locations": [
+      "南京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "网络规划建设",
+        "evidence_span": "网络规划与建设"
+      },
+      {
+        "normalized_label": "网络运营维护",
+        "evidence_span": "网络运营与维护"
+      },
+      {
+        "normalized_label": "算力基础设施运维",
+        "evidence_span": "算力基础设施运维"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "TCP/IP协议栈",
+        "normalized_name": "TCP/IP",
+        "level": "expected",
+        "evidence_span": "熟悉TCP/IP协议栈"
+      },
+      {
+        "raw_name": "路由交换原理",
+        "normalized_name": "路由与交换",
+        "level": "expected",
+        "evidence_span": "掌握路由交换原理"
+      },
+      {
+        "raw_name": "CCNA/CCNP",
+        "normalized_name": "网络认证",
+        "level": "preferred",
+        "evidence_span": "持有CCNA/CCNP或同等认证者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高等教育形式"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上应届毕业生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "通信工程",
+          "网络工程",
+          "信息安全"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "网络空间安全、计算机网络技术、物联网等相关专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=8c546119-ac26-40b1-8227-efb6607c02ca&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-nj-ai-rd",
+    "title": "AI研发工程师",
+    "company": "中国移动南京分公司",
+    "locations": [
+      "南京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "方案设计与开发",
+        "evidence_span": "技术方案设计/编码开发/测试调试"
+      },
+      {
+        "normalized_label": "架构优化",
+        "evidence_span": "优化现有技术架构"
+      },
+      {
+        "normalized_label": "跨部门协作",
+        "evidence_span": "配合跨部门协作"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python/Java/C++",
+        "normalized_name": "编程语言",
+        "level": "expected",
+        "evidence_span": "熟悉Python/Java/C++中至少一种编程语言"
+      },
+      {
+        "raw_name": "TensorFlow、PyTorch、Scikit-learn",
+        "normalized_name": "机器学习框架",
+        "level": "exposure",
+        "evidence_span": "了解主流机器学习/深度学习框架"
+      },
+      {
+        "raw_name": "RAG检索增强",
+        "normalized_name": "RAG",
+        "level": "exposure",
+        "evidence_span": "了解RAG检索增强、提示工程、模型微调等技术"
+      },
+      {
+        "raw_name": "算法模型训练或调优",
+        "normalized_name": "模型训练与调优",
+        "level": "preferred",
+        "evidence_span": "有算法模型训练或调优经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高等教育形式"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上应届毕业生"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=ee77d68a-3aca-44d7-9382-7e7ff0e54f05",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-ty-tech",
+    "title": "太原分公司各区技术岗",
+    "company": "中国移动山西公司",
+    "locations": [
+      "太原"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "销售服务支撑",
+        "evidence_span": "销售、服务和维系工作"
+      },
+      {
+        "normalized_label": "技术支撑",
+        "evidence_span": "负责相关技术支撑工作"
+      },
+      {
+        "normalized_label": "业务技术赋能",
+        "evidence_span": "网格业务发展的技术赋能"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高校毕业生、2026届普通高校毕业未就业学生"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学",
+          "应用统计学",
+          "数据分析"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "统计学、大数据管理与应用、大数据科学与技术、应用统计学、数据分析"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=64d778ca-2978-4544-bb23-9bf6b89f8a70",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-dt-delivery",
+    "title": "政企项目交付经理",
+    "company": "中国移动山西公司",
+    "locations": [
+      "大同"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "售前方案支撑",
+        "evidence_span": "售前方案支撑"
+      },
+      {
+        "normalized_label": "项目实施交付",
+        "evidence_span": "制定交付实施方案"
+      },
+      {
+        "normalized_label": "DICT项目管理",
+        "evidence_span": "DICT项目端到端管控"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "项目交付",
+        "normalized_name": "项目管理",
+        "level": "expected",
+        "evidence_span": "DICT项目端到端管控及客户交付"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高校毕业生、2026届普通高校毕业未就业学生"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "大学本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学",
+          "应用统计学",
+          "数据分析"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "统计学、大数据管理与应用、大数据科学与技术、应用统计学、数据分析"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=a9edbdfb-f50a-4163-8190-ec0030ef2033&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-bynr-tech",
+    "title": "巴彦淖尔分公司技术类职位",
+    "company": "中国移动内蒙古公司",
+    "locations": [
+      "巴彦淖尔"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "网络运维优化",
+        "evidence_span": "网络规划建设、运维优化与故障处置"
+      },
+      {
+        "normalized_label": "IT系统开发",
+        "evidence_span": "参与IT系统开发、平台运维及版本迭代"
+      },
+      {
+        "normalized_label": "数据治理分析",
+        "evidence_span": "数据治理与分析应用"
+      },
+      {
+        "normalized_label": "网络安全",
+        "evidence_span": "网络信息安全风险排查与应急防护"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027年应届毕业生以及2026届未落实工作单位"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "大学本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学",
+          "大数据分析"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "统计学、大数据分析等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=d64e0705-ddd8-495a-9752-e877fe69af7e",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "dev-cu-hn-ai-developer",
+    "title": "AI开发工程师",
+    "company": "中国联通海南省分公司",
+    "locations": [
+      "海口"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI场景落地",
+        "evidence_span": "负责集团的AI场景的落地、推广及运营"
+      },
+      {
+        "normalized_label": "智能体应用开发",
+        "evidence_span": "知识智能问答、智能体开发、前后端开发"
+      },
+      {
+        "normalized_label": "场景需求挖掘",
+        "evidence_span": "挖掘AI场景并形成场景可行性分析"
+      },
+      {
+        "normalized_label": "原型与方案设计",
+        "evidence_span": "完成系统的原型设计、方案设计及应用开发及部署"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "VUE/Python/Java",
+        "normalized_name": "编程语言及框架",
+        "level": "required",
+        "evidence_span": "熟练掌握VUE/Python/Java至少一种开发语言及框架"
+      },
+      {
+        "raw_name": "LangChain、LLM、Agent、向量数据库",
+        "normalized_name": "大模型应用开发",
+        "level": "expected",
+        "evidence_span": "掌握LangChain、LLM、Agent、向量数据库等主流AI开发技术与框架"
+      },
+      {
+        "raw_name": "SQL",
+        "normalized_name": "SQL",
+        "level": "expected",
+        "evidence_span": "掌握SQL编写、接口开发、微服务开发流程"
+      },
+      {
+        "raw_name": "Git、Maven、Docker",
+        "normalized_name": "开发工具",
+        "level": "expected",
+        "evidence_span": "熟悉Git、Maven、Docker等开发工具"
+      },
+      {
+        "raw_name": "前后端开发、智能体开发经验",
+        "normalized_name": "AI应用项目经验",
+        "level": "preferred",
+        "evidence_span": "有前后端开发、智能体开发相关工作经验优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国联合网络通信有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "大学本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "软件工程",
+          "人工智能"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机、软件工程、人工智能等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://xiaoyuan.zhaopin.com/job/CC145093010J40890015005?srccode=448002",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国联合网络通信集团有限公司"
+  },
+  {
+    "job_id": "dev-cu-yt-security",
+    "title": "网络安全运营（烟台-市公司本部）2027秋招",
+    "company": "中国联通山东省分公司",
+    "locations": [
+      "烟台"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "网络与数据安全管理",
+        "evidence_span": "网络与信息安全和数据安全的管理"
+      },
+      {
+        "normalized_label": "安全检测评估",
+        "evidence_span": "网络安全检测评估、风险排查、漏洞挖掘"
+      },
+      {
+        "normalized_label": "安全事件响应",
+        "evidence_span": "安全事件研判分析、朔源处置"
+      },
+      {
+        "normalized_label": "攻防演练",
+        "evidence_span": "网络安全攻防演练、情报挖掘、应急响应"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高等院校硕士研究生及以上学历，2026届未就业毕业生也可招收"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机类",
+          "电子信息类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机类、电子信息类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://xiaoyuan.zhaopin.com/job/CC145093010J40890311805?srccode=448002",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国联合网络通信集团有限公司"
+  },
+  {
+    "job_id": "dev-cu-bj-architect",
+    "title": "系统架构设计工程师",
+    "company": "中国联通北京市分公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "行业方案制定",
+        "evidence_span": "行业BU创新支撑，方案制定"
+      },
+      {
+        "normalized_label": "5G切片研发",
+        "evidence_span": "5G切片研发，包括：切片的设计，管理，优化"
+      },
+      {
+        "normalized_label": "产品运营与需求沟通",
+        "evidence_span": "产品的运营支撑，需求沟通，方案设计"
+      },
+      {
+        "normalized_label": "研发测试",
+        "evidence_span": "产品技术的研发与测试"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "5G及无线网络通信",
+        "normalized_name": "5G无线通信",
+        "level": "expected",
+        "evidence_span": "具备5G及无线网络通信的相关知识"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国联合网络通信有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "数学类",
+          "统计学类",
+          "计算机类",
+          "电子信息类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "数学类、统计学类等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://xiaoyuan.zhaopin.com/job/CC145093010J40895178605?srccode=448002",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国联合网络通信集团有限公司"
+  },
+  {
+    "job_id": "dev-cu-bj-compute-ops",
+    "title": "算力运维工程师",
+    "company": "中国联通北京市分公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "算力基础设施运维",
+        "evidence_span": "负责算力中心、数据中心基础设施运维管理"
+      },
+      {
+        "normalized_label": "设备巡检与维护",
+        "evidence_span": "负责设备运行、维修、保养、巡检等工作"
+      },
+      {
+        "normalized_label": "运行分析与优化",
+        "evidence_span": "负责基础设施运行分析及优化"
+      },
+      {
+        "normalized_label": "故障处理",
+        "evidence_span": "负责基础设施故障处理"
+      },
+      {
+        "normalized_label": "节能优化",
+        "evidence_span": "负责基础设施节能优化"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "主流操作系统",
+        "normalized_name": "操作系统",
+        "level": "required",
+        "evidence_span": "熟练掌握主流操作系统"
+      },
+      {
+        "raw_name": "基础软件开发",
+        "normalized_name": "软件开发",
+        "level": "expected",
+        "evidence_span": "具备基础软件开发能力"
+      },
+      {
+        "raw_name": "OpenStack、CloudStack、Docker、Kubernetes",
+        "normalized_name": "云计算与容器技术",
+        "level": "expected",
+        "evidence_span": "深入了解云计算和算力网络领域，了解OpenStack、CloudStack、Docker、Kubernetes"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国联合网络通信有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机类",
+          "电子信息类",
+          "自动化类",
+          "能源动力类",
+          "数学类",
+          "统计学类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机类、电子信息类、自动化类、能源动力类、数学类、统计学类等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://xiaoyuan.zhaopin.com/job/CC145093010J40895298605?srccode=448002",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国联合网络通信集团有限公司"
+  },
+  {
+    "job_id": "dev-cu-bj-satellite-network",
+    "title": "卫星网络运营工程师",
+    "company": "中国联通北京市分公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "行业应用解决方案论证",
+        "evidence_span": "负责卫星通信、卫星互联网行业应用解决方案论证"
+      },
+      {
+        "normalized_label": "产品规划与需求转化",
+        "evidence_span": "负责产品规划与设计、用户需求转化"
+      },
+      {
+        "normalized_label": "卫星互联网应用设计",
+        "evidence_span": "负责卫星互联网系统应用设计、应用模式研究"
+      },
+      {
+        "normalized_label": "网络架构研究",
+        "evidence_span": "负责网络架构和通信系统研究"
+      },
+      {
+        "normalized_label": "行业研究与方案研究",
+        "evidence_span": "负责行业研究、分析及解决方案研究"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "通信、电子、计算机、软件工程专业知识",
+        "normalized_name": "通信与软件工程",
+        "level": "expected",
+        "evidence_span": "掌握通信、电子、计算机、软件工程等专业知识"
+      },
+      {
+        "raw_name": "卫星通信物理层、链路层技术",
+        "normalized_name": "卫星通信",
+        "level": "expected",
+        "evidence_span": "掌握卫星通信物理层、链路层技术"
+      },
+      {
+        "raw_name": "TCP/IP网络体系架构及IP协议",
+        "normalized_name": "TCP/IP",
+        "level": "expected",
+        "evidence_span": "掌握TCP/IP网络体系架构及IP协议"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国联合网络通信有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机类",
+          "电子信息类",
+          "自动化类",
+          "能源动力类",
+          "数学类",
+          "统计学类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机类、电子信息类、自动化类、能源动力类、数学类、统计学类等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://xiaoyuan.zhaopin.com/job/CC145093010J40895298705?srccode=448002",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国联合网络通信集团有限公司"
+  },
+  {
+    "job_id": "dev-crrc-cc-software-test",
+    "title": "软件测试工程师（2027校园招聘）",
+    "company": "中车长春轨道客车股份有限公司",
+    "locations": [
+      "长春"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "软件测试仿真研究",
+        "evidence_span": "承担软件测试仿真模型技术研究"
+      },
+      {
+        "normalized_label": "软件自动测试研究",
+        "evidence_span": "承担软件自动测试技术研究"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "电气设计或软件开发与应用或通信技术",
+        "normalized_name": "软件开发与通信技术",
+        "level": "required",
+        "evidence_span": "精通电气设计或软件开发与应用或通信技术"
+      },
+      {
+        "raw_name": "工控网络设计经验",
+        "normalized_name": "工控网络",
+        "level": "expected",
+        "evidence_span": "对工控网络有设计经验"
+      },
+      {
+        "raw_name": "软件开发、操作系统、嵌入式开发",
+        "normalized_name": "嵌入式软件开发",
+        "level": "expected",
+        "evidence_span": "对软件开发、操作系统、对嵌入式开发有深入了解"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "软件测试工程师(2027校园招聘)"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "控制工程",
+          "电气自动化",
+          "自动化",
+          "软件工程",
+          "计算机",
+          "通信技术"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "控制工程、电气自动化、自动化、软件工程、计算机、通信技术类相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "语言能力",
+        "evidence_span": "精通英语或汉语"
+      },
+      {
+        "normalized_label": "毕业院校条件",
+        "evidence_span": "985本科/211以上研究生；毕业院校：985/双211或铁路院校"
+      }
+    ],
+    "source": {
+      "url": "https://crrc-ckgf.hotjob.cn/SU64ca155b6202cc125d482b37/pb/posDetail.html?postId=6a9542b4829af219b7d2dc51&postType=campus",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国中车集团有限公司"
+  },
+  {
+    "job_id": "dev-crrc-cc-data-software",
+    "title": "数据软件专业设计师",
+    "company": "中车长春轨道客车股份有限公司",
+    "locations": [
+      "长春"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "可视化系统全栈开发",
+        "evidence_span": "承担面向轨道车辆产品的可视化系统以及平台的前后端开发"
+      },
+      {
+        "normalized_label": "大模型开发与部署",
+        "evidence_span": "承担大模型的开发和优化工作，包括模型训练、调优和部署"
+      },
+      {
+        "normalized_label": "数据处理与算法研发",
+        "evidence_span": "承担数据的预处理、清洗和标注，为模型训练提供高质量的数据支持。协助大数据抽取、数据融合分析，以及负责相关算法的技术研究、设计研发、工程应用及优化"
+      },
+      {
+        "normalized_label": "AI解决方案开发",
+        "evidence_span": "结合行业实际需求,开发各类AI应用解决方案"
+      },
+      {
+        "normalized_label": "AI系统运维优化",
+        "evidence_span": "AI模型训练与优化、部署与运维，实现AI系统的性能优化、高可用、在线学习等关键能力"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python、Java",
+        "normalized_name": "Python与Java",
+        "level": "required",
+        "evidence_span": "精通Python、Java等主流编程语言"
+      },
+      {
+        "raw_name": "CNN、RNN、Transformer",
+        "normalized_name": "深度学习模型",
+        "level": "expected",
+        "evidence_span": "熟悉深度学习模型如CNN、RNN、Transformer等"
+      },
+      {
+        "raw_name": "强化学习、迁移学习",
+        "normalized_name": "机器学习",
+        "level": "expected",
+        "evidence_span": "掌握强化学习、迁移学习等前沿AI技术"
+      },
+      {
+        "raw_name": "AI项目实战经验",
+        "normalized_name": "AI项目经验",
+        "level": "required",
+        "evidence_span": "有完整的AI项目实战经验,能端到端构建解决方案"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中车长春轨道客车股份有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "软件工程",
+          "人工智能"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机/软件/人工智能相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语水平",
+        "evidence_span": "英语水平达CET-6或同等英语水平"
+      }
+    ],
+    "source": {
+      "url": "https://crrc-ckgf.hotjob.cn/SU64ca155b6202cc125d482b37/pb/posDetail.html?postId=6a9542b0e804fa0faef52eb4&postType=campus",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国中车集团有限公司"
+  },
+  {
+    "job_id": "dev-crrc-cc-ai-engineer",
+    "title": "人工智能工程师",
+    "company": "中车长春轨道客车股份有限公司",
+    "locations": [
+      "长春"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI需求调研与方案设计",
+        "evidence_span": "参与企业AI应用场景的需求调研与技术方案设计"
+      },
+      {
+        "normalized_label": "算法实现与模型优化",
+        "evidence_span": "负责计算机视觉、时序分析、自然语言处理等领域的算法实现与模型优化"
+      },
+      {
+        "normalized_label": "AI工程化部署",
+        "evidence_span": "完成AI模型的工程化部署及基础服务开发"
+      },
+      {
+        "normalized_label": "技术文档维护",
+        "evidence_span": "协助维护AI技术文档与开发规范"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python",
+        "normalized_name": "Python",
+        "level": "required",
+        "evidence_span": "掌握Python编程及数据结构基础，具备独立调试能力"
+      },
+      {
+        "raw_name": "PyTorch/TensorFlow",
+        "normalized_name": "深度学习框架",
+        "level": "expected",
+        "evidence_span": "了解常见深度学习框架（PyTorch/TensorFlow）"
+      },
+      {
+        "raw_name": "计算机视觉、自然语言处理、时序数据分析、强化学习",
+        "normalized_name": "AI算法方向",
+        "level": "expected",
+        "evidence_span": "对以下至少一个方向有实践或研究经验"
+      },
+      {
+        "raw_name": "Linux",
+        "normalized_name": "Linux",
+        "level": "expected",
+        "evidence_span": "了解Linux开发环境，熟练掌握Linux常见命令"
+      },
+      {
+        "raw_name": "智能体开发/Dify工作流",
+        "normalized_name": "智能体开发",
+        "level": "preferred",
+        "evidence_span": "具备智能体开发经验/Dify工作流搭建经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中车长春轨道客车股份有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "数学",
+          "电子信息"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机/数学/电子信息等相关专业本科及以上学历"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://crrc-ckgf.hotjob.cn/SU64ca155b6202cc125d482b37/pb/posDetail.html?postId=6a9542b35e09b14b274bee34&postType=campus",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国中车集团有限公司"
+  },
+  {
+    "job_id": "dev-crrc-cc-big-data",
+    "title": "大数据工程师",
+    "company": "中车长春轨道客车股份有限公司",
+    "locations": [
+      "长春"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "大数据平台建设",
+        "evidence_span": "参与大数据基础平台的建设与维护，包括分布式计算、分布式存储、消息队列、资源调度等核心组件"
+      },
+      {
+        "normalized_label": "大数据组件开发与调优",
+        "evidence_span": "负责Hadoop、Spark、Flink、Kafka、HBase、Hudi、Iceberg等大数据组件的部署、调优与二次开发"
+      },
+      {
+        "normalized_label": "底层引擎优化",
+        "evidence_span": "参与大数据底层引擎的源码研究与改造，针对业务场景进行性能优化和功能增强"
+      },
+      {
+        "normalized_label": "资源与容量规划",
+        "evidence_span": "负责大数据平台的资源管理与容量规划，优化计算、存储、网络资源的利用率与成本"
+      },
+      {
+        "normalized_label": "高可用与监控建设",
+        "evidence_span": "参与大数据平台的高可用、容灾、监控与告警体系建设，保障平台稳定运行"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Java",
+        "normalized_name": "Java",
+        "level": "required",
+        "evidence_span": "掌握Java开发语言"
+      },
+      {
+        "raw_name": "Python、Go或C++",
+        "normalized_name": "Python/Go/C++",
+        "level": "expected",
+        "evidence_span": "熟悉Python、Go或C++"
+      },
+      {
+        "raw_name": "Linux、Shell",
+        "normalized_name": "Linux与Shell",
+        "level": "expected",
+        "evidence_span": "熟悉Linux操作系统，掌握常用Shell命令，具备一定的脚本开发能力"
+      },
+      {
+        "raw_name": "Hadoop、Spark、Flink、Kafka、HBase、Zookeeper",
+        "normalized_name": "大数据技术栈",
+        "level": "preferred",
+        "evidence_span": "了解主流大数据技术栈，如HadoopHDFS/YARN、Spark、Flink、Kafka、HBase、Zookeeper等，有实际使用或项目经验者优先"
+      },
+      {
+        "raw_name": "Docker、Kubernetes",
+        "normalized_name": "容器技术",
+        "level": "preferred",
+        "evidence_span": "了解容器化技术（Docker、Kubernetes）、资源调度（YARN、K8s）者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中车长春轨道客车股份有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://crrc-ckgf.hotjob.cn/SU64ca155b6202cc125d482b37/pb/posDetail.html?postId=6a9542b35e09b14b274bee3b&postType=campus",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国中车集团有限公司"
+  },
+  {
+    "job_id": "dev-crrc-cc-data-analysis",
+    "title": "数据分析工程师",
+    "company": "中车长春轨道客车股份有限公司",
+    "locations": [
+      "长春"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "检测诊断算法研究",
+        "evidence_span": "转向架检测诊断技术算法逻辑研究"
+      },
+      {
+        "normalized_label": "振动数据分析与挖掘",
+        "evidence_span": "转向架振动、抖车、晃车、车轮多边形及车轮异常磨耗、轨道波磨等数据分析和挖掘"
+      },
+      {
+        "normalized_label": "售后问题分析",
+        "evidence_span": "各类售后问题分析处理"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "振动测试、分析和挖掘",
+        "normalized_name": "振动数据分析",
+        "level": "expected",
+        "evidence_span": "参与轨道车辆振动相关台架试验、线路试验、智能监测数据或其它领域振动测试和分析和挖掘工作"
+      },
+      {
+        "raw_name": "Matlab/Python",
+        "normalized_name": "Matlab与Python",
+        "level": "required",
+        "evidence_span": "会使用matlab/python软件，具备一定数据处理编程能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中车长春轨道客车股份有限公司2027校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://crrc-ckgf.hotjob.cn/SU64ca155b6202cc125d482b37/pb/posDetail.html?postId=6a9542af5e09b14b274bee0d&postType=campus",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国中车集团有限公司"
+  },
+  {
+    "job_id": "corpus-cetc-xj-big-data-rd",
+    "title": "研发工程师（大数据方向）",
+    "company": "中电科普天科技股份有限公司",
+    "parent_group": "中国电子科技集团有限公司",
+    "locations": [
+      "乌鲁木齐"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "数据中台开发运维",
+        "evidence_span": "负责数公司数据中台等产品部署、开发、维护"
+      },
+      {
+        "normalized_label": "数据清洗预处理",
+        "evidence_span": "负责数数据治理服务类项目数据清洗及预处理"
+      },
+      {
+        "normalized_label": "数据产品实施交付",
+        "evidence_span": "掌握公司数据治理、数据可视化、数据大屏等产品体系，参与项目实施交付"
+      },
+      {
+        "normalized_label": "客户需求反馈",
+        "evidence_span": "在项目实施中发现产品问题、收集客户需求反馈公司研发改进产品"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国电科2027届校园招聘正式启动"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "出差要求",
+        "evidence_span": "能适应出差，具备良好的团队合作精神"
+      }
+    ],
+    "source": {
+      "url": "https://wecruit.hotjob.cn/SU6056b00a0dcad424d03e153c/pb/posDetail.html?postId=6aa7b924ded00b8cb6a1a10c&postType=campus",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cetc-gz-ai-application",
+    "title": "AI应用工程师",
+    "company": "中电科普天科技股份有限公司",
+    "parent_group": "中国电子科技集团有限公司",
+    "locations": [
+      "广州-花都区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "工业AI应用落地",
+        "evidence_span": "参与智慧燃气/水务场景下的AI算法开发与应用落地"
+      },
+      {
+        "normalized_label": "数据处理与模型训练",
+        "evidence_span": "负责传感器数据/视频图像数据的清洗、标注、特征提取、模型训练及蒸馏裁剪"
+      },
+      {
+        "normalized_label": "边缘AI部署",
+        "evidence_span": "协助将AI模型进行量化与压缩，推动算法在端侧/边缘侧设备上的移植与部署优化"
+      },
+      {
+        "normalized_label": "AI工程化集成",
+        "evidence_span": "完成“端-边-云”AI功能的闭环集成与现场测试"
+      },
+      {
+        "normalized_label": "前沿技术探索",
+        "evidence_span": "跟踪工业AI、TinyML、大模型工业微调的技术趋势"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python/C/C++",
+        "normalized_name": "Python/C/C++",
+        "level": "required",
+        "evidence_span": "扎实的 Python/C/C++ 编程基础"
+      },
+      {
+        "raw_name": "PyTorch、TensorFlow或OpenCV",
+        "normalized_name": "深度学习与计算机视觉框架",
+        "level": "required",
+        "evidence_span": "熟练掌握 PyTorch、TensorFlow 或 OpenCV 等至少一种主流深度学习/CV框架"
+      },
+      {
+        "raw_name": "计算机视觉或时序/信号分析",
+        "normalized_name": "AI算法实践",
+        "level": "required",
+        "evidence_span": "在计算机视觉或时序/信号分析某一方面有实践积累"
+      },
+      {
+        "raw_name": "工业缺陷检测、边缘计算、设备故障诊断或物联网数据分析",
+        "normalized_name": "工业AI项目经验",
+        "level": "preferred",
+        "evidence_span": "有工业缺陷检测、边缘计算、设备故障诊断或物联网数据分析相关项目经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国电科2027届校园招聘正式启动"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "全日制硕士及以上学历应届毕业生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "电子信息",
+          "自动化",
+          "计算机",
+          "软件工程",
+          "人工智能"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "电子信息、自动化、计算机、软件工程、人工智能等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wecruit.hotjob.cn/SU6056b00a0dcad424d03e153c/pb/posDetail.html?postId=6aa3c88c5e0f494d82a96186&postType=campus",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cetc-bj-llm",
+    "title": "大模型工程师",
+    "company": "信息科学研究院（智能科技研究院）",
+    "parent_group": "中国电子科技集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "大模型微调优化",
+        "evidence_span": "根据作战仿真系统的业务需求，对LLM进行微调，优化模型性能"
+      },
+      {
+        "normalized_label": "智能体设计开发",
+        "evidence_span": "设计和开发具备作战想定构建、响应自然语言指令、作战态势提取分析、学习训练以及提出作战指挥建议等功能的Agent"
+      },
+      {
+        "normalized_label": "智能体监控评估",
+        "evidence_span": "对Agent的运行效果进行监控和评估，根据实际需求进行优化和改进"
+      },
+      {
+        "normalized_label": "大模型技术研究",
+        "evidence_span": "跟踪大模型技术和Agent领域的前沿动态"
+      },
+      {
+        "normalized_label": "需求沟通与方案评审",
+        "evidence_span": "与项目团队成员、军事领域专家等保持密切沟通，及时了解需求和反馈；参与技术方案讨论和评审"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "LLM微调",
+        "normalized_name": "大模型微调",
+        "level": "expected",
+        "evidence_span": "对LLM进行微调，优化模型性能"
+      },
+      {
+        "raw_name": "Agent设计与开发",
+        "normalized_name": "智能体开发",
+        "level": "expected",
+        "evidence_span": "Agent设计与开发"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国电科2027届校园招聘正式启动"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "信息工程",
+          "人工智能"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机、信息工程、人工智能等"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wecruit.hotjob.cn/SU6056b00a0dcad424d03e153c/pb/posDetail.html?postId=6939342cea11b01b6c616011&postType=campus",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cetc-sz-cv",
+    "title": "计算机视觉算法工程师",
+    "company": "中电科新型智慧城市研究院有限公司",
+    "parent_group": "中国电子科技集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "计算机视觉算法研发",
+        "evidence_span": "负责进行计算机视觉深度学习/机器学习算法设计、研发、迭代等工作"
+      },
+      {
+        "normalized_label": "算法产品化落地",
+        "evidence_span": "负责创新技术在公司内外部项目中落地应用或产品化"
+      },
+      {
+        "normalized_label": "前沿算法复现",
+        "evidence_span": "研究、重现和对比最前沿的算法"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "图像视频分析和模式识别",
+        "normalized_name": "计算机视觉",
+        "level": "required",
+        "evidence_span": "有扎实的图像视频分析和模式识别理论基础"
+      },
+      {
+        "raw_name": "人脸识别、目标检测/跟踪/识别、ReID、密度估计",
+        "normalized_name": "视觉算法",
+        "level": "expected",
+        "evidence_span": "熟悉人脸识别.目标检测/跟踪/识别.ReID.密度估计等计算机视觉处理任务"
+      },
+      {
+        "raw_name": "C/C++、Python、Linux",
+        "normalized_name": "C/C++与Python",
+        "level": "required",
+        "evidence_span": "熟练使用C/C++，Python，熟悉linux编程环境"
+      },
+      {
+        "raw_name": "Tensorflow、Pytorch、Caffe",
+        "normalized_name": "深度学习框架",
+        "level": "required",
+        "evidence_span": "能够熟练使用深度学习开源框架，如Tensorflow、Pytorch、Caffe 等"
+      },
+      {
+        "raw_name": "Docker、Git",
+        "normalized_name": "部署与版本管理工具",
+        "level": "expected",
+        "evidence_span": "熟悉Docker.Git等使用，能够快速实现模型的服务封装和生产环境部署"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国电科2027届校园招聘正式启动"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士、博士学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "人工智能",
+          "计算机",
+          "自动化",
+          "模式识别",
+          "电子信息"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "人工智能/计算机/自动化/模式识别/电子信息等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wecruit.hotjob.cn/SU6056b00a0dcad424d03e153c/pb/posDetail.html?postId=68c37af089a3b937c17eb83d&postType=campus",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "company": "中国信息通信科技集团有限公司",
+    "parent_group": "中国信息通信科技集团有限公司",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://campus.51job.com/cict2022/job.html",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-cict-wh-application-software-j11126",
+    "title": "2027校招-应用软件工程师(J11126)",
+    "responsibilities": [
+      {
+        "normalized_label": "通信软件开发",
+        "evidence_span": "负责 4G/5G/6G / 卫星通信基站高层协议/OAM 软件开发"
+      },
+      {
+        "normalized_label": "研发全流程实施",
+        "evidence_span": "参与研发需求分析、方案设计、设计文档编写、代码实现与性能优化"
+      },
+      {
+        "normalized_label": "软件测试与问题定位",
+        "evidence_span": "独立编写并执行单元、集成测试，完成研发预集成测试"
+      },
+      {
+        "normalized_label": "系统测试与现场支持",
+        "evidence_span": "参与4G/5G/6G/卫星通信基站系统级测试，分析和解决现场测试中遇到的问题"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "C/C++",
+        "normalized_name": "C/C++",
+        "level": "required",
+        "evidence_span": "熟练使用 C/C++ 进行软件开发"
+      },
+      {
+        "raw_name": "Linux/Unix、Socket、多线程",
+        "normalized_name": "Linux网络编程",
+        "level": "required",
+        "evidence_span": "熟悉 Linux/Unix 开发环境、常用操作命令，掌握 Socket 网络编程、多线程开发"
+      },
+      {
+        "raw_name": "TCP/IP、路由交换",
+        "normalized_name": "计算机网络",
+        "level": "expected",
+        "evidence_span": "了解 TCP/IP、路由交换等基础网络知识"
+      },
+      {
+        "raw_name": "4G/5G L3协议",
+        "normalized_name": "移动通信协议",
+        "level": "expected",
+        "evidence_span": "了解4G/5G L3(RRC/NGAP)协议"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027校招-应用软件工程师(J11126)"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "计算机、通信、电子相关专业，本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "通信",
+          "电子"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机、通信、电子相关专业"
+      }
+    ],
+    "other_explicit_conditions": []
+  },
+  {
+    "company": "中国信息通信科技集团有限公司",
+    "parent_group": "中国信息通信科技集团有限公司",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://campus.51job.com/cict2022/job.html",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-cict-wh-algorithm-research-j11138",
+    "title": "2027校招-算法研究工程师(J11138)",
+    "responsibilities": [
+      {
+        "normalized_label": "无线通信算法研发",
+        "evidence_span": "无线移动通信产品算法研究、设计、评估、支持产品化落地"
+      },
+      {
+        "normalized_label": "卫星算法研发",
+        "evidence_span": "卫星产品算法研究、设计、评估、支持产品化落地"
+      },
+      {
+        "normalized_label": "人工智能算法研发",
+        "evidence_span": "人工智能产品算法研究、设计、评估、支持产品化落地"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "C/C++、Python",
+        "normalized_name": "C/C++与Python",
+        "level": "required",
+        "evidence_span": "精通使用C/C++、Python等语言"
+      },
+      {
+        "raw_name": "tensorflow/keras/pytorch",
+        "normalized_name": "深度学习框架",
+        "level": "required",
+        "evidence_span": "熟练使用tensorflow/keras/pytorch"
+      },
+      {
+        "raw_name": "统计学习、深度学习、强化学习或大语言模型",
+        "normalized_name": "机器学习算法",
+        "level": "required",
+        "evidence_span": "基本业务技能，要求至少掌握以下一项"
+      },
+      {
+        "raw_name": "AI/机器学习在电信领域的项目实践",
+        "normalized_name": "通信AI项目经验",
+        "level": "preferred",
+        "evidence_span": "具有人工智能/机器学习在电信领域的项目实践经验"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027校招-算法研究工程师(J11138)"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "通信或电子；硕士及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "通信",
+          "电子"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业及学历要求：通信或电子"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英文论文读写",
+        "evidence_span": "熟练读写英文论文"
+      }
+    ]
+  },
+  {
+    "company": "中国信息通信科技集团有限公司",
+    "parent_group": "中国信息通信科技集团有限公司",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://campus.51job.com/cict2022/job.html",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-cict-wh-embedded-software-j11131",
+    "title": "2027校招-嵌入式软件工程师(J11131)",
+    "responsibilities": [
+      {
+        "normalized_label": "基站嵌入式软件开发",
+        "evidence_span": "负责公司5G/6G基站的基带处理单元（BBU）或者射频拉远单元（AAU/RRU）相关产品的嵌入式软件开发、升级和维护"
+      },
+      {
+        "normalized_label": "卫星产品嵌入式开发",
+        "evidence_span": "负责公司卫星互联网/卫星终端产品的嵌入式软件开发、升级和维护"
+      },
+      {
+        "normalized_label": "软件设计编码测试",
+        "evidence_span": "负责基站及衍生产品的嵌入式方向的软件设计、编码、单元测试，测试用例编写等工作"
+      },
+      {
+        "normalized_label": "设备维护与技术支持",
+        "evidence_span": "负责公司基站的相关商用设备的维护和技术支持工作"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "C/C++",
+        "normalized_name": "C/C++",
+        "level": "required",
+        "evidence_span": "精通C/C++语言编程"
+      },
+      {
+        "raw_name": "Linux嵌入式开发",
+        "normalized_name": "Linux嵌入式开发",
+        "level": "required",
+        "evidence_span": "熟悉Linux操作系统下嵌入式软件开发流程"
+      },
+      {
+        "raw_name": "ARM或X86 Linux内核驱动",
+        "normalized_name": "Linux驱动开发",
+        "level": "required",
+        "evidence_span": "具有ARM处理器或X86处理器Linux系统内核驱动开发调试经验"
+      },
+      {
+        "raw_name": "GPIO、I2C、SPI、PCIE、CAN",
+        "normalized_name": "嵌入式外设调试",
+        "level": "required",
+        "evidence_span": "熟悉常见外设如GPIO、I2C、SPI、PCIE、CAN、中断等控制器的调试"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027校招-嵌入式软件工程师(J11131)"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "计算机/电子信息/通信工程相关专业本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "电子信息",
+          "通信工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机/电子信息/通信工程相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语四级",
+        "evidence_span": "CET-4及以上，能阅读并理解英文文档"
+      }
+    ]
+  },
+  {
+    "company": "中国信息通信科技集团有限公司",
+    "parent_group": "中国信息通信科技集团有限公司",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://campus.51job.com/cict2022/job.html",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-cict-wh-solution-manager-j11116",
+    "title": "2027校招-解决方案经理(J11116)",
+    "responsibilities": [
+      {
+        "normalized_label": "市场洞察分析",
+        "evidence_span": "持续收集行业政策、技术趋势、客户及竞品信息，研判市场态势、客户痛点与转型机会"
+      },
+      {
+        "normalized_label": "市场策略与方案建设",
+        "evidence_span": "负责细分市场规划、年度及中长期策略与产品方案路标制定"
+      },
+      {
+        "normalized_label": "解决方案设计",
+        "evidence_span": "根据客户需求定制端到端信息化解决方案，完成需求拆解、导入与迭代优化"
+      },
+      {
+        "normalized_label": "售前项目运作",
+        "evidence_span": "负责标前引导、技术规范应答、招投标材料编制、方案宣讲与报价分析"
+      },
+      {
+        "normalized_label": "方案商业化落地",
+        "evidence_span": "负责解决方案及新产品市场推广落地，制定推广及出货策略"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "方案撰写、PPT制作、客户宣讲",
+        "normalized_name": "解决方案表达",
+        "level": "required",
+        "evidence_span": "具备方案撰写、PPT制作、客户宣讲汇报能力"
+      },
+      {
+        "raw_name": "市场分析与方案输出",
+        "normalized_name": "市场分析",
+        "level": "required",
+        "evidence_span": "可独立完成市场分析与方案输出"
+      },
+      {
+        "raw_name": "沟通协调与项目推进",
+        "normalized_name": "项目推进",
+        "level": "required",
+        "evidence_span": "具备良好市场敏感度、沟通协调与项目推进能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027校招-解决方案经理(J11116)"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机",
+          "通信",
+          "软件工程",
+          "电子信息"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机、通信、软件工程等电子信息大类专业"
+      }
+    ],
+    "other_explicit_conditions": []
+  },
+  {
+    "company": "中航技进出口有限责任公司",
+    "parent_group": "中国航空工业集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://catic.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-avic-catic-bj-information-j2027",
+    "title": "中航技2027届校园招聘-信息化岗",
+    "responsibilities": [
+      {
+        "normalized_label": "信息化技术开发",
+        "evidence_span": "信息化相关技术开发"
+      },
+      {
+        "normalized_label": "信息系统运行维护",
+        "evidence_span": "运行维护"
+      },
+      {
+        "normalized_label": "信息化项目管理",
+        "evidence_span": "项目管理"
+      },
+      {
+        "normalized_label": "流程建设",
+        "evidence_span": "流程建设"
+      },
+      {
+        "normalized_label": "数据治理",
+        "evidence_span": "数据治理"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中航技2027届校园招聘-信息化岗"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "软件工程",
+          "电子信息工程",
+          "信息管理与信息系统",
+          "人工智能",
+          "管理科学与工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "需求专业：计算机科学与技术、软件工程、电子信息工程、信息管理与信息系统、人工智能、管理科学与工程等"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "中英文沟通",
+        "evidence_span": "出色的中英文口头和书面沟通能力"
+      },
+      {
+        "normalized_label": "海外常驻",
+        "evidence_span": "接受海外常驻"
+      }
+    ]
+  },
+  {
+    "company": "中航技进出口有限责任公司",
+    "parent_group": "中国航空工业集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://catic.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+    "title": "中航技2027届校园招聘 - 军贸业务岗（理工类）",
+    "responsibilities": [
+      {
+        "normalized_label": "军贸项目执行",
+        "evidence_span": "军贸项目执行"
+      },
+      {
+        "normalized_label": "市场营销",
+        "evidence_span": "包括市场营销"
+      },
+      {
+        "normalized_label": "产品发展",
+        "evidence_span": "产品发展"
+      },
+      {
+        "normalized_label": "服务保障",
+        "evidence_span": "服务保障"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中航技2027届校园招聘 - 军贸业务岗（理工类）"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "航空航天",
+          "航空装备",
+          "电子信息",
+          "通信",
+          "控制科学与工程",
+          "自动化",
+          "机械",
+          "计算机",
+          "人工智能",
+          "管理科学与工程",
+          "工业工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "需求专业：航空航天类、航空装备类、航空宇航科学与技术类、兵器类、电子信息类、电子科学与技术类、通信类、控制科学与工程类、仪器科学与技术类、自动化类、机械类、能源动力类、计算机类、人工智能、管理科学与工程类、工业工程类、理学类等"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "中英文沟通",
+        "evidence_span": "出色的中英文口头和书面沟通能力"
+      },
+      {
+        "normalized_label": "海外常驻",
+        "evidence_span": "接受海外常驻"
+      },
+      {
+        "normalized_label": "国内外出差",
+        "evidence_span": "接受国内外出差、海外常驻"
+      }
+    ]
+  },
+  {
+    "company": "中航技进出口有限责任公司",
+    "parent_group": "中国航空工业集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "source": {
+      "url": "https://catic.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    },
+    "job_id": "corpus-avic-catic-bj-quality-airworthiness-j2027",
+    "title": "中航技2027届校园招聘 - 军贸业务岗（质量、适航类）",
+    "responsibilities": [
+      {
+        "normalized_label": "质量监督",
+        "evidence_span": "质量监督"
+      },
+      {
+        "normalized_label": "适航审定",
+        "evidence_span": "适航审定"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中航技2027届校园招聘 - 军贸业务岗（质量、适航类）"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "航空航天",
+          "质量与可靠性",
+          "适航技术"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "需求专业：航空航天类、质量与可靠性、适航技术等"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "中英文沟通",
+        "evidence_span": "出色的中英文口头和书面沟通能力"
+      },
+      {
+        "normalized_label": "海外常驻",
+        "evidence_span": "接受海外常驻"
+      },
+      {
+        "normalized_label": "国内外出差",
+        "evidence_span": "接受国内外出差、海外常驻"
+      }
+    ]
+  },
+  {
+    "job_id": "corpus-cnnc-sh-technology-validation-j31010",
+    "title": "中核同创（上海）-技术验证工程师岗(J31010)",
+    "company": "中核同创（上海）科技发展有限公司",
+    "parent_group": "中国核工业集团有限公司",
+    "locations": [
+      "上海-青浦区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "核技术成果转化",
+        "evidence_span": "负责核技术项目的成果转化"
+      },
+      {
+        "normalized_label": "技术验证管理",
+        "evidence_span": "验证管理"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "相关项目经验",
+        "normalized_name": "核技术项目经验",
+        "level": "preferred",
+        "evidence_span": "具有相关项目经验者优先"
+      },
+      {
+        "raw_name": "SCI/EI论文",
+        "normalized_name": "科研成果",
+        "level": "required",
+        "evidence_span": "发表SCI/EI论文1篇以上"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中核集团2027届秋季校园招聘招聘对象：2027届博士研究生、硕士研究生、本科生"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "2027届应届毕业生，硕士及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "核科学与技术",
+          "电气工程",
+          "生物学",
+          "生物医学工程",
+          "临床医学"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "核科学与技术、电气工程、生物学、生物医学工程、临床医学等相关专业大类"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语四级",
+        "evidence_span": "CET-4"
+      }
+    ],
+    "source": {
+      "url": "https://cnnc.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cnnc-bj-structural-engineer-j30976",
+    "title": "中核能源-结构工程师(J30976)",
+    "company": "中核能源科技有限公司",
+    "parent_group": "中国核工业集团有限公司",
+    "locations": [
+      "北京-海淀区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "核岛结构全流程设计",
+        "evidence_span": "核岛及核岛辅助子项建（构）筑物的混凝土结构、钢结构全流程设计"
+      },
+      {
+        "normalized_label": "跨专业接口协调",
+        "evidence_span": "结构设计相关的跨专业接口对接、协调等工作"
+      },
+      {
+        "normalized_label": "施工技术服务",
+        "evidence_span": "技术交底、施工技术服务"
+      },
+      {
+        "normalized_label": "结构优化研究",
+        "evidence_span": "结构设计优化，结构技术的创新性研究"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "CAD",
+        "normalized_name": "CAD",
+        "level": "required",
+        "evidence_span": "会CAD软件"
+      },
+      {
+        "raw_name": "有限元分析软件",
+        "normalized_name": "有限元分析",
+        "level": "required",
+        "evidence_span": "掌握有限元分析软件"
+      },
+      {
+        "raw_name": "核电相关课题经历",
+        "normalized_name": "核电项目经验",
+        "level": "preferred",
+        "evidence_span": "有核电相关课题经历加分"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中核集团2027届秋季校园招聘招聘对象：2027届博士研究生、硕士研究生、本科生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "土木工程",
+          "结构工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "土木工程（结构工程）及其相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语六级",
+        "evidence_span": "通过大学英语CET-6考试"
+      }
+    ],
+    "source": {
+      "url": "https://cnnc.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cnnc-bj-electrical-engineer-j30977",
+    "title": "中核能源-电气工程师(J30977)",
+    "company": "中核能源科技有限公司",
+    "parent_group": "中国核工业集团有限公司",
+    "locations": [
+      "北京-海淀区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "核动力厂电气设计",
+        "evidence_span": "完成核动力厂电气系统设计、设备布置和安装设计任务"
+      },
+      {
+        "normalized_label": "电气科研",
+        "evidence_span": "完成电气及其相关科研课题研究工作"
+      },
+      {
+        "normalized_label": "设计协调",
+        "evidence_span": "完成专业有关的设计协调工作"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "AutoCAD、ETAP",
+        "normalized_name": "电气设计工具",
+        "level": "preferred",
+        "evidence_span": "熟练使用AutoCAD、ETAP等电气设计工具者优先"
+      },
+      {
+        "raw_name": "电气设计实习经验",
+        "normalized_name": "电气设计经验",
+        "level": "preferred",
+        "evidence_span": "有电气设计相关实习经验者优先"
+      },
+      {
+        "raw_name": "电路分析、电机学、工厂供电、继电保护、自动控制",
+        "normalized_name": "电气工程基础",
+        "level": "required",
+        "evidence_span": "熟悉电路分析、电机学、工厂供电、继电保护、自动控制等课程内容"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中核集团2027届秋季校园招聘招聘对象：2027届博士研究生、硕士研究生、本科生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "电气工程及其自动化"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "电气工程及其自动化相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语六级",
+        "evidence_span": "通过大学英语六级CET-6考试"
+      }
+    ],
+    "source": {
+      "url": "https://cnnc.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cnnc-bj-system-design-j30979",
+    "title": "中核能源-系统设计工程师(J30979)",
+    "company": "中核能源科技有限公司",
+    "parent_group": "中国核工业集团有限公司",
+    "locations": [
+      "北京-海淀区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "核岛工艺系统设计研发",
+        "evidence_span": "参与核岛工艺系统的方案设计和研发"
+      },
+      {
+        "normalized_label": "热工水力计算与设备选型",
+        "evidence_span": "完成热工水力计算和设备、阀门选型等相关工作"
+      },
+      {
+        "normalized_label": "设计文件编制",
+        "evidence_span": "编制系统手册、设计说明书、技术规格书等设计文件"
+      },
+      {
+        "normalized_label": "专业接口协调",
+        "evidence_span": "组织协调工艺系统相关的专业接口和工艺参数"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "流体、热工计算",
+        "normalized_name": "热工水力计算",
+        "level": "expected",
+        "evidence_span": "有流体、热工计算经历"
+      },
+      {
+        "raw_name": "P&ID、AutoCAD或三维设计软件",
+        "normalized_name": "工艺系统设计工具",
+        "level": "required",
+        "evidence_span": "了解P&ID流程图绘制，可熟练使用AutoCAD或三维设计软件"
+      },
+      {
+        "raw_name": "核电工艺系统设计",
+        "normalized_name": "核电系统设计经验",
+        "level": "preferred",
+        "evidence_span": "参与过核电工艺系统设计优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中核集团2027届秋季校园招聘招聘对象：2027届博士研究生、硕士研究生、本科生"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "核能、热动、机械相关专业，硕士以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "核能",
+          "热动",
+          "机械"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "核能、热动、机械相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语六级",
+        "evidence_span": "通过大学英语六级CET-6考试"
+      }
+    ],
+    "source": {
+      "url": "https://cnnc.zhiye.com/campus/jobs",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cssc-sh-general-process",
+    "title": "总体工艺工程师",
+    "company": "中国船舶集团有限公司第十一研究所",
+    "parent_group": "中国船舶集团有限公司",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "先进建造工艺项目论证",
+        "evidence_span": "负责船舶先进建造工艺科研项目的论证、申报"
+      },
+      {
+        "normalized_label": "工艺技术与算法研发",
+        "evidence_span": "负责船舶先进建造工艺技术研究、算法开发等"
+      },
+      {
+        "normalized_label": "试验验证能力建设",
+        "evidence_span": "负责船舶先进建造工艺研发试验验证等能力建设"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "机器学习、深度学习",
+        "normalized_name": "机器学习",
+        "level": "required",
+        "evidence_span": "熟练掌握机器学习、深度学习基础理论"
+      },
+      {
+        "raw_name": "算法开发语言及主流框架",
+        "normalized_name": "算法开发",
+        "level": "required",
+        "evidence_span": "熟练使用一种语言开展算法开发，掌握主流框架"
+      },
+      {
+        "raw_name": "ABAQUS、ANSYS、Patran",
+        "normalized_name": "有限元分析软件",
+        "level": "expected",
+        "evidence_span": "熟练使用ABAQUS、ANSYS、Patran等结构分析有限元软件"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国船舶集团有限公司2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "船舶与海洋工程",
+          "轮机工程",
+          "力学",
+          "人工智能"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "船舶与海洋工程、轮机工程、力学、人工智能等相关专业优先"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语六级",
+        "evidence_span": "英语CET-6级以上"
+      }
+    ],
+    "source": {
+      "url": "https://cssc.zhaopin.com/job/index.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cssc-wh-fuel-cell-control",
+    "title": "氢能与燃料电池研发工程师",
+    "company": "中国船舶集团有限公司第七一二研究所",
+    "parent_group": "中国船舶集团有限公司",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "燃料电池控制系统设计",
+        "evidence_span": "燃料电池控制系统设计"
+      },
+      {
+        "normalized_label": "能源管理技术研究",
+        "evidence_span": "研究燃料电池控制能源管理技术，提升燃料电池装备应用可靠性"
+      },
+      {
+        "normalized_label": "系统层控制设计",
+        "evidence_span": "开展系统层面控制的设计，包括主电回路、配电、控制网络架构、安全保护、控制策略设计"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "控制系统设计",
+        "normalized_name": "控制系统设计",
+        "level": "required",
+        "evidence_span": "控制系统设计、工程实践经验"
+      },
+      {
+        "raw_name": "船舶或新能源汽车电气控制系统设计、智能控制开发",
+        "normalized_name": "电气与智能控制经验",
+        "level": "preferred",
+        "evidence_span": "有从事船舶或新能源汽车行业电气控制系统设计、智能控制开发经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国船舶集团有限公司2027届校园招聘"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "控制科学与工程",
+          "电气",
+          "智能控制"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "控制科学与工程类、电气类、智能控制等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://cssc.zhaopin.com/job/index.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cssc-sh-intelligent-underwater-acoustics",
+    "title": "智能化水声信号处理",
+    "company": "中国船舶集团有限公司第七二六研究所",
+    "parent_group": "中国船舶集团有限公司",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "水声信号处理算法研发",
+        "evidence_span": "负责水声信号处理算法的设计、研发与优化"
+      },
+      {
+        "normalized_label": "算法仿真与工程化",
+        "evidence_span": "承担水声信号处理算法的仿真建模、性能验证与工程化落地实现"
+      },
+      {
+        "normalized_label": "外场试验与数据分析",
+        "evidence_span": "参与海上试验、湖试等外场试验任务，负责试验数据采集、处理分析与结果复盘"
+      },
+      {
+        "normalized_label": "目标识别技术研究",
+        "evidence_span": "负责水声信号特征提取、目标识别相关技术研究"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "MATLAB/Python",
+        "normalized_name": "MATLAB与Python",
+        "level": "required",
+        "evidence_span": "熟练使用 MATLAB / Python 进行算法仿真与数据分析"
+      },
+      {
+        "raw_name": "C/C++",
+        "normalized_name": "C/C++",
+        "level": "required",
+        "evidence_span": "掌握 C/C++ 编程语言"
+      },
+      {
+        "raw_name": "Bellhop、Kraken",
+        "normalized_name": "水声仿真软件",
+        "level": "preferred",
+        "evidence_span": "熟悉水声仿真软件（如 Bellhop、Kraken）者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国船舶集团有限公司2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "水声工程",
+          "信号与信息处理",
+          "通信工程",
+          "应用物理"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "水声工程、信号与信息处理、通信工程、应用物理等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语六级",
+        "evidence_span": "大学英语六级及以上"
+      },
+      {
+        "normalized_label": "年龄要求",
+        "evidence_span": "年龄：28岁以下"
+      }
+    ],
+    "source": {
+      "url": "https://cssc.zhaopin.com/job/index.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cssc-bj-ai-data-research",
+    "title": "人工智能开发与数据应用研究员",
+    "company": "中国船舶集团有限公司综合技术经济研究院",
+    "parent_group": "中国船舶集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "数智化转型规划",
+        "evidence_span": "数智化转型规划"
+      },
+      {
+        "normalized_label": "数智化项目管理",
+        "evidence_span": "数智化项目申报及管理"
+      },
+      {
+        "normalized_label": "AI技术预研与落地",
+        "evidence_span": "AI技术预研及落地等"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python、C++、Java",
+        "normalized_name": "Python/C++/Java",
+        "level": "required",
+        "evidence_span": "熟练掌握Python、C++、Java等至少一种主流编程语言"
+      },
+      {
+        "raw_name": "人工智能相关项目背景",
+        "normalized_name": "AI项目经验",
+        "level": "required",
+        "evidence_span": "具有人工智能相关项目背景"
+      },
+      {
+        "raw_name": "大厂人工智能项目实习经验",
+        "normalized_name": "AI实习经验",
+        "level": "preferred",
+        "evidence_span": "有大厂人工智能项目实习经验优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国船舶集团有限公司2027届校园招聘"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://cssc.zhaopin.com/job/index.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-cssc-gz-electrical-engineer",
+    "title": "电气工程师",
+    "company": "广船国际有限公司",
+    "parent_group": "中国船舶集团有限公司",
+    "locations": [
+      "广州"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "船舶电气系统设计",
+        "evidence_span": "负责船舶电气系统（如动力、照明、导航等）的方案设计与优化"
+      },
+      {
+        "normalized_label": "电气图纸与三维建模",
+        "evidence_span": "完成电气原理图绘制、设备选型及三维电气布置建模"
+      },
+      {
+        "normalized_label": "系统协同与调试",
+        "evidence_span": "参与电气设备调试，解决设计及施工中的电气技术问题"
+      },
+      {
+        "normalized_label": "技术文档与现场支持",
+        "evidence_span": "编制电气设计说明书、调试手册等技术文档，为现场施工提供电气技术指导"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "AutoCAD Electrical、EPLAN",
+        "normalized_name": "电气设计软件",
+        "level": "required",
+        "evidence_span": "精通至少一种船舶电气设计软件（如 AutoCAD Electrical、EPLAN）"
+      },
+      {
+        "raw_name": "电气仿真或PLC编程",
+        "normalized_name": "电气仿真与PLC",
+        "level": "preferred",
+        "evidence_span": "熟悉电气仿真或 PLC 编程者优先"
+      },
+      {
+        "raw_name": "IEC、ABS、DNV",
+        "normalized_name": "船舶电气规范",
+        "level": "required",
+        "evidence_span": "熟悉船舶建造流程及国际电气规范（IEC、ABS、DNV 等）"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国船舶集团有限公司2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "船舶电气与电子工程",
+          "电气工程及其自动化",
+          "自动化",
+          "电子信息工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "船舶电气与电子工程（优先）、电气工程及其自动化、自动化、电子信息工程相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语能力",
+        "evidence_span": "英语良好，可阅读英文电气规范与技术文档"
+      }
+    ],
+    "source": {
+      "url": "https://cssc.zhaopin.com/job/index.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-casic-guiyang-ground-software-development",
+    "title": "地面软件开发设计师",
+    "company": "中国航天科工集团第十总体设计部",
+    "parent_group": "中国航天科工集团有限公司",
+    "locations": [
+      "贵阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "指控软件架构与产品研制",
+        "evidence_span": "负责开展地面装备指挥控制系统软件产品架构设计及部门相关产品研制工作"
+      },
+      {
+        "normalized_label": "软件工程技术研究",
+        "evidence_span": "负责开展软件工程技术研究工作"
+      },
+      {
+        "normalized_label": "先进开发模式研究",
+        "evidence_span": "负责开展先进软件开发模式研究及应用"
+      },
+      {
+        "normalized_label": "前沿技术研究与课题申报",
+        "evidence_span": "负责软件及信息设备总体设计前沿技术研究，申报相关课题"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "软件开发、测试及计算机硬件",
+        "normalized_name": "软件全栈基础",
+        "level": "required",
+        "evidence_span": "具有软件开发、测试及计算机硬件等相关基础知识"
+      },
+      {
+        "raw_name": "软件架构设计",
+        "normalized_name": "软件架构设计",
+        "level": "required",
+        "evidence_span": "具有软件架构设计，国产操作系统（如麒麟、鸿蒙等）应用软件开发经验"
+      },
+      {
+        "raw_name": "麒麟、鸿蒙",
+        "normalized_name": "国产操作系统开发",
+        "level": "required",
+        "evidence_span": "具有软件架构设计，国产操作系统（如麒麟、鸿蒙等）应用软件开发经验"
+      },
+      {
+        "raw_name": "模型驱动、敏捷、边缘云、面向服务开发",
+        "normalized_name": "先进软件开发方法",
+        "level": "preferred",
+        "evidence_span": "具有模型驱动的软件开发、敏捷软件开发、智能计算系统、边缘云、面向服务的软件开发等方向研究经验优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国航天科工集团第十总体设计部2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：硕士"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "软件工程",
+          "数据科学与大数据技术",
+          "人工智能",
+          "信息与通信工程",
+          "控制科学与工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业需求：计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、信息与通信工程、控制科学与工程等相关专业。"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://campus.51job.com/302casic/job.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-casic-guiyang-intelligent-software-testing",
+    "title": "智能软件测试设计师",
+    "company": "中国航天科工集团第十总体设计部",
+    "parent_group": "中国航天科工集团有限公司",
+    "locations": [
+      "贵阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "智能软件数据测试",
+        "evidence_span": "负责开展智能软件数据测试"
+      },
+      {
+        "normalized_label": "模型算法测试",
+        "evidence_span": "负责开展智能软件模型算法测试"
+      },
+      {
+        "normalized_label": "智能软件测试研究",
+        "evidence_span": "负责开展智能软件测试技术研究"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Oracle、SQL server、My SQL",
+        "normalized_name": "关系型数据库",
+        "level": "required",
+        "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具"
+      },
+      {
+        "raw_name": "数据工程开发或大模型微调",
+        "normalized_name": "数据工程/大模型微调",
+        "level": "required",
+        "evidence_span": "具备数据工程开发能力或大模型微调能力"
+      },
+      {
+        "raw_name": "智能模型、算法训练",
+        "normalized_name": "模型与算法训练",
+        "level": "required",
+        "evidence_span": "具有较好的智能模型、算法训练能力和数据集构建能力"
+      },
+      {
+        "raw_name": "数据集构建",
+        "normalized_name": "数据集构建",
+        "level": "required",
+        "evidence_span": "具有较好的智能模型、算法训练能力和数据集构建能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国航天科工集团第十总体设计部2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：硕士"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "信息管理与信息系统",
+          "软件工程",
+          "大数据",
+          "人工智能"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://campus.51job.com/302casic/job.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-casic-guiyang-network-information-security",
+    "title": "网络与信息安全设计师",
+    "company": "中国航天科工集团第十总体设计部",
+    "parent_group": "中国航天科工集团有限公司",
+    "locations": [
+      "贵阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "信息化环境运维",
+        "evidence_span": "负责信息化基础环境（四网、应用平台、信息设备、存储设备等）的运行维护，保障软硬件环境正常运行"
+      },
+      {
+        "normalized_label": "基础环境规划建设",
+        "evidence_span": "负责信息化基础环境的规划论证，建设实施"
+      },
+      {
+        "normalized_label": "巡检监测和值守",
+        "evidence_span": "负责信息化基础环境的巡检、预警监测、值班值守"
+      },
+      {
+        "normalized_label": "运维技术研究应用",
+        "evidence_span": "负责信息系统运维相关信息技术研究与应用"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "服务器、操作系统、数据库、中间件、存储设备、安全产品",
+        "normalized_name": "IT基础设施",
+        "level": "required",
+        "evidence_span": "熟悉较强服务器、计算机、操作系统、数据库、中间件、存储设备、安全产品等理论知识与技术技能"
+      },
+      {
+        "raw_name": "大模型、云平台、容器、虚拟化",
+        "normalized_name": "云原生与智能运维",
+        "level": "required",
+        "evidence_span": "掌握服务器、计算机、网络设备、存储设备等硬件以及大模型、云平台、容器、虚拟化、应用系统、数据库、中间件、操作系统、常用工具等软件平台的运维能力"
+      },
+      {
+        "raw_name": "自动化运维脚本、运维工具平台开发",
+        "normalized_name": "自动化运维开发",
+        "level": "required",
+        "evidence_span": "具备信息化基础设施设备的规划论证能力，自动化运维脚本、运维工具平台开发、大模型应用等能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国航天科工集团第十总体设计部2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：硕士"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "信息管理与信息系统",
+          "软件工程",
+          "大数据",
+          "人工智能",
+          "集成电路科学与工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能、集成电路科学与工程等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://campus.51job.com/302casic/job.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-casic-guiyang-fpga-software-testing",
+    "title": "FPGA软件测试设计师",
+    "company": "中国航天科工集团第十总体设计部",
+    "parent_group": "中国航天科工集团有限公司",
+    "locations": [
+      "贵阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "FPGA测试分析与设计",
+        "evidence_span": "负责按照要求开展FPGA软件测试需求分析和策划，测试设计和实现"
+      },
+      {
+        "normalized_label": "测试激励与工具研制",
+        "evidence_span": "负责开展通用测试激励构建工作，FPGA软件测试工具研制工作"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "VHDL、Verilog HDL",
+        "normalized_name": "硬件描述语言",
+        "level": "required",
+        "evidence_span": "熟悉VHDL、Verilog HDL语言"
+      },
+      {
+        "raw_name": "数字电路、模拟电路、数字通信原理",
+        "normalized_name": "电子电路与通信基础",
+        "level": "required",
+        "evidence_span": "熟悉数字电路、模拟电路、数字通信原理等相关专业知识"
+      },
+      {
+        "raw_name": "FPGA软件开发",
+        "normalized_name": "FPGA开发",
+        "level": "required",
+        "evidence_span": "具有较好的FPGA软件开发经验"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国航天科工集团第十总体设计部2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：硕士"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "信号与信息处理",
+          "电路与系统",
+          "测试计量技术及仪器"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业需求：信号与信息处理、电路与系统、测试计量技术及仪器等。"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://campus.51job.com/302casic/job.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-casic-guiyang-engineering-ai-platform",
+    "title": "工程信息化系统开发与应用设计师",
+    "company": "中国航天科工集团第十总体设计部",
+    "parent_group": "中国航天科工集团有限公司",
+    "locations": [
+      "贵阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "领域大模型微调",
+        "evidence_span": "领域大模型训练与微调"
+      },
+      {
+        "normalized_label": "大模型数据集构建",
+        "evidence_span": "领域大模型训练数据集构建"
+      },
+      {
+        "normalized_label": "智能体平台开发",
+        "evidence_span": "智能体训练平台开发"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Oracle、SQL server、My SQL",
+        "normalized_name": "关系型数据库",
+        "level": "required",
+        "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具"
+      },
+      {
+        "raw_name": "Tomcat、.net、IIS",
+        "normalized_name": "应用中间件",
+        "level": "required",
+        "evidence_span": "熟悉Tomcat、.net、IIS等中间件的操作配置"
+      },
+      {
+        "raw_name": "信息化项目管理、软件开发流程、网络及信息安全",
+        "normalized_name": "信息化项目与安全",
+        "level": "required",
+        "evidence_span": "熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识"
+      },
+      {
+        "raw_name": "数据工程开发或大模型微调",
+        "normalized_name": "数据工程/大模型微调",
+        "level": "required",
+        "evidence_span": "具备数据工程开发能力或大模型微调能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国航天科工集团第十总体设计部2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：硕士"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "信息管理与信息系统",
+          "软件工程",
+          "大数据",
+          "人工智能",
+          "集成电路科学与工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能、集成电路科学与工程等相关专业。"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://campus.51job.com/302casic/job.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-norinco-nanjing-embedded-algorithm-j14678",
+    "title": "算法工程师(J14678)",
+    "company": "中国兵器工业集团江山重工研究院有限公司",
+    "parent_group": "中国兵器工业集团有限公司",
+    "locations": [
+      "南京-江宁区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "电机伺服控制算法开发",
+        "evidence_span": "负责电机伺服控制算法在嵌入式平台上的开发、调试与验证"
+      },
+      {
+        "normalized_label": "多源传感器标定与融合",
+        "evidence_span": "负责摄像头、激光雷达等多源传感器的参数标定算法开发及数据融合算法实现"
+      },
+      {
+        "normalized_label": "嵌入式算法部署优化",
+        "evidence_span": "负责相关算法在嵌入式平台上的轻量化部署、资源优化与性能调优"
+      },
+      {
+        "normalized_label": "嵌入式软件全流程开发",
+        "evidence_span": "参与嵌入式软件开发全流程，包括需求分析、模块设计、编码实现、单元测试及软硬件协同验证"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "C/C++",
+        "normalized_name": "C/C++",
+        "level": "required",
+        "evidence_span": "熟悉C/C++语言"
+      },
+      {
+        "raw_name": "ARM Cortex-M/A、国产MCU",
+        "normalized_name": "嵌入式平台与工具链",
+        "level": "required",
+        "evidence_span": "掌握嵌入式开发常用平台（如ARM Cortex-M/A系列、国产MCU等）及开发工具链"
+      },
+      {
+        "raw_name": "FOC、PID、SVPWM",
+        "normalized_name": "电机控制算法",
+        "level": "required",
+        "evidence_span": "具备电机控制算法（如FOC、PID、SVPWM等）或传感器标定与多源融合（如卡尔曼滤波、图优化等）相关项目经验"
+      },
+      {
+        "raw_name": "卡尔曼滤波、图优化",
+        "normalized_name": "多源融合算法",
+        "level": "required",
+        "evidence_span": "具备电机控制算法（如FOC、PID、SVPWM等）或传感器标定与多源融合（如卡尔曼滤波、图优化等）相关项目经验"
+      },
+      {
+        "raw_name": "FreeRTOS、RT-Thread",
+        "normalized_name": "嵌入式实时操作系统",
+        "level": "expected",
+        "evidence_span": "了解嵌入式实时操作系统（如FreeRTOS、RT-Thread等）或裸机开发模式"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "控制科学与工程",
+          "自动化",
+          "人工智能",
+          "计算机科学与技术",
+          "电子信息工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "控制科学与工程、自动化、人工智能、计算机科学与技术、电子信息工程等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqgy2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-norinco-xiangyang-digital-manufacturing-j14686",
+    "title": "数智化制造师(J14686)",
+    "company": "中国兵器工业集团江山重工研究院有限公司",
+    "parent_group": "中国兵器工业集团有限公司",
+    "locations": [
+      "襄阳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "数字化质量检测",
+        "evidence_span": "操作数字化检测设备开展产品精度检验，依据预设标准触发质量预警机制，并协同完成异常数据追溯与闭环处理"
+      },
+      {
+        "normalized_label": "MES排产与工单管理",
+        "evidence_span": "在MES系统中维护工时、产能等基础生产参数，执行日常排产任务，独立完成工单创建、下达、执行跟踪及闭环管理"
+      },
+      {
+        "normalized_label": "产线监控与资源调度",
+        "evidence_span": "实时监控产线运行状态，针对设备故障、人员缺勤等突发情况，及时在系统中进行资源调度、指令推送与执行反馈跟进"
+      },
+      {
+        "normalized_label": "在线检测数据分析",
+        "evidence_span": "负责数字化在线检测设备数据分析与处理"
+      },
+      {
+        "normalized_label": "制造主数据维护",
+        "evidence_span": "维护BOM结构、工艺路线等核心主数据，保障现场数据采集与系统流转的准确性与时效性"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "MES系统",
+        "normalized_name": "MES",
+        "level": "required",
+        "evidence_span": "在MES系统中维护工时、产能等基础生产参数"
+      },
+      {
+        "raw_name": "Office（Word、Excel、PowerPoint）",
+        "normalized_name": "Office办公软件",
+        "level": "required",
+        "evidence_span": "熟练使用Office办公软件（Word、Excel、PowerPoint）"
+      },
+      {
+        "raw_name": "MES模拟平台",
+        "normalized_name": "工业软件",
+        "level": "preferred",
+        "evidence_span": "有制造业企业实习经历、校内智能制造相关项目实践或工业软件（如MES模拟平台）操作经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "机械制造",
+          "智能制造"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "机械制造、智能制造等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqgy2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-norinco-shijiazhuang-rd-technology-j15357",
+    "title": "研发技术(J15357)",
+    "company": "河北太行机械工业有限公司",
+    "parent_group": "中国兵器工业集团有限公司",
+    "locations": [
+      "石家庄"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "科研项目规划与立项",
+        "evidence_span": "参与公司科研产品开发方向规划、编制科研项目的可行性方案、立项评审"
+      },
+      {
+        "normalized_label": "产品控制方案与设计文件",
+        "evidence_span": "参与制定产品控制方案，负责设计、校核产品设计技术文件，参与方案评审、鉴定评审、评审意见落实"
+      },
+      {
+        "normalized_label": "新产品试制与问题解决",
+        "evidence_span": "参加新产品试制、试验，进行技术指导，并解决试制中的产品设计问题"
+      },
+      {
+        "normalized_label": "产品改进与生产技术支持",
+        "evidence_span": "处理、解决现行生产中相关的技术问题，并进行技术协调"
+      },
+      {
+        "normalized_label": "技术状态管理",
+        "evidence_span": "对现行产品、在研产品的技术状态进行管理，并按规定对产品技术文件归档"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "CAXA、CAD、UG",
+        "normalized_name": "机械辅助设计软件",
+        "level": "required",
+        "evidence_span": "能熟练应用办公软件、CAXA、CAD、UG等辅助设计软件"
+      },
+      {
+        "raw_name": "办公软件",
+        "normalized_name": "Office办公软件",
+        "level": "required",
+        "evidence_span": "能熟练应用办公软件、CAXA、CAD、UG等辅助设计软件"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "normalized_label": "英语四级",
+        "evidence_span": "英语具备四级及以上读、写能力"
+      }
+    ],
+    "source": {
+      "url": "https://bqgy2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-csgc-chongqing-it-engineer-j14732",
+    "title": "信息化工程师岗(J14732)",
+    "company": "重庆嘉陵特种装备有限公司",
+    "parent_group": "中国兵器装备集团有限公司",
+    "locations": [
+      "重庆-沙坪坝区"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "应用系统运维与迭代",
+        "evidence_span": "负责公司应用系统的运维、迭代优化与故障排除，保障系统稳定运行"
+      },
+      {
+        "normalized_label": "网络安全体系建设",
+        "evidence_span": "负责公司网络安全体系的规划、建设与维护等，保障公司网络、系统与数据安全"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "JAVA／PYHON",
+        "normalized_name": "Java/Python",
+        "level": "required",
+        "evidence_span": "掌握JAVA／PYHON等至少一种主流开发语言，熟悉主流开发框架"
+      },
+      {
+        "raw_name": "网络安全攻防与体系架构",
+        "normalized_name": "网络安全",
+        "level": "required",
+        "evidence_span": "熟悉网络安全攻防技术、网络安全体系架构"
+      },
+      {
+        "raw_name": "安全扫描与渗透测试工具",
+        "normalized_name": "渗透测试",
+        "level": "required",
+        "evidence_span": "熟练使用网络安全扫描与渗透测试工具，具备独立的安全事件应急处置能力"
+      },
+      {
+        "raw_name": "网络安全相关资质证书",
+        "normalized_name": "网络安全证书",
+        "level": "preferred",
+        "evidence_span": "持有网络安全相关资质证书优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqzb2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-csgc-chongqing-advanced-manufacturing-j15233",
+    "title": "先进智造工程师(J15233)",
+    "company": "重庆红宇精密工业集团有限公司",
+    "parent_group": "中国兵器装备集团有限公司",
+    "locations": [
+      "重庆"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "智能制造制度管理",
+        "evidence_span": "依据公司的发展战略需要，制定及管理公司产品工艺、智能制造相关制度"
+      },
+      {
+        "normalized_label": "数字化制造规范",
+        "evidence_span": "开展公司工艺标准化、数字化、智能化制造规范制定及管理"
+      },
+      {
+        "normalized_label": "先进工艺引进创新",
+        "evidence_span": "引进吸收再创新先进工艺技术、智能制造工艺技术"
+      },
+      {
+        "normalized_label": "产线与设备规划落地",
+        "evidence_span": "规划产线、智能制造设备等能力建设与落地应用"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "工艺仿真、PLM、ERP、MES、MOM",
+        "normalized_name": "智能制造软件",
+        "level": "required",
+        "evidence_span": "熟练掌握工艺仿真、PLM、ERP、MES、MOM等专业软件核心功能及应用逻辑"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "数字化工艺",
+          "智能制造工程",
+          "增材制造"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "专业及研究方向：数字化工艺、智能制造工程、增材制造等"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqzb2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-csgc-xian-llm-agent-j15243",
+    "title": "研发类（大模型工程化与智能体应用）(J15243)",
+    "company": "西安昆仑工业（集团）有限责任公司",
+    "parent_group": "中国兵器装备集团有限公司",
+    "locations": [
+      "西安"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "大模型与智能体技术规划",
+        "evidence_span": "牵头开展大模型与智能体（Agent）技术发展战略研究，结合装备应用需求完成技术可行性论证、演进路径设计及中长期技术路线规划"
+      },
+      {
+        "normalized_label": "模型微调与轻量化部署",
+        "evidence_span": "承担装备场景大模型微调、轻量化部署及agent总体架构搭建工作"
+      },
+      {
+        "normalized_label": "智能体总体架构",
+        "evidence_span": "设计并构建面向无人系统的智能体总体架构，实现任务分解、环境感知、动态规划、工具协同与自主决策等核心能力集成"
+      },
+      {
+        "normalized_label": "多模态与实时推理攻关",
+        "evidence_span": "攻关大模型与智能体融合应用中的关键技术瓶颈，包括但不限于多模态指令理解、长程记忆建模、实时推理优化、安全可控机制等"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Llama、Qwen、ChatGLM",
+        "normalized_name": "开源大模型",
+        "level": "required",
+        "evidence_span": "熟悉主流开源大模型（如Llama、Qwen、ChatGLM系列）"
+      },
+      {
+        "raw_name": "LangGraph、AutoGen、Microsoft Semantic Kernel",
+        "normalized_name": "Agent框架",
+        "level": "required",
+        "evidence_span": "Agent框架（如LangGraph、AutoGen、Microsoft Semantic Kernel）"
+      },
+      {
+        "raw_name": "量化、剪枝、知识蒸馏",
+        "normalized_name": "模型压缩",
+        "level": "required",
+        "evidence_span": "熟悉模型压缩（量化、剪枝、知识蒸馏）"
+      },
+      {
+        "raw_name": "vLLM、Triton Inference Server",
+        "normalized_name": "高效推理引擎",
+        "level": "required",
+        "evidence_span": "高效推理引擎（vLLM、Triton Inference Server）及边缘/嵌入式平台部署实践"
+      },
+      {
+        "raw_name": "无人平台、智能装备或军事仿真AI项目",
+        "normalized_name": "行业AI项目经验",
+        "level": "preferred",
+        "evidence_span": "有无人平台、智能装备或军事仿真等领域AI应用项目经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "博士研究生",
+        "requirement_level": "required",
+        "evidence_span": "博士研究生学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "人工智能",
+          "计算机科学",
+          "控制科学与工程",
+          "航空航天工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "人工智能、计算机科学、控制科学与工程、航空航天工程或相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqzb2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-csgc-xian-hmi-ui-j15241",
+    "title": "研发类（UI设计）(J15241)",
+    "company": "西安昆仑工业（集团）有限责任公司",
+    "parent_group": "中国兵器装备集团有限公司",
+    "locations": [
+      "西安"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "HMI需求与可行性分析",
+        "evidence_span": "参与火控系统人机界面（HMI）软件的需求分析、方案论证与技术可行性评估"
+      },
+      {
+        "normalized_label": "UI/UX与高保真原型",
+        "evidence_span": "负责火控人机界面软件的UI/UX设计、交互逻辑定义及高保真原型开发"
+      },
+      {
+        "normalized_label": "软件文档与测试设计",
+        "evidence_span": "编写符合行业规范的软件设计文档、用户手册、测试用例及版本交付文档"
+      },
+      {
+        "normalized_label": "功能调试与集成验证",
+        "evidence_span": "开展UI软件功能调试与集成验证，协同软硬件团队完成联合调试与问题闭环"
+      },
+      {
+        "normalized_label": "场景可用性优化",
+        "evidence_span": "响应并优化实际使用场景下的界面可用性与操作效率"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Qt、C# WinForms/WPF、JavaFX",
+        "normalized_name": "工业界面开发框架",
+        "level": "preferred",
+        "evidence_span": "熟悉Qt、C# WinForms/WPF、JavaFX等工业级界面开发框架者优先"
+      },
+      {
+        "raw_name": "VxWorks、Linux RT",
+        "normalized_name": "实时操作系统",
+        "level": "preferred",
+        "evidence_span": "有嵌入式系统、实时操作系统（如VxWorks、Linux RT）或军工类人机界面项目经验者优先"
+      },
+      {
+        "raw_name": "软件工程基本流程",
+        "normalized_name": "软件工程",
+        "level": "required",
+        "evidence_span": "掌握软件工程基本流程，能独立编写清晰、规范的技术文档"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国兵器2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "人机交互",
+          "软件工程",
+          "计算机科学与技术",
+          "自动化",
+          "控制科学与工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "人机交互、软件工程、计算机科学与技术、自动化、控制科学与工程或相关专业"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://bqzb2027.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-huaneng-sz-product-management",
+    "title": "产品管理岗",
+    "company": "长城证券股份有限公司",
+    "parent_group": "中国华能集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "需求调研与产品设计",
+        "evidence_span": "深入理解业务场景与用户需求，完成需求分析、竞品调研和产品方案设计，输出高质量的 PRD 文档和原型"
+      },
+      {
+        "normalized_label": "项目推进与跨团队协同",
+        "evidence_span": "协调前端、后端、测试等多方资源，制定项目计划并跟踪落地，确保产品按时交付并达成预期目标"
+      },
+      {
+        "normalized_label": "客户赋能与产品迭代",
+        "evidence_span": "通过分析客户使用情况，发现产品短板并提出改进建议，持续提升产品使用效率与准确度"
+      },
+      {
+        "normalized_label": "数据驱动与AI工具探索",
+        "evidence_span": "关注产品上线后的数据表现，通过量化分析持续优化产品体验；主动探索 AI 工具在产品设计、用户研究等环节的应用"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Axure/Figma",
+        "normalized_name": "原型工具",
+        "level": "required",
+        "evidence_span": "熟练使用原型工具（如 Axure/Figma）"
+      },
+      {
+        "raw_name": "产品实习经历或校园项目经验",
+        "normalized_name": "产品项目经验",
+        "level": "preferred",
+        "evidence_span": "有产品实习经历或校园项目经验者优先"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "华能资本长城证券股份有限公司2027年校园招聘公告"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：本科"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "金融学类",
+          "管理科学与工程类",
+          "经济学类",
+          "企业管理",
+          "计算机类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "招聘专业：金融学类，管理科学与工程类，经济学类，管理科学与工程类，企业管理（含：财务管理、市场营销、人力资源管理），计算机类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000174",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-huaneng-sz-ai-agent-development",
+    "title": "开发岗",
+    "company": "长城证券股份有限公司",
+    "parent_group": "中国华能集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "智能体模块研发",
+        "evidence_span": "基于LangGraph/AgentScope/AutoGPT等框架设计可复用的智能体模块，实现任务编排、多智能体协作及动态决策能力"
+      },
+      {
+        "normalized_label": "大模型选型优化",
+        "evidence_span": "负责大模型算法选型、优化与创新，提升模型性能"
+      },
+      {
+        "normalized_label": "模型微调适配",
+        "evidence_span": "针对业务场景，对大模型进行微调，完成精准适配"
+      },
+      {
+        "normalized_label": "模型评估改进",
+        "evidence_span": "通过数据分析和模型评估，持续改进模型表现，并针对不同业务场景进行适配与优化"
+      },
+      {
+        "normalized_label": "业务协同落地",
+        "evidence_span": "与业务、研发团队密切合作，理解业务需求，推动技术落地"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "LangGraph/AgentScope/AutoGPT",
+        "normalized_name": "Agent框架",
+        "level": "required",
+        "evidence_span": "基于LangGraph/AgentScope/AutoGPT等框架设计可复用的智能体模块"
+      },
+      {
+        "raw_name": "RAG、LangChain、AutoGPT",
+        "normalized_name": "大模型应用技术栈",
+        "level": "expected",
+        "evidence_span": "了解RAG（检索增强生成）、LangChain、AutoGPT等智能体开发技术栈"
+      },
+      {
+        "raw_name": "智能体项目实践",
+        "normalized_name": "Agent项目经验",
+        "level": "preferred",
+        "evidence_span": "有智能体项目实践经验者优先"
+      },
+      {
+        "raw_name": "机器学习与深度学习算法",
+        "normalized_name": "机器学习/深度学习",
+        "level": "expected",
+        "evidence_span": "了解传统机器学习算法（如决策树、支持向量机、聚类算法等）和深度学习前沿算法"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "华能资本长城证券股份有限公司2027年校园招聘公告"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：本科"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "数学类",
+          "信息与通信工程类",
+          "电子科学与技术类",
+          "自动化类",
+          "电子信息类",
+          "计算机类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "招聘专业：数学类，信息与通信工程类，电子科学与技术类，自动化类，电子信息类，计算机类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000174",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-huaneng-sz-data-analysis-governance",
+    "title": "数据分析治理岗",
+    "company": "长城证券股份有限公司",
+    "parent_group": "中国华能集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "数据需求交付",
+        "evidence_span": "负责公司各业务线的数据需求交付：包括不限于模型、报表、接口等数据开发、数据质量等核查相关工作"
+      },
+      {
+        "normalized_label": "数据治理流程落地",
+        "evidence_span": "负责公司数据治理工作常态化运作：元数据、数据标准、数据质量、数据安全相关工作流程落地执行工作"
+      },
+      {
+        "normalized_label": "AI经营分析",
+        "evidence_span": "利用AI相关技术提升经营分析决策效率和客户服务体验"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Python",
+        "normalized_name": "Python",
+        "level": "required",
+        "evidence_span": "具有python开发工作基础"
+      },
+      {
+        "raw_name": "SQL",
+        "normalized_name": "SQL",
+        "level": "required",
+        "evidence_span": "有一定SQL 开发能力"
+      },
+      {
+        "raw_name": "大模型数据分析",
+        "normalized_name": "大模型应用研究",
+        "level": "expected",
+        "evidence_span": "对大模型在数据分析领域有一定的研究"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "华能资本长城证券股份有限公司2027年校园招聘公告"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：本科"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机类",
+          "电子信息类",
+          "统计学类",
+          "计算机科学与技术类",
+          "管理科学与工程类",
+          "数学类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "招聘专业：计算机类，电子信息类，统计学类，计算机科学与技术类，管理科学与工程类，数学类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000174",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-huaneng-sz-digital-project-system-ops",
+    "title": "系统运维岗1",
+    "company": "长城证券股份有限公司",
+    "parent_group": "中国华能集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "数字化项目全生命周期管理",
+        "evidence_span": "负责中后台部门数字化项目的立项、需求分析、方案制定、进度跟踪、验收交付等全生命周期管理"
+      },
+      {
+        "normalized_label": "业务需求转化",
+        "evidence_span": "将业务需求转化为可落地的功能规格与实施方案，协助技术团队进行系统设计"
+      },
+      {
+        "normalized_label": "系统运维保障",
+        "evidence_span": "建立并优化中后台系统的运维管理机制，包括日常巡检、故障响应、变更管理、用户支持等"
+      },
+      {
+        "normalized_label": "代码开发测试",
+        "evidence_span": "负责公司风控合规业务系统的代码开发、单元测试与 bug 修复"
+      },
+      {
+        "normalized_label": "联调上线与项目交付",
+        "evidence_span": "参与需求评审、技术方案设计，编写规范的开发文档、接口文档，配合测试完成联调与上线"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "PMBOK、敏捷/Scrum",
+        "normalized_name": "项目管理方法",
+        "level": "required",
+        "evidence_span": "熟悉项目管理知识体系（如PMBOK、敏捷/Scrum）"
+      },
+      {
+        "raw_name": "Jira、Project、TAPD、禅道",
+        "normalized_name": "项目管理工具",
+        "level": "required",
+        "evidence_span": "能熟练使用项目管理工具（Jira、Project、TAPD、禅道等之一）"
+      },
+      {
+        "raw_name": "ITIL",
+        "normalized_name": "IT服务管理",
+        "level": "expected",
+        "evidence_span": "了解常见的系统运维流程（如ITIL）"
+      },
+      {
+        "raw_name": "Java、Spring Boot、MyBatis",
+        "normalized_name": "Java后端开发",
+        "level": "required",
+        "evidence_span": "掌握 Java 或其他至少一种编程语言；熟悉 Spring Boot、MyBatis 等常用框架"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "华能资本长城证券股份有限公司2027年校园招聘公告"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：本科"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术类",
+          "信息与通信工程类",
+          "电子科学与技术类",
+          "自动化类",
+          "电子信息类",
+          "计算机类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "招聘专业：计算机科学与技术类，信息与通信工程类，电子科学与技术类，自动化类，电子信息类，计算机类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000174",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "corpus-huaneng-sz-devops-cloud",
+    "title": "运维开发岗",
+    "company": "长城证券股份有限公司",
+    "parent_group": "中国华能集团有限公司",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "DevOps平台研发",
+        "evidence_span": "负责部门DevOps开发运维体系体系及平台架构的研发和建设"
+      },
+      {
+        "normalized_label": "云平台与容器化建设",
+        "evidence_span": "负责公司云平台的技术架构和建设工作，推动应用系统的容器化建设"
+      },
+      {
+        "normalized_label": "虚拟化容器平台运维",
+        "evidence_span": "负责虚拟化、容器化平台的建设和运维保障工作"
+      },
+      {
+        "normalized_label": "DevOps流程优化",
+        "evidence_span": "完善云平台和DevOps体系的对接，持续优化运维流程"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "OpenStack、Docker、Kubernetes",
+        "normalized_name": "云平台与容器",
+        "level": "expected",
+        "evidence_span": "了解或在课程/项目中接触过云平台技术，如 OpenStack、Docker、Kubernetes 等"
+      },
+      {
+        "raw_name": "Dockerfile、YAML",
+        "normalized_name": "容器配置",
+        "level": "expected",
+        "evidence_span": "能够在学习指导下编写 Dockerfile 和 YAML 配置文件"
+      },
+      {
+        "raw_name": "GitLab、Jenkins、Harbor、Prometheus",
+        "normalized_name": "DevOps工具链",
+        "level": "preferred",
+        "evidence_span": "对 DevOps 工具（如 GitLab、Jenkins、Harbor、Prometheus 等）熟悉或有使用经验的优先"
+      },
+      {
+        "raw_name": "Python、Go、Shell",
+        "normalized_name": "编程与脚本语言",
+        "level": "required",
+        "evidence_span": "掌握至少一种编程语言（如 Python、Go、Shell 等）"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "华能资本长城证券股份有限公司2027年校园招聘公告"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "学历要求：本科"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "数学类",
+          "信息与通信工程类",
+          "电子科学与技术类",
+          "自动化类",
+          "电子信息类",
+          "计算机类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "招聘专业：数学类，信息与通信工程类，电子科学与技术类，自动化类，电子信息类，计算机类"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000174",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "ctower-jilin-ai-41267",
+    "title": "人工智能方向",
+    "company": "中国铁塔吉林省分公司",
+    "locations": [
+      "吉林省各地市"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "行业大模型研发",
+        "evidence_span": "围绕空间治理行业大模型、通用铁塔智能体开展研发攻关"
+      },
+      {
+        "normalized_label": "数据集研发与应用",
+        "evidence_span": "两翼高质量数据集研发与应用"
+      },
+      {
+        "normalized_label": "AI算法研发",
+        "evidence_span": "面向复杂监控场景的AI算法"
+      },
+      {
+        "normalized_label": "智能物联研发",
+        "evidence_span": "基于机器狗的多元物联感知设备及算法"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "行业大模型",
+        "normalized_name": "大模型",
+        "level": "expected",
+        "evidence_span": "空间治理行业大模型"
+      },
+      {
+        "raw_name": "智能体",
+        "normalized_name": "AI智能体",
+        "level": "expected",
+        "evidence_span": "通用铁塔智能体"
+      },
+      {
+        "raw_name": "高质量数据集",
+        "normalized_name": "数据集构建",
+        "level": "expected",
+        "evidence_span": "两翼高质量数据集研发与应用"
+      },
+      {
+        "raw_name": "AI算法",
+        "normalized_name": "人工智能算法",
+        "level": "expected",
+        "evidence_span": "面向复杂监控场景的AI算法"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年7月底前毕业"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "境内高校应届毕业生要求大学本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机类",
+          "控制科学与工程类"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机类、控制科学与工程类等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证",
+        "evidence_span": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证"
+      },
+      {
+        "criterion": "other",
+        "value": "学业成绩优秀，无不及格科目",
+        "evidence_span": "学业成绩优秀，无不及格科目"
+      }
+    ],
+    "source": {
+      "url": "https://zhaopin.chinatowercom.cn/recruit#/common_board_view_anonymous?board_category=_HB5_NDA%253D&params=_HB5_eyJpZCI6NDEyNjcsImRlcGFydF9pZCI6MTczMjg1NzV9",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国铁塔股份有限公司"
+  },
+  {
+    "job_id": "ctower-gansu-ai-41263",
+    "title": "人工智能方向",
+    "company": "中国铁塔甘肃省分公司",
+    "locations": [
+      "甘肃省"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "行业大模型研发",
+        "evidence_span": "围绕空间治理行业大模型、通用铁塔智能体开展研发攻关"
+      },
+      {
+        "normalized_label": "数据集研发与应用",
+        "evidence_span": "两翼高质量数据集研发与应用"
+      },
+      {
+        "normalized_label": "AI算法研发",
+        "evidence_span": "面向复杂监控场景的AI算法"
+      },
+      {
+        "normalized_label": "智能物联研发",
+        "evidence_span": "基于机器狗的多元物联感知设备及算法"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "行业大模型",
+        "normalized_name": "大模型",
+        "level": "expected",
+        "evidence_span": "空间治理行业大模型"
+      },
+      {
+        "raw_name": "智能体",
+        "normalized_name": "AI智能体",
+        "level": "expected",
+        "evidence_span": "通用铁塔智能体"
+      },
+      {
+        "raw_name": "高质量数据集",
+        "normalized_name": "数据集构建",
+        "level": "expected",
+        "evidence_span": "两翼高质量数据集研发与应用"
+      },
+      {
+        "raw_name": "AI算法",
+        "normalized_name": "人工智能算法",
+        "level": "expected",
+        "evidence_span": "面向复杂监控场景的AI算法"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年7月底前毕业"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "本科",
+        "requirement_level": "required",
+        "evidence_span": "境内高校应届毕业生要求大学本科及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "通信工程",
+          "电子信息工程",
+          "物联网工程",
+          "人工智能",
+          "航空航天",
+          "低空技术与工程",
+          "大数据管理与应用",
+          "数学",
+          "自动化",
+          "软件工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "通信工程、电子信息工程、物联网工程、人工智能、航空航天、低空技术与工程、大数据管理与应用、数学、自动化、软件工程等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证",
+        "evidence_span": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证"
+      },
+      {
+        "criterion": "other",
+        "value": "学业成绩优秀，无不及格科目",
+        "evidence_span": "学业成绩优秀，无不及格科目"
+      }
+    ],
+    "source": {
+      "url": "https://zhaopin.chinatowercom.cn/recruit#/portal_job_detail?id=_HB5_NDEyNjM%253D",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国铁塔股份有限公司"
+  },
+  {
+    "job_id": "ctower-hainan-aiot-41337",
+    "title": "数智物联方向",
+    "company": "中国铁塔海南省分公司",
+    "locations": [
+      "海南省各地市（海口除外）"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AIoT平台研发",
+        "evidence_span": "围绕AIoT底座能力提升开展研发攻关"
+      },
+      {
+        "normalized_label": "行业产品设计",
+        "evidence_span": "行业应用产品打造及交互体验提升"
+      },
+      {
+        "normalized_label": "计算机视觉模型",
+        "evidence_span": "海洋垃圾盖度密度量化监管模型及应用"
+      },
+      {
+        "normalized_label": "智能终端研发",
+        "evidence_span": "面向智能维护的AI摄像机和可信并接型IDU产品"
+      },
+      {
+        "normalized_label": "协同办公产品",
+        "evidence_span": "多角色多终端跨系统一体化数智协同办公"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "AIoT",
+        "normalized_name": "AIoT",
+        "level": "expected",
+        "evidence_span": "AIoT底座能力提升"
+      },
+      {
+        "raw_name": "交互体验",
+        "normalized_name": "用户体验设计",
+        "level": "expected",
+        "evidence_span": "行业应用产品打造及交互体验提升"
+      },
+      {
+        "raw_name": "量化监管模型",
+        "normalized_name": "计算机视觉建模",
+        "level": "expected",
+        "evidence_span": "海洋垃圾盖度密度量化监管模型及应用"
+      },
+      {
+        "raw_name": "物联网工程",
+        "normalized_name": "物联网",
+        "level": "required",
+        "evidence_span": "物联网工程、电子科学与技术、软件工程等相关专业"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年7月底前毕业"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "境内高校应届毕业生要求硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "物联网工程",
+          "电子科学与技术",
+          "软件工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "物联网工程、电子科学与技术、软件工程等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证",
+        "evidence_span": "境外院校毕业生要求硕士研究生及以上学历，2027年12月底前取得教育部学历学位认证"
+      },
+      {
+        "criterion": "other",
+        "value": "学业成绩优秀，无不及格科目",
+        "evidence_span": "学业成绩优秀，无不及格科目"
+      }
+    ],
+    "source": {
+      "url": "https://zhaopin.chinatowercom.cn/recruit#/common_board_view_anonymous?board_category=_HB5_NDA%253D&params=_HB5_eyJpZCI6NDEzMzcsImRlcGFydF9pZCI6MTczMjkwMTd9",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国铁塔股份有限公司"
+  },
+  {
+    "job_id": "cee-xidian-system-operations-2027",
+    "title": "系统运维工程师",
+    "company": "中国西电集团有限公司",
+    "parent_group": "中国电气装备集团有限公司",
+    "locations": [
+      "西安"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2025,
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "信息系统建设运维",
+        "evidence_span": "负责内部信息系统的架构、实施与运行维护"
+      },
+      {
+        "normalized_label": "业务调研与系统测试",
+        "evidence_span": "开展业务需求调研、系统测试并编制项目文档"
+      },
+      {
+        "normalized_label": "故障处理与数据保障",
+        "evidence_span": "负责系统维护、故障排查、报表开发及数据库备份"
+      },
+      {
+        "normalized_label": "网络与设备维护",
+        "evidence_span": "负责网络安全及相关设备维护"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "数据库备份",
+        "normalized_name": "数据库运维",
+        "level": "expected",
+        "evidence_span": "报表开发及数据库备份"
+      },
+      {
+        "raw_name": "网络安全",
+        "normalized_name": "网络安全",
+        "level": "expected",
+        "evidence_span": "负责网络安全及相关设备维护"
+      },
+      {
+        "raw_name": "软件工程",
+        "normalized_name": "软件工程",
+        "level": "required",
+        "evidence_span": "计算机、软件工程等相关专业"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2025,
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届及2025、2026届毕业生"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "计算机科学与技术",
+          "软件工程"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "计算机、软件工程等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "language",
+        "value": "大学英语四级",
+        "evidence_span": "大学英语四级"
+      }
+    ],
+    "source": {
+      "url": "https://campus.51job.com/zgxdjt/m/jobs.html",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "cnpubg-huawen-aigc-new-media-2027",
+    "title": "新媒体运营管培生",
+    "company": "华文出版社有限公司",
+    "parent_group": "中国出版集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AIGC内容运营",
+        "evidence_span": "参与华文出版社全媒体矩阵内容策划及账号日常更新，对流量与转化负责"
+      },
+      {
+        "normalized_label": "图书全周期宣发",
+        "evidence_span": "针对重点新书、长销品策划预热、首发、作者访谈和话题活动"
+      },
+      {
+        "normalized_label": "达人资源运营",
+        "evidence_span": "拓展维护社群资源，搭建达人资源库并评估投放合作效果"
+      },
+      {
+        "normalized_label": "数据监测优化",
+        "evidence_span": "做好流量数据监测、优化运营策略"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "AIGC工具",
+        "normalized_name": "生成式AI工具",
+        "level": "required",
+        "evidence_span": "熟练使用至少一类AIGC工具提效"
+      },
+      {
+        "raw_name": "Python",
+        "normalized_name": "Python",
+        "level": "required",
+        "evidence_span": "熟练使用Python等软件做舆情监测、热点挖掘、账号诊断"
+      },
+      {
+        "raw_name": "短视频剪辑",
+        "normalized_name": "短视频制作",
+        "level": "expected",
+        "evidence_span": "协助完成直播筹备、场控执行、短视频剪辑"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国出版集团2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "新闻传播",
+          "网络与新媒体",
+          "数据新闻",
+          "数字媒体",
+          "市场营销",
+          "智能传播与公共治理"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "新闻传播、网络与新媒体、新媒体与计算传播、数据新闻、数字媒体、市场营销、智能传播与公共治理等相关专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "具备文案写作能力，能接受直播与多线程并行",
+        "evidence_span": "具备一定的文案写作能力，能接受直播与多线程并行"
+      }
+    ],
+    "source": {
+      "url": "https://cnpubg.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "cnpubg-digital-textbook-platform-editor-2027",
+    "title": "媒体制作技术编辑",
+    "company": "人民音乐出版社有限公司",
+    "parent_group": "中国出版集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "音视频制作质控",
+        "evidence_span": "对音视频内容录制进行跟踪指导，并负责剪辑、处理、后期加工和质量把控"
+      },
+      {
+        "normalized_label": "数字教材产品规划",
+        "evidence_span": "参与数字教材平台的内容设计与功能规划"
+      },
+      {
+        "normalized_label": "用户与市场研究",
+        "evidence_span": "负责音乐数字教材的选题策划、市场调研和编辑加工"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "Audition、ProTools、Cubase、PR、AE",
+        "normalized_name": "音视频制作工具",
+        "level": "required",
+        "evidence_span": "掌握Audition、ProTools、Cubase、PR、AE的操作"
+      },
+      {
+        "raw_name": "数字教材平台",
+        "normalized_name": "数字产品规划",
+        "level": "expected",
+        "evidence_span": "掌握数字出版、数字教材平台与在线教育的发展动态"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国出版集团2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "博士研究生",
+        "requirement_level": "required",
+        "evidence_span": "博士研究生学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "音乐学",
+          "音乐理论"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "具有扎实的音乐理论基础和学科素养"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "具有较强的语言文字功底和文字加工能力",
+        "evidence_span": "具有较强的语言文字功底和文字加工能力"
+      }
+    ],
+    "source": {
+      "url": "https://cnpubg.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "cnpubg-private-domain-member-marketing-2027",
+    "title": "私域会员营销岗",
+    "company": "中国出版集团所属单位",
+    "parent_group": "中国出版集团有限公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "用户分层与画像",
+        "evidence_span": "搭建读者私域流量池，完成读者需求收集与用户分层"
+      },
+      {
+        "normalized_label": "用户活动运营",
+        "evidence_span": "策划新书试读、作者分享、读书沙龙等私域活动"
+      },
+      {
+        "normalized_label": "运营数据分析",
+        "evidence_span": "整理读者标签与用户画像，完成运营数据统计与基础复盘报告"
+      },
+      {
+        "normalized_label": "会员体系设计",
+        "evidence_span": "参与会员权益体系建设，完善会员积分和专属福利等规则"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "数据分析",
+        "normalized_name": "运营数据分析",
+        "level": "expected",
+        "evidence_span": "完成运营数据统计与基础复盘报告"
+      },
+      {
+        "raw_name": "用户画像",
+        "normalized_name": "用户画像",
+        "level": "expected",
+        "evidence_span": "整理读者标签与用户画像"
+      },
+      {
+        "raw_name": "短视频剪辑",
+        "normalized_name": "短视频制作",
+        "level": "expected",
+        "evidence_span": "具备基础的图文排版、短视频剪辑能力"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "中国出版集团2027届校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上应届毕业生"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "市场营销",
+          "编辑出版学",
+          "出版商务",
+          "新闻学",
+          "传播学",
+          "汉语言文学",
+          "数字媒体"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "市场营销、编辑出版学、出版商务、新闻学、传播学、汉语言文学、数字媒体等专业"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "非相关专业须系统修读新媒体运营或出版营销核心课程",
+        "evidence_span": "非相关专业需在校期间系统修读过新媒体运营、出版营销类核心课程"
+      }
+    ],
+    "source": {
+      "url": "https://cnpubg.iguopin.com/",
+      "collected_at": "2026-10-06"
+    }
+  },
+  {
+    "job_id": "galaxy-fund-assistant-researcher-2027",
+    "title": "助理研究员岗（业务类）",
+    "company": "银河基金管理有限公司",
+    "parent_group": "中国银河金融控股有限责任公司",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "行业与公司研究",
+        "evidence_span": "协助完成科技、高端制造行业及上市公司的分析，形成研究报告"
+      },
+      {
+        "normalized_label": "研究数据库建设",
+        "evidence_span": "整理数据、收集资料，构建行业数据库"
+      },
+      {
+        "normalized_label": "市场跟踪分析",
+        "evidence_span": "撰写点评报告、跟踪市场变化"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "数据整理",
+        "normalized_name": "数据处理",
+        "level": "expected",
+        "evidence_span": "整理数据、收集资料，构建行业数据库"
+      },
+      {
+        "raw_name": "行业研究",
+        "normalized_name": "行业研究",
+        "level": "expected",
+        "evidence_span": "协助完成所覆盖行业及上市公司的分析"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "原则上应于2027年7月前完成学历教育并获得相应学位"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历教育"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "工学",
+          "理学",
+          "信息科技",
+          "经济学",
+          "金融学"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "工学类、理学类、信息科技类、经济学类、金融学类相关专业优先"
+      }
+    ],
+    "other_explicit_conditions": [
+      {
+        "criterion": "other",
+        "value": "团队合作精神强，有较强责任心和自驱力",
+        "evidence_span": "团队合作精神强，有较强的责任心和自驱力"
+      }
+    ],
+    "source": {
+      "url": "https://jdjywpt.jlu.edu.cn/mportal/recruit/details?id=ac85e01771374d7d83e036aa09435727",
+      "collected_at": "2026-10-06"
+    }
+  }
+]

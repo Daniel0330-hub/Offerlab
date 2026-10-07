@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "corpus_jobs": 259,
+  "development_profiles": 8,
+  "test_profiles": 4,
+  "weights": {
+    "directions": 0.4,
+    "skills": 0.3,
+    "experience": 0.15,
+    "majors": 0.1,
+    "locations": 0.05
+  },
+  "development_metrics": {
+    "recall_at_10": 0.4375,
+    "ndcg_at_10": 0.4596382677701348,
+    "mrr_at_10": 0.65625
+  },
+  "test_metrics": {
+    "recall_at_10": 0.44999999999999996,
+    "ndcg_at_10": 0.4816885875628585,
+    "mrr_at_10": 0.625
+  },
+  "profile_change_top10_overlap": 0.2,
+  "profile_change_pass": true,
+  "limitations": [
+    "相关性标签由岗位族和人工核心信号共同定义，仍需真实用户标注复核",
+    "当前语料仅覆盖18家集团",
+    "简历文件实验版只直接解析TXT/MD/JSON"
+  ]
+}

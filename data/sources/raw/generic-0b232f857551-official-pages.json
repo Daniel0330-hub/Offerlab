@@ -1,0 +1,12 @@
+{
+  "parent_group": "中国东方电气集团有限公司",
+  "seed_url": "https://career.dongfang.com/",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://career.dongfang.com/",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

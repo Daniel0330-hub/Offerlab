@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OfferLab用户—岗位相关性标注",
+  "type": "object",
+  "required": ["schema_version", "task", "profile", "records"],
+  "properties": {
+    "schema_version": {"enum": ["1.0", "1.1"]},
+    "ordering": {"enum": ["current_model_rank"]},
+    "task": {"const": "profile_job_relevance"},
+    "profile": {"type": "object"},
+    "records": {
+      "type": "array",
+      "minItems": 10,
+      "items": {
+        "type": "object",
+        "required": ["job_id", "label", "model_score", "components", "profile_fingerprint"],
+        "properties": {
+          "job_id": {"type": "string"},
+          "label": {"type": "integer", "enum": [0, 1, 2]},
+          "note": {"type": "string"},
+          "model_score": {"type": "number"},
+          "components": {"type": "object"},
+          "profile_fingerprint": {"type": "string"}
+        }
+      }
+    }
+  }
+}

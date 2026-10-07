@@ -1,0 +1,600 @@
+{
+  "catalog_version": "1.0",
+  "scope": "国家开发银行2027校园招聘",
+  "source_total": 130,
+  "selected_total": 6,
+  "jobs": [
+    {
+      "job_id": "cdb-cc241024710j40844673416",
+      "title": "信息科技类（北京）",
+      "company": "总行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "北京"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事网络安全系统建设、安全监测与",
+          "evidence_span": "主要从事网络安全系统建设、安全监测与处置、安全合规与管理等方面的工作。"
+        },
+        {
+          "normalized_label": "日常在北京开展工作。",
+          "evidence_span": "日常在北京开展工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "硕士研究生及以上学历；",
+          "evidence_span": "硕士研究生及以上学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、软件工程、网络空间",
+          "evidence_span": "计算机科学与技术、软件工程、网络空间安全、信息安全、网络工程、人工智能、密码科学与技术、大数据技术等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "normalized_label": "熟悉安全开发、安全运营等领域的基础知",
+          "evidence_span": "熟悉安全开发、安全运营等领域的基础知识和原理，熟练运用各类网络流量分析和安全防护工具，具备开展告警研判、威胁溯源、应急处置、代码审计、渗透测试等技能，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "normalized_label": "外语水平较好，有一定的听说读写能力；",
+          "evidence_span": "外语水平较好，有一定的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究和开",
+          "evidence_span": "综合素质较好，具备较强的学习研究和开拓创新能力，良好的团队协作精神和强烈的责任心；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无违规",
+          "evidence_span": "身体健康，性格开朗，品行端正，无违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "计算机科学与技术、软件工程、网络空间安全、信息安全、网络工程、人工智能、密码科学与技术、大数据技术等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "raw_name": "数据库",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉安全开发、安全运营等领域的基础知识和原理，熟练运用各类网络流量分析和安全防护工具，具备开展告警研判、威胁溯源、应急处置、代码审计、渗透测试等技能，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "raw_name": "网络安全",
+          "normalized_name": "网络安全",
+          "level": "expected",
+          "evidence_span": "主要从事网络安全系统建设、安全监测与处置、安全合规与管理等方面的工作。"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844673416",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844673416",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    },
+    {
+      "job_id": "cdb-cc241024710j40844673516",
+      "title": "信息科技类（北京-本科）",
+      "company": "总行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "北京"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事网络安全系统建设、安全监测与",
+          "evidence_span": "主要从事网络安全系统建设、安全监测与处置、安全合规与管理等方面的工作。"
+        },
+        {
+          "normalized_label": "日常在北京开展工作。",
+          "evidence_span": "日常在北京开展工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "大学本科学历；",
+          "evidence_span": "大学本科学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、软件工程、网络空间",
+          "evidence_span": "计算机科学与技术、软件工程、网络空间安全、信息安全、网络工程、人工智能、密码科学与技术、大数据技术等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "normalized_label": "熟悉安全开发、安全运营等领域的基础知",
+          "evidence_span": "熟悉安全开发、安全运营等领域的基础知识和原理，熟练运用各类网络流量分析和安全防护工具，具备开展告警研判、威胁溯源、应急处置、代码审计、渗透测试等技能，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "normalized_label": "外语水平较好，有一定的听说读写能力；",
+          "evidence_span": "外语水平较好，有一定的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究和开",
+          "evidence_span": "综合素质较好，具备较强的学习研究和开拓创新能力，良好的团队协作精神和强烈的责任心；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无违规",
+          "evidence_span": "身体健康，性格开朗，品行端正，无违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "计算机科学与技术、软件工程、网络空间安全、信息安全、网络工程、人工智能、密码科学与技术、大数据技术等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "raw_name": "数据库",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉安全开发、安全运营等领域的基础知识和原理，熟练运用各类网络流量分析和安全防护工具，具备开展告警研判、威胁溯源、应急处置、代码审计、渗透测试等技能，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "raw_name": "网络安全",
+          "normalized_name": "网络安全",
+          "level": "expected",
+          "evidence_span": "主要从事网络安全系统建设、安全监测与处置、安全合规与管理等方面的工作。"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "本科",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：本科"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844673516",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844673516",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    },
+    {
+      "job_id": "cdb-cc241024710j40844674316",
+      "title": "信息科技类（西安）",
+      "company": "总行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "西安"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事应用系统技术方案设计、代码开",
+          "evidence_span": "主要从事应用系统技术方案设计、代码开发等方面的工作。日常在陕西西安开展工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "硕士研究生及以上学历；",
+          "evidence_span": "硕士研究生及以上学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、软件工程、人工智能",
+          "evidence_span": "计算机科学与技术、软件工程、人工智能、物联网工程、智能科学与技术、数据科学与大数据技术、区块链工程、网络空间安全等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "normalized_label": "熟悉计算机各领域的基础知识和原理，了",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "normalized_label": "外语水平较好，有一定的听说读写能力；",
+          "evidence_span": "外语水平较好，有一定的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究和开",
+          "evidence_span": "综合素质较好，具备较强的学习研究和开拓创新能力，良好的团队协作精神和强烈的责任心；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无违规",
+          "evidence_span": "身体健康，性格开朗，品行端正，无违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "JAVA",
+          "normalized_name": "Java",
+          "level": "expected",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "计算机科学与技术、软件工程、人工智能、物联网工程、智能科学与技术、数据科学与大数据技术、区块链工程、网络空间安全等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "raw_name": "数据库",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844674316",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844674316",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    },
+    {
+      "job_id": "cdb-cc241024710j40844674416",
+      "title": "信息科技类（西安-本科）",
+      "company": "总行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "西安"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事应用系统技术方案设计、代码开",
+          "evidence_span": "主要从事应用系统技术方案设计、代码开发等方面的工作。日常在陕西西安开展工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "大学本科学历；",
+          "evidence_span": "大学本科学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、软件工程、人工智能",
+          "evidence_span": "计算机科学与技术、软件工程、人工智能、物联网工程、智能科学与技术、数据科学与大数据技术、区块链工程、网络空间安全等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "normalized_label": "熟悉计算机各领域的基础知识和原理，了",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "normalized_label": "外语水平较好，有一定的听说读写能力；",
+          "evidence_span": "外语水平较好，有一定的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究和开",
+          "evidence_span": "综合素质较好，具备较强的学习研究和开拓创新能力，良好的团队协作精神和强烈的责任心；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无任何",
+          "evidence_span": "身体健康，性格开朗，品行端正，无任何违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "JAVA",
+          "normalized_name": "Java",
+          "level": "expected",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        },
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "计算机科学与技术、软件工程、人工智能、物联网工程、智能科学与技术、数据科学与大数据技术、区块链工程、网络空间安全等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "raw_name": "数据库",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，了解JAVA等编程语言，掌握开发设计、软件编码等相关知识，具有一定的操作系统、应用软件、数据库等基础知识和专业技能；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "本科",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：本科"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844674416",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844674416",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    },
+    {
+      "job_id": "cdb-cc241024710j40844673316",
+      "title": "信息科技类（雄安）",
+      "company": "总行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "保定"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事数据清洗融合、建模挖掘分析，",
+          "evidence_span": "主要从事数据清洗融合、建模挖掘分析，开展大数据平台建设运维与数据服务，研究前沿技术，优化数据应用等方面的工作。日常在雄安开展工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "硕士研究生及以上学历；",
+          "evidence_span": "硕士研究生及以上学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、人工智能、管理科学",
+          "evidence_span": "计算机科学与技术、人工智能、管理科学与工程、统计学（含第一学历，本科为大数据管理与应用、信息管理与信息系统、数据科学与大数据技术、数据计算及应用、软件工程、金融科技等专业亦可）并获得相应毕业证和学位证；对应专业学位类别一并纳入。具有经济、金融类复合背景或具备科技创新基础研究工作经验者优先；"
+        },
+        {
+          "normalized_label": "外语水平较好，具有较强的听说读写能力",
+          "evidence_span": "外语水平较好，具有较强的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究和开",
+          "evidence_span": "综合素质较好，具备较强的学习研究和开拓创新能力，良好的团队协作精神和强烈的责任心；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无违规",
+          "evidence_span": "身体健康，性格开朗，品行端正，无违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "计算机科学与技术、人工智能、管理科学与工程、统计学（含第一学历，本科为大数据管理与应用、信息管理与信息系统、数据科学与大数据技术、数据计算及应用、软件工程、金融科技等专业亦可）并获得相应毕业证和学位证；对应专业学位类别一并纳入。具有经济、金融类复合背景或具备科技创新基础研究工作经验者优先；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844673316",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844673316",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    },
+    {
+      "job_id": "cdb-cc241024710j40844691316",
+      "title": "信息科技类",
+      "company": "青海分行",
+      "parent_group": "国家开发银行",
+      "locations": [
+        "西宁"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "工作内容：",
+          "evidence_span": "工作内容："
+        },
+        {
+          "normalized_label": "主要从事信息化系统建设及运维、网络安",
+          "evidence_span": "主要从事信息化系统建设及运维、网络安全、数据治理、IT外包服务管理等相关工作。"
+        },
+        {
+          "normalized_label": "报考条件：",
+          "evidence_span": "报考条件："
+        },
+        {
+          "normalized_label": "大学本科及以上学历；",
+          "evidence_span": "大学本科及以上学历；"
+        },
+        {
+          "normalized_label": "计算机科学与技术、软件工程、网络空间",
+          "evidence_span": "计算机科学与技术、软件工程、网络空间安全、数据科学与大数据技术等相关专业毕业并获得相应毕业证和学位证；"
+        },
+        {
+          "normalized_label": "熟悉计算机各领域的基础知识和原理，具",
+          "evidence_span": "熟悉计算机各领域的基础知识和原理，具有一定的操作系统、应用软件、数据平台等基础知识和专业技能；掌握网络安全基础知识，熟悉IPS、IDS、WAF、SOC、防毒墙等网络安全系统和设备；"
+        },
+        {
+          "normalized_label": "外语水平较好，具有较强的听说读写能力",
+          "evidence_span": "外语水平较好，具有较强的听说读写能力；"
+        },
+        {
+          "normalized_label": "综合素质较好，具备较强的学习研究能力",
+          "evidence_span": "综合素质较好，具备较强的学习研究能力和开拓创新精神，良好的团队协作精神、较强的沟通协调能力和强烈的责任心，熟练使用Microsoft Office等办公软件；"
+        },
+        {
+          "normalized_label": "身体健康，性格开朗，品行端正，无违规",
+          "evidence_span": "身体健康，性格开朗，品行端正，无违规违纪行为。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "数据治理",
+          "normalized_name": "数据治理",
+          "level": "expected",
+          "evidence_span": "主要从事信息化系统建设及运维、网络安全、数据治理、IT外包服务管理等相关工作。"
+        },
+        {
+          "raw_name": "网络安全",
+          "normalized_name": "网络安全",
+          "level": "expected",
+          "evidence_span": "主要从事信息化系统建设及运维、网络安全、数据治理、IT外包服务管理等相关工作。"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "国家开发银行2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "本科",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：本科"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xiaoyuan.zhaopin.com/job/CC241024710J40844691316",
+        "collected_at": "2026-10-07",
+        "job_number": "CC241024710J40844691316",
+        "official_campaign": "国家开发银行2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息科技"
+        ]
+      }
+    }
+  ]
+}

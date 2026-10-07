@@ -1,0 +1,30 @@
+{
+  "version": "v1.0",
+  "frozen_at": "2026-10-06",
+  "tuned_on": "development-set-v1.0.json",
+  "test_set_used": false,
+  "candidate_generation": {
+    "method": "character_tfidf",
+    "character_ngrams": [2, 3, 4],
+    "english_tokens": true,
+    "candidate_k": 10
+  },
+  "reranking": {
+    "method": "synonym_lexical_vector_ensemble",
+    "synonym_hybrid_weight": 0.5,
+    "character_tfidf_weight": 0.5,
+    "synonym_hybrid_field_weights": {
+      "responsibilities": 0.4,
+      "skills": 0.35,
+      "major_or_domain": 0.15,
+      "title": 0.1
+    }
+  },
+  "selection_reason": "候选召回优先：字符TF-IDF在12组开发查询上Recall@5为97.92%、Recall@10为100%；50/50融合NDCG@5为95.73%，用于改善排序并保留字段级解释。",
+  "known_limitations": [
+    "开发集仅11条岗位、12组查询",
+    "字符TF-IDF捕捉字面相似性，不等同于预训练语义向量",
+    "查询由人工基于当前岗位族设计，可能高估真实用户查询效果",
+    "冻结测试集尚未运行"
+  ]
+}

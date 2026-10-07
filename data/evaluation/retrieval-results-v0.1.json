@@ -1,0 +1,523 @@
+{
+  "dataset": "development-set-v0.1.json",
+  "queries": [
+    {
+      "query_id": "Q01",
+      "query": "AI产品 需求调研 原型设计",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.8,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.5
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.25
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.25
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.25
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.8,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.5
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.4
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.25
+            ],
+            [
+              "dev-crrc-cc-ai-engineer",
+              0.15
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 0.6,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.525
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.4125
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.4
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.3875
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.3
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q02",
+      "query": "Python 机器学习 大模型研发",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.25,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.4
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.3
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.3
+            ],
+            [
+              "dev-crrc-cc-ai-engineer",
+              0.15
+            ],
+            [
+              "dev-crrc-cc-big-data",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-data-software",
+              0.375
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.2
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.175
+            ],
+            [
+              "dev-cu-bj-architect",
+              0.1
+            ],
+            [
+              "dev-crrc-cc-ai-engineer",
+              0.0875
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q03",
+      "query": "统计学 经营分析 风险预警",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.0,
+          "top_5": []
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.3
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.5125
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.225
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.1375
+            ],
+            [
+              "dev-cu-yt-security",
+              0.1
+            ],
+            [
+              "dev-cu-bj-architect",
+              0.0375
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q04",
+      "query": "网络运维 信息安全 故障处理",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.75,
+          "top_5": [
+            [
+              "dev-cu-yt-security",
+              0.5
+            ],
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.5
+            ],
+            [
+              "dev-cu-bj-compute-ops",
+              0.25
+            ],
+            [
+              "dev-cu-bj-satellite-network",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.75,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.35
+            ],
+            [
+              "dev-cu-bj-compute-ops",
+              0.25
+            ],
+            [
+              "dev-cu-bj-satellite-network",
+              0.25
+            ],
+            [
+              "dev-cu-yt-security",
+              0.2
+            ],
+            [
+              "dev-crrc-cc-software-test",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.4125
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.4
+            ],
+            [
+              "dev-cu-bj-compute-ops",
+              0.35
+            ],
+            [
+              "dev-cu-bj-satellite-network",
+              0.25
+            ],
+            [
+              "dev-cu-yt-security",
+              0.25
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q05",
+      "query": "项目交付 解决方案 客户需求",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.125,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.5
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.5,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.5
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.3
+            ],
+            [
+              "dev-crrc-cc-big-data",
+              0.15
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.15
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 0.625,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.425
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.375
+            ],
+            [
+              "dev-cu-bj-satellite-network",
+              0.2
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.2
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.1875
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q06",
+      "query": "软件测试 自动化 嵌入式 工控网络",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-software-test",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-software-test",
+              0.4
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-software-test",
+              0.375
+            ],
+            [
+              "dev-cu-bj-compute-ops",
+              0.0375
+            ],
+            [
+              "dev-cu-bj-satellite-network",
+              0.0375
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q07",
+      "query": "Java 大数据 Spark Flink",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-big-data",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-big-data",
+              0.7
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.15
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.15
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-big-data",
+              0.675
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.1875
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.0875
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.0875
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.0375
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q08",
+      "query": "Python 数据分析 振动 诊断",
+      "methods": {
+        "title_only": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-data-analysis",
+              0.25
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-data-analysis",
+              0.55
+            ],
+            [
+              "dev-crrc-cc-ai-engineer",
+              0.3
+            ],
+            [
+              "dev-crrc-cc-big-data",
+              0.15
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.15
+            ],
+            [
+              "dev-cu-hn-ai-developer",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "top_5": [
+            [
+              "dev-crrc-cc-data-analysis",
+              0.5875
+            ],
+            [
+              "dev-crrc-cc-ai-engineer",
+              0.175
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.125
+            ],
+            [
+              "dev-crrc-cc-big-data",
+              0.0875
+            ],
+            [
+              "dev-crrc-cc-data-software",
+              0.0875
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "title_only": {
+      "mean_recall_at_5": 0.6156
+    },
+    "title_skill": {
+      "mean_recall_at_5": 0.8812
+    },
+    "offerlab_hybrid": {
+      "mean_recall_at_5": 0.9031
+    }
+  }
+}

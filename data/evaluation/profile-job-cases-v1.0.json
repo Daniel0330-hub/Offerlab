@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "labeling_note": "画像由目标方向、专业、技能和项目证据组成；相关岗位需同时满足人工指定岗位族与至少一个核心能力/职责信号。地点只作偏好。",
+  "development": [
+    {"profile_id":"p01","degree":"硕士研究生","majors":["统计学","精算学"],"directions":["数据分析","经营分析"],"skills":["Python","SQL","统计分析","数据清洗"],"experience":"使用pandas完成清洗、统计建模与预测分析","locations":["北京"],"relevant_families":["数据分析与治理","业务与运营"],"relevant_signals":["数据分析","统计","经营分析","数据治理"]},
+    {"profile_id":"p02","degree":"硕士研究生","majors":["统计学"],"directions":["AI 产品"],"skills":["需求调研","需求分析","原型设计","大模型"],"experience":"访谈用户并输出AI产品方案和原型","locations":["北京"],"relevant_families":["产品与解决方案"],"relevant_signals":["产品","需求","解决方案","大模型"]},
+    {"profile_id":"p03","degree":"本科","majors":["计算机科学与技术"],"directions":["软件开发"],"skills":["Java","数据库","Git"],"experience":"完成Java后端系统与数据库设计","locations":["上海"],"relevant_families":["软件与平台开发"],"relevant_signals":["Java","软件开发","系统开发","后端"]},
+    {"profile_id":"p04","degree":"硕士研究生","majors":["人工智能","计算机科学与技术"],"directions":["算法工程"],"skills":["Python","PyTorch","机器学习","深度学习"],"experience":"训练机器学习模型并完成离线评估","locations":["北京","上海"],"relevant_families":["AI与算法"],"relevant_signals":["算法","机器学习","人工智能","模型"]},
+    {"profile_id":"p05","degree":"本科","majors":["软件工程"],"directions":["系统运维"],"skills":["Linux","数据库","云平台","故障处理"],"experience":"维护Linux服务并处理线上故障","locations":["西安"],"relevant_families":["运维与网络安全"],"relevant_signals":["运维","运行维护","云平台","故障"]},
+    {"profile_id":"p06","degree":"本科","majors":["网络空间安全"],"directions":["网络安全"],"skills":["网络安全","渗透测试","安全审计"],"experience":"完成Web安全测试与漏洞复现","locations":["成都"],"relevant_families":["运维与网络安全"],"relevant_signals":["网络安全","信息安全","攻防","安全"]},
+    {"profile_id":"p07","degree":"硕士研究生","majors":["数据科学与大数据技术"],"directions":["数据开发"],"skills":["Python","SQL","数据平台","ETL"],"experience":"开发ETL任务并建设数据仓库","locations":["北京"],"relevant_families":["软件与平台开发","数据分析与治理"],"relevant_signals":["数据开发","数据平台","数据库","大数据"]},
+    {"profile_id":"p08","degree":"硕士研究生","majors":["管理科学与工程"],"directions":["数字化运营"],"skills":["项目管理","需求分析","数据分析"],"experience":"推动业务流程数字化并跟踪运营指标","locations":["广州"],"relevant_families":["业务与运营","产品与解决方案"],"relevant_signals":["数字化","运营","项目","需求"]}
+  ],
+  "test": [
+    {"profile_id":"t01","degree":"硕士研究生","majors":["统计学"],"directions":["数据分析"],"skills":["R","SQL","统计建模"],"experience":"风险数据分析与预测模型","locations":["北京"],"relevant_families":["数据分析与治理"],"relevant_signals":["数据分析","统计","建模","数据治理"]},
+    {"profile_id":"t02","degree":"本科","majors":["计算机科学与技术"],"directions":["软件开发"],"skills":["Python","数据库","软件测试"],"experience":"开发数据服务接口并编写测试","locations":["武汉"],"relevant_families":["软件与平台开发","测试与质量"],"relevant_signals":["开发","Python","数据库","测试"]},
+    {"profile_id":"t03","degree":"硕士研究生","majors":["人工智能"],"directions":["AI 产品","算法工程"],"skills":["大模型","RAG","需求分析","Python"],"experience":"设计知识库问答产品并评估RAG效果","locations":["上海"],"relevant_families":["AI与算法","产品与解决方案"],"relevant_signals":["大模型","人工智能","知识库","产品"]},
+    {"profile_id":"t04","degree":"本科","majors":["信息安全"],"directions":["网络安全","系统运维"],"skills":["Linux","网络安全","安全运维"],"experience":"参与SOC告警处置和主机加固","locations":["北京"],"relevant_families":["运维与网络安全"],"relevant_signals":["安全","运维","SOC","网络"]}
+  ]
+}

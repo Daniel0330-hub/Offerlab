@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0",
+  "task": "profile_job_relevance",
+  "label_definition": {
+    "0": "不相关",
+    "1": "一般相关",
+    "2": "高度相关"
+  },
+  "exported_at": "2026-10-07T19:38:39.950Z",
+  "profile": {
+    "graduationYear": 2027,
+    "degree": "硕士研究生",
+    "majors": [
+      "统计",
+      "应用数学"
+    ],
+    "locations": [
+      "北京"
+    ],
+    "rotation": "接受",
+    "skills": [
+      "sql",
+      "python"
+    ],
+    "experience": "",
+    "directions": [
+      "AI 产品"
+    ]
+  },
+  "records": [
+    {
+      "job_id": "cssc-ccl1226837610j40891960205",
+      "title": "技术研发岗（人工智能系统集成）",
+      "company": "中国舰船研究院",
+      "label": 1,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:11.198Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890704605",
+      "title": "数据科学研发工程师",
+      "company": "联通数据智能有限公司（中国联通数据科学与人工智能研究院）",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1975,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:13.450Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891971905",
+      "title": "技术研发岗（指控和仿真系统软件研发）",
+      "company": "中国舰船研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:20.864Z"
+    },
+    {
+      "job_id": "cict-51job-173565583",
+      "title": "人工智能算法工程师",
+      "company": "数据通信科学技术研究所",
+      "label": 1,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:23.178Z"
+    },
+    {
+      "job_id": "cict-51job-173592505",
+      "title": "人工智能算法工程师(J10196)",
+      "company": "数据通信科学技术研究所",
+      "label": 1,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:24.580Z"
+    },
+    {
+      "job_id": "cict-51job-167799233",
+      "title": "软件开发工程师",
+      "company": "中国信息通信科技集团有限公司",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:29.330Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891978905",
+      "title": "技术研发岗（武器技术-含软件研发）",
+      "company": "中国舰船研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1231,
+      "components": {
+        "direction": 0,
+        "skill": 0.24375000000000002,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:31.320Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890314805",
+      "title": "数据智能研发岗（数据工程与本体建模方向）",
+      "company": "联通软件研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1231,
+      "components": {
+        "direction": 0,
+        "skill": 0.24375000000000002,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:35.930Z"
+    },
+    {
+      "job_id": "cict-51job-173565551",
+      "title": "网络空间安全研发工程师",
+      "company": "数据通信科学技术研究所",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1231,
+      "components": {
+        "direction": 0,
+        "skill": 0.24375000000000002,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:37.583Z"
+    },
+    {
+      "job_id": "cict-51job-173592472",
+      "title": "网络空间安全研发工程师(J10195)",
+      "company": "数据通信科学技术研究所",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1231,
+      "components": {
+        "direction": 0,
+        "skill": 0.24375000000000002,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python",
+      "annotated_at": "2026-10-07T19:38:39.170Z"
+    }
+  ]
+}

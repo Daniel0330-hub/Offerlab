@@ -1,0 +1,8 @@
+{
+  "version":"1.0",
+  "campaigns":[
+    {"key":"cict","ctmid":"5798930","parent_group":"中国信息通信科技集团有限公司","campaign":"中国信科校园招聘","referer":"https://campus.51job.com/cict2022/job.html"},
+    {"key":"casic","ctmid":"9567374","parent_group":"中国航天科工集团有限公司","campaign":"中国航天科工2027校园招聘","referer":"https://campus.51job.com/302casic/job.html"},
+    {"key":"xidian","ctmid":"7964576","parent_group":"中国电气装备集团有限公司","campaign":"中国西电集团校园招聘","referer":"https://campus.51job.com/zgxdjt/m/jobs.html"}
+  ]
+}

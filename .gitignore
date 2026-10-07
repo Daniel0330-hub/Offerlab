@@ -1,0 +1,15 @@
+# Local research materials and generated transcripts
+work/
+
+# Secrets and local configuration
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+

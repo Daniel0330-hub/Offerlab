@@ -1,0 +1,38 @@
+[
+  {
+    "query_id": "P01",
+    "query": "梳理业务场景 制定智能化方案 推动应用落地",
+    "terms": ["业务场景", "智能化", "方案", "应用落地"],
+    "relevant_job_ids": ["pilot-cmcc-ah-it-dev", "pilot-cmcc-nj-ai-app", "corpus-cetc-gz-ai-application", "corpus-cetc-bj-llm"]
+  },
+  {
+    "query_id": "P02",
+    "query": "生成式AI 知识库问答 多Agent任务编排",
+    "terms": ["生成式AI", "知识库", "Agent", "任务编排"],
+    "relevant_job_ids": ["pilot-cmcc-nj-ai-rd", "corpus-cetc-bj-llm"]
+  },
+  {
+    "query_id": "P03",
+    "query": "通信基础设施监控 异常处置 安全防护",
+    "terms": ["通信", "基础设施", "监控", "异常", "防护"],
+    "relevant_job_ids": ["pilot-cmcc-nj-network-ops", "pilot-cmcc-bynr-tech"]
+  },
+  {
+    "query_id": "P04",
+    "query": "售前咨询 客户方案 上线验收 进度协调",
+    "terms": ["售前", "客户方案", "上线", "验收", "进度"],
+    "relevant_job_ids": ["pilot-cmcc-nj-ai-app", "pilot-cmcc-dt-delivery", "corpus-cetc-xj-big-data-rd", "corpus-cetc-bj-llm"]
+  },
+  {
+    "query_id": "P05",
+    "query": "图像识别 端侧推理 工厂缺陷检测",
+    "terms": ["图像识别", "端侧", "推理", "缺陷检测"],
+    "relevant_job_ids": ["corpus-cetc-gz-ai-application", "corpus-cetc-sz-cv"]
+  },
+  {
+    "query_id": "P06",
+    "query": "企业数据标准 元数据管理 质量核查 平台建设",
+    "terms": ["数据标准", "元数据", "质量核查", "平台建设"],
+    "relevant_job_ids": ["pilot-cmcc-ah-it-dev", "pilot-cmcc-bynr-tech", "corpus-cetc-xj-big-data-rd"]
+  }
+]

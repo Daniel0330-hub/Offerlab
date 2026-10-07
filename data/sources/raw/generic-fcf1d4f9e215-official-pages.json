@@ -1,0 +1,31 @@
+{
+  "parent_group": "中国中煤能源集团有限公司",
+  "seed_url": "https://zhaopin.chinacoal.com/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://zhaopin.chinacoal.com/",
+      "http_status": 200,
+      "title": "中煤招聘",
+      "text": "中煤招聘 正在加载系统资源，请耐心等待",
+      "html_bytes": 5858
+    },
+    {
+      "url": "https://zhaopin.chinacoal.com/favicon.ico",
+      "http_status": 200,
+      "title": "",
+      "text": "",
+      "html_bytes": 0
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://zhaopin.chinacoal.com/static/css/chunk-vendors.fdbbbc2a.css",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://zhaopin.chinacoal.com/static/css/app.92ac2fe6.css",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-07T10:11:30-04:00",
+  "scope_count": 46,
+  "summary": {
+    "adapter_required_dynamic_or_no_job_pages": 33,
+    "access_failed": 7,
+    "completed_platform_adapter": 6
+  },
+  "enterprises": [
+    {
+      "parent_group": "东风汽车集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://etp.dfmc.com.cn/jyxx/004002/004002001/20260828/617e734b-452e-4e20-ada2-90728fbe040d.html",
+      "pages_fetched": 2,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-8482371ceb4a-official-pages.json",
+      "catalog_path": "data/catalog/generic-8482371ceb4a-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国一重集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.cfhi.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-b1384eb485ad-official-pages.json",
+      "catalog_path": "data/catalog/generic-b1384eb485ad-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国东方电气集团有限公司",
+      "status": "access_failed",
+      "seed_url": "https://career.dongfang.com/",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-0b232f857551-official-pages.json",
+      "catalog_path": "data/catalog/generic-0b232f857551-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国东方航空集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://job.ceair.com/",
+      "pages_fetched": 28,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-9d91eb56d451-official-pages.json",
+      "catalog_path": "data/catalog/generic-9d91eb56d451-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国东方资产管理股份有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://coamc.zhiye.com/campus",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-d87d96f80032-official-pages.json",
+      "catalog_path": "data/catalog/generic-d87d96f80032-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国中信金融资产管理股份有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.famc.citic/rczp/zpxx/index.shtml",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-6188ba03c363-official-pages.json",
+      "catalog_path": "data/catalog/generic-6188ba03c363-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国中化控股有限责任公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "http://sinochem.hotjob.cn/",
+      "pages_fetched": 5,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-71e74f80e53e-official-pages.json",
+      "catalog_path": "data/catalog/generic-71e74f80e53e-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国中煤能源集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zhaopin.chinacoal.com/",
+      "pages_fetched": 2,
+      "errors": 2,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-fcf1d4f9e215-official-pages.json",
+      "catalog_path": "data/catalog/generic-fcf1d4f9e215-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国中车集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.crrcgc.cc/ckgf/128_7635/128_7706/index.html",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-566e036599d1-official-pages.json",
+      "catalog_path": "data/catalog/generic-566e036599d1-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国五矿集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zhaopin.minmetals.com.cn/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-d833f3b8a6bc-official-pages.json",
+      "catalog_path": "data/catalog/generic-d833f3b8a6bc-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国交通建设集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zhaopin.ccccltd.cn/",
+      "pages_fetched": 2,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-0d73c267c17f-official-pages.json",
+      "catalog_path": "data/catalog/generic-0d73c267c17f-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国人寿保险（集团）公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://chinalife.zhiye.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-70ce6cf49fc7-official-pages.json",
+      "catalog_path": "data/catalog/generic-70ce6cf49fc7-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国人民保险集团股份有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "http://picc.zhiye.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-2452366dce25-official-pages.json",
+      "catalog_path": "data/catalog/generic-2452366dce25-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国信息通信科技集团有限公司",
+      "status": "completed_platform_adapter",
+      "seed_url": null
+    },
+    {
+      "parent_group": "中国兵器工业集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zgbq2027.iguopin.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-5472e4f61acf-official-pages.json",
+      "catalog_path": "data/catalog/generic-5472e4f61acf-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国兵器装备集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zgbq2027.iguopin.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-2d0f5e17a5bb-official-pages.json",
+      "catalog_path": "data/catalog/generic-2d0f5e17a5bb-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国农业发展银行",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.adbc.com.cn/n354735/n355043/c722284/content.html",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-c9e5fd87944d-official-pages.json",
+      "catalog_path": "data/catalog/generic-c9e5fd87944d-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国农业银行股份有限公司",
+      "status": "access_failed",
+      "seed_url": "https://career.abchina.com.cn/",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-374232a896dc-official-pages.json",
+      "catalog_path": "data/catalog/generic-374232a896dc-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国华电集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.chd.com.cn/site/2/2026-09-14/b7dffff921ca499c90f84509cd272310.html",
+      "pages_fetched": 2,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-33c09f79b166-official-pages.json",
+      "catalog_path": "data/catalog/generic-33c09f79b166-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国华能集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zhaopin.chng.com.cn/CampusRecruit?aId=2000255",
+      "pages_fetched": 3,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-989301591b71-official-pages.json",
+      "catalog_path": "data/catalog/generic-989301591b71-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国大唐集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.china-cdto.com/dthwtz/xwzx/jtxw/2026/9/I1552059660066881536.html",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-f79cb178c052-official-pages.json",
+      "catalog_path": "data/catalog/generic-f79cb178c052-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国宝武钢铁集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://baowugroup-zhaopin.51job.com/",
+      "pages_fetched": 16,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-05d829bf9b4d-official-pages.json",
+      "catalog_path": "data/catalog/generic-05d829bf9b4d-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国工商银行股份有限公司",
+      "status": "access_failed",
+      "seed_url": "https://job.icbc.com.cn/",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-c07374213227-official-pages.json",
+      "catalog_path": "data/catalog/generic-c07374213227-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国建筑集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://hr.cscec.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-aab0c0d9197c-official-pages.json",
+      "catalog_path": "data/catalog/generic-aab0c0d9197c-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国建设银行股份有限公司",
+      "status": "access_failed",
+      "seed_url": "https://job.ccb.com/cn/job/anno_list.html?isImpAnno=1",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-9ee8002dab31-official-pages.json",
+      "catalog_path": "data/catalog/generic-9ee8002dab31-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国核工业集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://cnnc.zhiye.com/campus/jobs",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-8368bbb3bfdc-official-pages.json",
+      "catalog_path": "data/catalog/generic-8368bbb3bfdc-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国电信集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://job.chinatelecom.com.cn/wt/TELE/web/index",
+      "pages_fetched": 4,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-082779c302cc-official-pages.json",
+      "catalog_path": "data/catalog/generic-082779c302cc-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国电子信息产业集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://campus.cec.com.cn/",
+      "pages_fetched": 3,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-b020de0fab40-official-pages.json",
+      "catalog_path": "data/catalog/generic-b020de0fab40-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国电子科技集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://cetccq.cetc.com.cn/zgdk/1593022/1592495/index.html",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-262c134c2941-official-pages.json",
+      "catalog_path": "data/catalog/generic-262c134c2941-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国电气装备集团有限公司",
+      "status": "completed_platform_adapter",
+      "seed_url": null
+    },
+    {
+      "parent_group": "中国石油化工集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://job.sinopec.com",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-f985d55762b2-official-pages.json",
+      "catalog_path": "data/catalog/generic-f985d55762b2-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国石油天然气集团有限公司",
+      "status": "access_failed",
+      "seed_url": "https://zhaopin.cnpc.com.cn/",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-0aa521f17790-official-pages.json",
+      "catalog_path": "data/catalog/generic-0aa521f17790-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国移动通信集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://job.10086.cn/touch/personal/job/?lid=101",
+      "pages_fetched": 40,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-caa43e94941d-official-pages.json",
+      "catalog_path": "data/catalog/generic-caa43e94941d-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国联合网络通信集团有限公司",
+      "status": "completed_platform_adapter",
+      "seed_url": null
+    },
+    {
+      "parent_group": "中国航天科工集团有限公司",
+      "status": "completed_platform_adapter",
+      "seed_url": "https://campus.51job.com/302casic/job.html"
+    },
+    {
+      "parent_group": "中国航天科技集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.spacetalent.com.cn/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-df23fa494b57-official-pages.json",
+      "catalog_path": "data/catalog/generic-df23fa494b57-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国航空发动机集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.aecc.cn/?PC=PC",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-cb5f4309236f-official-pages.json",
+      "catalog_path": "data/catalog/generic-cb5f4309236f-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国航空工业集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://catic.zhiye.com/campus",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-ca6aaa103dd5-official-pages.json",
+      "catalog_path": "data/catalog/generic-ca6aaa103dd5-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国船舶集团有限公司",
+      "status": "completed_platform_adapter",
+      "seed_url": "https://cssc.zhaopin.com/job/index.html"
+    },
+    {
+      "parent_group": "中国铁塔股份有限公司",
+      "status": "access_failed",
+      "seed_url": "https://www.china-tower.com/Index/lists/catid/10.html",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-0cb2aed3a571-official-pages.json",
+      "catalog_path": "data/catalog/generic-0cb2aed3a571-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国铁道建筑集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://crchi.zhiye.com/",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-4798b52cb1a6-official-pages.json",
+      "catalog_path": "data/catalog/generic-4798b52cb1a6-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中国银行股份有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "pages_fetched": 1,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-269597a30c95-official-pages.json",
+      "catalog_path": "data/catalog/generic-269597a30c95-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "中粮集团有限公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://campus.51job.com/cofco",
+      "pages_fetched": 10,
+      "errors": 0,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-e74a2e0ee119-official-pages.json",
+      "catalog_path": "data/catalog/generic-e74a2e0ee119-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "国家开发银行",
+      "status": "completed_platform_adapter",
+      "seed_url": "https://cdb2027.zhaopin.com/"
+    },
+    {
+      "parent_group": "国家电网有限公司",
+      "status": "access_failed",
+      "seed_url": "https://zhaopin.sgcc.com.cn",
+      "pages_fetched": 0,
+      "errors": 1,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-902039305f22-official-pages.json",
+      "catalog_path": "data/catalog/generic-902039305f22-relevant-jobs-v1.0.json"
+    },
+    {
+      "parent_group": "国家能源投资集团有限责任公司",
+      "status": "adapter_required_dynamic_or_no_job_pages",
+      "seed_url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "pages_fetched": 40,
+      "errors": 2,
+      "selected_jobs": 0,
+      "raw_path": "data/sources/raw/generic-68405ea1d202-official-pages.json",
+      "catalog_path": "data/catalog/generic-68405ea1d202-relevant-jobs-v1.0.json"
+    }
+  ]
+}

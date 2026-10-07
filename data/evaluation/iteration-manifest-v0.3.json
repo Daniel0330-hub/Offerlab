@@ -1,0 +1,45 @@
+{
+  "version": "v0.3-candidate",
+  "stage": 8,
+  "status": "complete",
+  "created_at": "2026-10-07",
+  "changes": [
+    "export_in_current_model_rank",
+    "product_quota_32_with_deduplication",
+    "36_product_roles_12_beijing"
+  ],
+  "files": [
+    {
+      "path": "prototype/app.js",
+      "sha256": "e1aae89925b4a5101f13f47ba3f1bf4699e51f4b3ebb80a3b0dc29bf8771c6e9"
+    },
+    {
+      "path": "prototype/index.html",
+      "sha256": "4d2a630f934cee3863c69ba19f5b0b38bff63fc4c58813afd5e4eed750844a09"
+    },
+    {
+      "path": "prototype/jobs-data.js",
+      "sha256": "7eb2b634200dbe2460b8a162f287509e53d21ce4feb830ed4e7765918fdf210d"
+    },
+    {
+      "path": "data/catalog/job-candidate-catalog-v1.1.json",
+      "sha256": "a24f4e218407cf058d72a0d5d921193697ffbb47d54a874a04f008a18a7d3984"
+    },
+    {
+      "path": "data/evaluation/user-relevance-annotation-schema-v1.0.json",
+      "sha256": "052b08c0829337ab7a7b0eac9cf4d7fa0b48b7821a11fa82ed324608b2458569"
+    }
+  ],
+  "retest_result": {
+    "schema_version": "1.1",
+    "ordering": "current_model_rank",
+    "ndcg_at_10": 0.946,
+    "precision_at_10": 0.8,
+    "highly_relevant_at_10": 5,
+    "first_highly_relevant_rank": 1,
+    "development_or_algorithm_in_top_5": 2,
+    "passed_gates": 4,
+    "total_gates": 4
+  },
+  "accepted_at": "2026-10-07"
+}

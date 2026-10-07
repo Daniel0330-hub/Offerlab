@@ -1,0 +1,12 @@
+{
+  "parent_group": "中国石油天然气集团有限公司",
+  "seed_url": "https://zhaopin.cnpc.com.cn/",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://zhaopin.cnpc.com.cn/",
+      "error": "HTTPError: HTTP Error 412: Precondition Failed"
+    }
+  ]
+}

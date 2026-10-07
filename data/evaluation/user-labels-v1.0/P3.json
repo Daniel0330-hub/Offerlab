@@ -1,0 +1,445 @@
+{
+  "schema_version": "1.0",
+  "task": "profile_job_relevance",
+  "label_definition": {
+    "0": "不相关",
+    "1": "一般相关",
+    "2": "高度相关"
+  },
+  "exported_at": "2026-10-07T19:25:47.083Z",
+  "profile": {
+    "graduationYear": 2027,
+    "degree": "硕士研究生",
+    "majors": [
+      "统计",
+      "应用数学"
+    ],
+    "locations": [
+      "北京"
+    ],
+    "rotation": "接受",
+    "language": "已过四六级",
+    "skills": [
+      "sql",
+      "python",
+      "java",
+      "C++"
+    ],
+    "experience": "",
+    "directions": [
+      "AI 产品"
+    ]
+  },
+  "records": [
+    {
+      "job_id": "unicom-cc145093010j40890362905",
+      "title": "人工智能产品经理",
+      "company": "中国联通江苏省分公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.1313,
+      "components": {
+        "direction": 0,
+        "skill": 0.27083333333333337,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:28.773Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890704605",
+      "title": "数据科学研发工程师",
+      "company": "联通数据智能有限公司（中国联通数据科学与人工智能研究院）",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1813,
+      "components": {
+        "direction": 0,
+        "skill": 0.27083333333333337,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:35.208Z"
+    },
+    {
+      "job_id": "cict-51job-173693124",
+      "title": "数据分析工程师",
+      "company": "中国信息通信科技集团有限公司",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1488,
+      "components": {
+        "direction": 0,
+        "skill": 0.3291666666666667,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:36.565Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891971905",
+      "title": "技术研发岗（指控和仿真系统软件研发）",
+      "company": "中国舰船研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:38.233Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890672305",
+      "title": "人工智能开发工程师",
+      "company": "中国联通云南省分公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:40.279Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890341505",
+      "title": "软件研发岗",
+      "company": "联通软件研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:41.305Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891653505",
+      "title": "图形平台开发工程师",
+      "company": "中国船舶集团海舟系统技术有限公司",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1475,
+      "components": {
+        "direction": 0,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:42.874Z"
+    },
+    {
+      "job_id": "corpus-huaneng-sz-data-analysis-governance",
+      "title": "数据分析治理岗",
+      "company": "长城证券股份有限公司",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1325,
+      "components": {
+        "direction": 0,
+        "skill": 0.275,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:43.797Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890347105",
+      "title": "大数据岗",
+      "company": "联通软件研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1313,
+      "components": {
+        "direction": 0,
+        "skill": 0.27083333333333337,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:44.866Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890330905",
+      "title": "大数据工程师",
+      "company": "联通软件研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1313,
+      "components": {
+        "direction": 0,
+        "skill": 0.27083333333333337,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计",
+          "应用数学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计|应用数学|ai 产品|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:25:45.906Z"
+    }
+  ]
+}

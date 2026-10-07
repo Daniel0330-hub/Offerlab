@@ -1,0 +1,1512 @@
+{
+  "run_at": "2026-10-06",
+  "configuration": "retrieval-config-v1.1.json",
+  "dataset": "test-set-v1.0.json",
+  "query_files": [
+    "test-queries-v1.0.json",
+    "test-queries-paraphrase-v1.0.json"
+  ],
+  "configuration_modified_after_test": false,
+  "queries": [
+    {
+      "query_id": "T01",
+      "query": "AI产品需求调研 PRD 原型设计 全生命周期管理",
+      "relevant_job_ids": [
+        "pilot-ct-bj-ai-pm",
+        "corpus-huaneng-sz-product-management"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.4
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.31
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.08
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.367262
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.120513
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.043737
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.021362
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.006794
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.377084
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.132359
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.123616
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.059954
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.028756
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T02",
+      "query": "市场调研 产品设计 经营数据分析 产品优化",
+      "relevant_job_ids": [
+        "pilot-ct-bj-pm",
+        "corpus-huaneng-sz-product-management"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8772,
+          "top_5": [
+            [
+              "pilot-ct-bj-pm",
+              0.475
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.1875
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.1
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "pilot-ct-bj-pm",
+              0.217845
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.046824
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.046613
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.037892
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.024418
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "pilot-ct-bj-pm",
+              0.294991
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.089027
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.062629
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.056524
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.017093
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T03",
+      "query": "预算偏差 滚动预测 经营预警 问题诊断",
+      "relevant_job_ids": [
+        "pilot-ct-bj-data-analyst"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.54
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.15
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.08
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.29925
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.020136
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.010101
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.371475
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.059095
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.031071
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T04",
+      "query": "信息系统技术开发 运行维护 项目管理 流程建设 数据治理",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-information-j2027",
+        "corpus-huaneng-sz-digital-project-system-ops"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8772,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.425
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.125
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.066667
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.058333
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8772,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.360073
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.104195
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.067167
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.033499
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.020538
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.379551
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.110436
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.103449
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.067017
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.056877
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T05",
+      "query": "军贸项目执行 市场营销 产品发展 服务保障",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-arms-trade-engineering-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.45
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.05
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.03
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.398507
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.033027
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.015304
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.015023
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.005801
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.413955
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.032119
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.025516
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.010713
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.004061
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T06",
+      "query": "航空产品质量监督 适航审定",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-quality-airworthiness-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.316667
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.05
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.314912
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.017633
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.007913
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.006974
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.005042
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.315439
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.027343
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.005539
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.004882
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.003529
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T07",
+      "query": "LangGraph RAG 多智能体协作 任务编排 大模型微调",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-ai-agent-development"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.38
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.123244
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.012955
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.00209
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.001715
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.242271
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.009069
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.001463
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.0012
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T08",
+      "query": "元数据 数据标准 数据质量 数据安全 Python SQL",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-data-analysis-governance"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.383333
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.058333
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.235886
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.016524
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.008835
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.00647
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.005259
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.28012
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.118685
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.063682
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.0175
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.011566
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T09",
+      "query": "数字化项目 需求分析 方案制定 验收交付 系统运维 Java",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-digital-project-system-ops",
+        "corpus-avic-catic-bj-information-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.466667
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.125
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.066667
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.152724
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.049559
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.021871
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.020056
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.010858
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.246907
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.072191
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.04281
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.041698
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.034039
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "T10",
+      "query": "DevOps 云平台 Docker Kubernetes Jenkins 容器化",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-devops-cloud"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.491667
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.128124
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.237187
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP01",
+      "query": "把客户想法转成产品文档和交互草图并持续跟踪上线效果",
+      "relevant_job_ids": [
+        "pilot-ct-bj-ai-pm",
+        "corpus-huaneng-sz-product-management"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.1875
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.028645
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.016215
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.011788
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.003361
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.003301
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "pilot-ct-bj-ai-pm",
+              0.0676
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.058561
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.050051
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.038252
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.032353
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP02",
+      "query": "研究市场和用户后设计功能，再依据业务数据改进产品",
+      "relevant_job_ids": [
+        "pilot-ct-bj-pm",
+        "corpus-huaneng-sz-product-management"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.08
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-pm",
+              0.018358
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.017867
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.014227
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.012464
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.009839
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.036507
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.01285
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.009959
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.008725
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.006888
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP03",
+      "query": "分析经营计划和实际结果差异，预测趋势并发现异常",
+      "relevant_job_ids": [
+        "pilot-ct-bj-data-analyst"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.07086
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.02035
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.010294
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.009623
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.002107
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-ct-bj-data-analyst",
+              0.049602
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.014245
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.007206
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.006736
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.001475
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP04",
+      "query": "建设企业数字系统，同时负责项目推进、日常保障和数据规范",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-information-j2027",
+        "corpus-huaneng-sz-digital-project-system-ops"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.5438,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.021516
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.014131
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.012796
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.012412
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.0084
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.5438,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.045061
+            ],
+            [
+              "pilot-ct-bj-data-analyst",
+              0.009892
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.008957
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.008688
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.00588
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP05",
+      "query": "推动航空装备国际业务落地并协调销售、产品和售后支持",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-arms-trade-engineering-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.5,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.17
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.17
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.11
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.1
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.058217
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.016549
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.013585
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.008263
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.007373
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.073752
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.056784
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.053409
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.032194
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.011584
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP06",
+      "query": "检查航空装备是否符合质量和准入认证要求",
+      "relevant_job_ids": [
+        "corpus-avic-catic-bj-quality-airworthiness-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.05
+            ]
+          ]
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.6309,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.057125
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.023874
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.007132
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.004148
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.001662
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.6309,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.054987
+            ],
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.016712
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.004992
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.002903
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.001163
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP07",
+      "query": "让多个AI代理协同完成任务并用企业知识提升回答效果",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-ai-agent-development"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.6309,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.011971
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.007143
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.006404
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.002425
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.001919
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.6309,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-product-management",
+              0.008379
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.005
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.004483
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.001697
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.001343
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP08",
+      "query": "制定企业数据口径，检查数据可靠性并用脚本做分析",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-data-analysis-governance"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.3869,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.028975
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.009021
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.008306
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.007444
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.006325
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.3869,
+          "top_5": [
+            [
+              "corpus-avic-catic-bj-quality-airworthiness-j2027",
+              0.020283
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.006315
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.005814
+            ],
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.005211
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.004428
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP09",
+      "query": "把后台部门需求转为系统功能，协调研发测试并负责投产后的稳定运行",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-digital-project-system-ops",
+        "corpus-avic-catic-bj-information-j2027"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.041221
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.012513
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.011664
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.011646
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.005894
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.8503,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.028855
+            ],
+            [
+              "pilot-ct-bj-ai-pm",
+              0.008759
+            ],
+            [
+              "corpus-huaneng-sz-product-management",
+              0.008165
+            ],
+            [
+              "pilot-ct-bj-pm",
+              0.008152
+            ],
+            [
+              "corpus-avic-catic-bj-information-j2027",
+              0.004126
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "TP10",
+      "query": "搭建自动发布流水线和容器集群，保障私有云基础设施",
+      "relevant_job_ids": [
+        "corpus-huaneng-sz-devops-cloud"
+      ],
+      "methods": {
+        "offerlab_hybrid": {
+          "recall_at_5": 0.0,
+          "recall_at_10": 0.0,
+          "ndcg_at_5": 0.0,
+          "top_5": []
+        },
+        "char_tfidf": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.01032
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.006489
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.003557
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.001885
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.001137
+            ]
+          ]
+        },
+        "frozen_two_stage": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-huaneng-sz-devops-cloud",
+              0.007224
+            ],
+            [
+              "corpus-avic-catic-bj-arms-trade-engineering-j2027",
+              0.004542
+            ],
+            [
+              "corpus-huaneng-sz-digital-project-system-ops",
+              0.00249
+            ],
+            [
+              "corpus-huaneng-sz-ai-agent-development",
+              0.00132
+            ],
+            [
+              "corpus-huaneng-sz-data-analysis-governance",
+              0.000796
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "offerlab_hybrid": {
+      "mean_recall_at_5": 0.575,
+      "mean_recall_at_10": 0.575,
+      "mean_ndcg_at_5": 0.5547
+    },
+    "char_tfidf": {
+      "mean_recall_at_5": 1.0,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.884
+    },
+    "frozen_two_stage": {
+      "mean_recall_at_5": 1.0,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.8821
+    }
+  }
+}

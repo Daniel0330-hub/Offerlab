@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国五矿集团有限公司",
+  "seed_url": "https://zhaopin.minmetals.com.cn/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://zhaopin.minmetals.com.cn/",
+      "http_status": 200,
+      "title": "中国五矿集团招聘官网",
+      "text": "中国五矿集团招聘官网",
+      "html_bytes": 492
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,12 @@
+{
+  "parent_group": "中国铁塔股份有限公司",
+  "seed_url": "https://www.china-tower.com/Index/lists/catid/10.html",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.china-tower.com/Index/lists/catid/10.html",
+      "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>"
+    }
+  ]
+}

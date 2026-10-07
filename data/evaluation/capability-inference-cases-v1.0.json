@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "purpose": "验证用户专业、技能与项目证据到可迁移能力的可解释推断边界",
+  "cases": [
+    {"id":"C01","majors":["统计学"],"skills":[],"experience":"","expected":["统计分析","统计建模","数据分析"],"forbidden":["SQL","Python"]},
+    {"id":"C02","majors":[],"skills":["SQL"],"experience":"","expected":["数据查询","基础数据分析","数据库基础"],"forbidden":["Python","机器学习"]},
+    {"id":"C03","majors":["数据科学与大数据技术"],"skills":[],"experience":"","expected":["数据分析","数据工程基础","数据平台基础"],"forbidden":["Java开发","Spark"]},
+    {"id":"C04","majors":["人工智能"],"skills":[],"experience":"","expected":["人工智能基础","机器学习基础","模型训练基础"],"forbidden":["PyTorch","TensorFlow"]},
+    {"id":"C05","majors":[],"skills":["Java","Spring Boot"],"experience":"","expected":["Java开发","后端开发基础"],"forbidden":["数据分析"]},
+    {"id":"C06","majors":["精算学"],"skills":["Python"],"experience":"","expected":["风险分析","统计建模","数据分析","编程基础","数据处理","自动化脚本"],"forbidden":["Java开发"]},
+    {"id":"C07","majors":[],"skills":[],"experience":"使用 pandas、scikit-learn 完成数据清洗、特征工程与模型评估","expected":["数据清洗","数据处理","基础数据分析","机器学习","模型训练与评估"],"forbidden":["深度学习"]},
+    {"id":"C08","majors":["信息管理与信息系统"],"skills":[],"experience":"完成用户访谈、需求分析和 Axure 原型","expected":["需求分析","数据分析","业务流程理解","用户研究","产品方案","原型设计","产品表达"],"forbidden":["Java开发"]},
+    {"id":"C09","majors":[],"skills":["C++"],"experience":"","expected":["C++开发","系统编程基础"],"forbidden":["Java开发"]},
+    {"id":"C10","majors":[],"skills":["C语言"],"experience":"","expected":["C语言开发","系统编程基础"],"forbidden":["Python"]}
+  ]
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "AI产品 需求调研 原型设计",
+    "terms": [
+      "AI",
+      "产品",
+      "需求",
+      "原型"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-ai-pm",
+      "pilot-ct-bj-pm",
+      "pilot-cmcc-nj-ai-app",
+      "dev-cu-hn-ai-developer",
+      "dev-crrc-cc-ai-engineer"
+    ]
+  },
+  {
+    "query_id": "Q02",
+    "query": "Python 机器学习 大模型研发",
+    "terms": [
+      "Python",
+      "机器学习",
+      "大模型",
+      "研发"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-nj-ai-rd",
+      "dev-cu-hn-ai-developer",
+      "dev-crrc-cc-data-software",
+      "dev-crrc-cc-ai-engineer"
+    ]
+  },
+  {
+    "query_id": "Q03",
+    "query": "统计学 经营分析 风险预警",
+    "terms": [
+      "统计学",
+      "经营分析",
+      "风险",
+      "预测"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-data-analyst",
+      "pilot-ct-bj-pm"
+    ]
+  },
+  {
+    "query_id": "Q04",
+    "query": "网络运维 信息安全 故障处理",
+    "terms": [
+      "网络",
+      "运维",
+      "安全",
+      "故障"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-nj-network-ops",
+      "pilot-cmcc-bynr-tech",
+      "dev-cu-yt-security",
+      "dev-cu-bj-compute-ops"
+    ]
+  },
+  {
+    "query_id": "Q05",
+    "query": "项目交付 解决方案 客户需求",
+    "terms": [
+      "项目",
+      "交付",
+      "解决方案",
+      "需求"
+    ],
+    "relevant_job_ids": [
+      "pilot-cmcc-dt-delivery",
+      "pilot-cmcc-nj-ai-app",
+      "pilot-ct-bj-ai-pm",
+      "dev-cu-hn-ai-developer",
+      "dev-cu-bj-architect",
+      "dev-cu-bj-satellite-network",
+      "dev-crrc-cc-data-software",
+      "dev-crrc-cc-ai-engineer"
+    ]
+  },
+  {
+    "query_id": "Q06",
+    "query": "软件测试 自动化 嵌入式 工控网络",
+    "terms": [
+      "软件测试",
+      "自动化",
+      "嵌入式",
+      "工控网络"
+    ],
+    "relevant_job_ids": [
+      "dev-crrc-cc-software-test"
+    ]
+  },
+  {
+    "query_id": "Q07",
+    "query": "Java 大数据 Spark Flink",
+    "terms": [
+      "Java",
+      "大数据",
+      "Spark",
+      "Flink"
+    ],
+    "relevant_job_ids": [
+      "dev-crrc-cc-big-data"
+    ]
+  },
+  {
+    "query_id": "Q08",
+    "query": "Python 数据分析 振动 诊断",
+    "terms": [
+      "Python",
+      "数据分析",
+      "振动",
+      "诊断"
+    ],
+    "relevant_job_ids": [
+      "dev-crrc-cc-data-analysis"
+    ]
+  }
+]

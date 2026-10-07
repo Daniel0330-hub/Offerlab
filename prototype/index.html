@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OfferLab｜央国企校招岗位发现与比较</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" data-page="profile"><span>O</span> OfferLab</button>
+    <nav aria-label="主导航">
+      <button data-page="profile">1 能力画像</button>
+      <button data-page="discover">2 岗位发现</button>
+      <button data-page="compare">3 横向比较 <b id="compare-count">0</b></button>
+      <button data-page="evaluate">4 推荐评测 <b id="annotation-count">0</b></button>
+    </nav>
+    <span class="prototype-badge">v0.3 · 作品集版</span>
+  </header>
+  <main>
+    <section id="page-profile" class="page active">
+      <div class="page-heading">
+        <div><p class="eyebrow">STEP 1 · PROFILE</p><h1>把经历翻译成可检索的能力</h1><p>画像用于岗位召回和资格核对。系统不会生成录取概率。</p></div>
+        <div class="data-proof"><strong id="corpus-count">259</strong><span>条候选岗位</span><strong id="group-count">18</strong><span>家集团</span></div>
+      </div>
+      <div class="panel form-grid">
+        <label>毕业年份<input id="graduation-year" value="2027" inputmode="numeric"></label>
+        <label>最高学历<select id="degree"><option value="硕士研究生">硕士研究生</option><option value="本科">本科</option><option value="博士研究生">博士研究生</option></select></label>
+        <label>研究生专业<input id="major-master" value="统计学"></label>
+        <label>本科专业<input id="major-bachelor" value="精算学"></label>
+        <label>意向工作地点<input id="preferred-locations" value="北京、上海"><small class="field-help">填写后默认只推荐这些地点；岗位发现页可切换“查看全部岗位”</small></label>
+        <label>轮岗意愿<select id="rotation"><option>接受</option><option>视情况</option><option>不接受</option></select></label>
+      </div>
+      <div class="two-column">
+        <div class="panel">
+          <div class="section-title"><div><h2>目标方向</h2><p>可多选。系统仍会发现名称不同但职责相近的岗位。</p></div></div>
+          <div id="direction-chips" class="chips editable">
+            <button class="chip selected">数据分析</button><button class="chip selected">AI 产品</button><button class="chip selected">经营分析</button>
+            <button class="chip">软件开发</button><button class="chip">算法工程</button><button class="chip">数据开发</button>
+            <button class="chip">系统运维</button><button class="chip">网络安全</button><button class="chip">数字化运营</button>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="section-title"><div><h2>技能与项目证据</h2><p>用逗号分隔技能；项目证据会进入推荐解释。</p></div></div>
+          <label class="block-label">导入简历（TXT / MD / JSON）<input id="resume-file" type="file" accept=".txt,.md,.json,text/plain,application/json"><small class="field-help">实验版在浏览器本地提取专业、技能和项目词，不上传服务器；PDF/DOCX可将正文粘贴到项目证据。</small></label>
+          <label class="block-label">技能<input id="skills" value="Python、SQL、统计分析、需求调研、数据清洗"></label>
+          <label class="block-label">项目证据<textarea id="experience">统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。</textarea></label>
+          <div id="resume-feedback" class="evidence hidden"></div>
+          <div id="ability-inference" class="ability-inference"></div>
+        </div>
+      </div>
+      <div class="notice"><strong>资格和技能分开判断</strong><span>毕业年份、学历、专业等明确条件用于资格核对；Java、C/C++、Python、原型工具等进入技能覆盖与缺口，不用一个“匹配率”掩盖差异。</span></div>
+      <div class="footer-actions"><span>画像与比较记录只保存在当前浏览器会话</span><button id="save-profile" class="primary">保存画像并发现岗位 →</button></div>
+    </section>
+    <section id="page-discover" class="page">
+      <div class="page-heading">
+        <div><p class="eyebrow">STEP 2 · DISCOVER</p><h1>先读JD，再看岗位名称</h1><p>使用画像—JD分项匹配：目标方向和技能优先，项目、专业及地点参与排序。</p></div>
+        <div class="model-note"><span>画像—JD匹配</span><strong id="profile-version">实时</strong><small>画像修改后自动重新召回和排序</small></div>
+      </div>
+      <div class="search-panel">
+        <label class="search"><span>⌕</span><input id="query" placeholder="例如：用户需求 数据分析 产品方案"></label>
+        <select id="company-filter" aria-label="集团筛选"><option value="all">全部集团</option></select>
+        <select id="location-filter" aria-label="工作地点筛选"><option value="all">全部工作地点</option></select>
+        <select id="family-filter" aria-label="岗位方向筛选"><option value="all">全部岗位方向</option></select>
+        <select id="scope-filter" aria-label="候选范围"><option value="matched">仅看画像预筛选</option><option value="all">查看全部岗位</option></select>
+        <button class="primary" id="search-button">搜索</button>
+      </div>
+      <div class="search-context"><span id="active-query"></span><button id="use-profile-query" class="text-button">恢复画像推荐</button></div>
+      <div class="result-summary"><strong id="result-total">正在读取岗位</strong><span id="result-note">默认根据专业、方向和技能预筛选；可切换查看全部岗位</span></div>
+      <div id="job-list" class="job-list"></div>
+      <div id="empty-state" class="panel empty hidden"><h2>没有找到符合当前筛选的岗位</h2><p>尝试清除地点或集团筛选，或改用职责和技能描述。</p><button id="clear-search">清除条件</button></div>
+    </section>
+    <section id="page-compare" class="page">
+      <div class="page-heading"><div><p class="eyebrow">STEP 3 · COMPARE</p><h1>用同一套证据横向比较</h1><p>最多选择3个岗位。系统给证据，投递决策由你记录。</p></div><button class="secondary" data-page="discover">＋ 继续添加岗位</button></div>
+      <div id="compare-empty" class="panel empty"><h2>还没有足够的岗位</h2><p>请从岗位发现页选择至少2个岗位。</p><button class="primary" data-page="discover">去发现岗位</button></div>
+      <div id="compare-content" class="hidden"><div id="compare-grid" class="compare-grid"></div><div class="panel insight"><h2>比较发现</h2><ul id="compare-insights"></ul></div></div>
+    </section>
+    <section id="page-evaluate" class="page">
+      <div class="page-heading"><div><p class="eyebrow">STEP 4 · EVALUATE</p><h1>用真实判断校准推荐</h1><p>按岗位是否适合当前画像标注前10个推荐结果，不按是否喜欢公司判断。</p></div><div class="model-note"><span>三级相关性</span><strong id="evaluation-progress">0 / 10</strong><small>2 高度相关 · 1 一般相关 · 0 不相关</small></div></div>
+      <div class="notice"><strong>标注口径</strong><span>高度相关：职责方向和主要能力匹配；一般相关：可申请但有明显方向或技能差距；不相关：核心职责偏离或硬性资格不符。</span></div>
+      <div id="evaluation-list" class="evaluation-list"></div>
+      <div class="panel evaluation-summary"><div><h2>本轮标注</h2><p id="evaluation-summary-text">完成10条后即可导出，用于推荐排序评测。</p></div><div class="evaluation-actions"><button id="reset-annotations" class="secondary">重置本轮</button><button id="export-annotations" class="primary" disabled>导出标注 JSON</button></div></div>
+    </section>
+  </main>
+  <div id="drawer-backdrop" class="backdrop hidden"></div>
+  <aside id="job-drawer" class="drawer" aria-hidden="true"><button id="close-drawer" class="drawer-close" aria-label="关闭">×</button><div id="drawer-content"></div></aside>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="jobs-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+[
+  {
+    "query_id": "T01",
+    "query": "AI产品需求调研 PRD 原型设计 全生命周期管理",
+    "terms": [
+      "AI产品",
+      "需求调研",
+      "PRD",
+      "原型",
+      "全生命周期"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-ai-pm",
+      "corpus-huaneng-sz-product-management"
+    ]
+  },
+  {
+    "query_id": "T02",
+    "query": "市场调研 产品设计 经营数据分析 产品优化",
+    "terms": [
+      "市场调研",
+      "产品设计",
+      "经营分析",
+      "产品优化"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-pm",
+      "corpus-huaneng-sz-product-management"
+    ]
+  },
+  {
+    "query_id": "T03",
+    "query": "预算偏差 滚动预测 经营预警 问题诊断",
+    "terms": [
+      "预算偏差",
+      "滚动预测",
+      "经营分析",
+      "预警",
+      "诊断"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-data-analyst"
+    ]
+  },
+  {
+    "query_id": "T04",
+    "query": "信息系统技术开发 运行维护 项目管理 流程建设 数据治理",
+    "terms": [
+      "信息系统",
+      "技术开发",
+      "运行维护",
+      "项目管理",
+      "流程建设",
+      "数据治理"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-information-j2027",
+      "corpus-huaneng-sz-digital-project-system-ops"
+    ]
+  },
+  {
+    "query_id": "T05",
+    "query": "军贸项目执行 市场营销 产品发展 服务保障",
+    "terms": [
+      "军贸",
+      "项目执行",
+      "市场营销",
+      "产品发展",
+      "服务保障"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-arms-trade-engineering-j2027"
+    ]
+  },
+  {
+    "query_id": "T06",
+    "query": "航空产品质量监督 适航审定",
+    "terms": [
+      "航空",
+      "质量监督",
+      "适航审定"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-quality-airworthiness-j2027"
+    ]
+  },
+  {
+    "query_id": "T07",
+    "query": "LangGraph RAG 多智能体协作 任务编排 大模型微调",
+    "terms": [
+      "LangGraph",
+      "RAG",
+      "多智能体",
+      "任务编排",
+      "大模型微调"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-ai-agent-development"
+    ]
+  },
+  {
+    "query_id": "T08",
+    "query": "元数据 数据标准 数据质量 数据安全 Python SQL",
+    "terms": [
+      "元数据",
+      "数据标准",
+      "数据质量",
+      "数据安全",
+      "Python",
+      "SQL"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-data-analysis-governance"
+    ]
+  },
+  {
+    "query_id": "T09",
+    "query": "数字化项目 需求分析 方案制定 验收交付 系统运维 Java",
+    "terms": [
+      "数字化项目",
+      "需求分析",
+      "方案制定",
+      "验收交付",
+      "系统运维",
+      "Java"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-digital-project-system-ops",
+      "corpus-avic-catic-bj-information-j2027"
+    ]
+  },
+  {
+    "query_id": "T10",
+    "query": "DevOps 云平台 Docker Kubernetes Jenkins 容器化",
+    "terms": [
+      "DevOps",
+      "云平台",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "容器化"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-devops-cloud"
+    ]
+  }
+]

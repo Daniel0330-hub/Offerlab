@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-07",
+  "definition": "Coverage status for the user-facing candidate catalog, independent from evaluation sample counts.",
+  "enterprises": [
+    {
+      "parent_group": "中国联合网络通信集团有限公司",
+      "status": "full_sweep_completed",
+      "official_total": 2819,
+      "relevant_selected": 797,
+      "structured": 797,
+      "failed": 0,
+      "sub_organizations": 40,
+      "source": "https://zglt.zhaopin.com/scjobs/index.html",
+      "taxonomy_version": "title_first_taxonomy_v1",
+      "last_sync": "2026-10-07"
+    },
+    {
+      "parent_groups_with_curated_samples": 16,
+      "status": "pending_full_sweep",
+      "current_catalog_records": 60,
+      "note": "现有记录可用于展示和评测，但尚未完成逐企业全岗位覆盖审计。"
+    }
+  ]
+}

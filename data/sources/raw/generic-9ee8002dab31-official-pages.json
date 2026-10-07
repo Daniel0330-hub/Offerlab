@@ -1,0 +1,12 @@
+{
+  "parent_group": "中国建设银行股份有限公司",
+  "seed_url": "https://job.ccb.com/cn/job/anno_list.html?isImpAnno=1",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://job.ccb.com/cn/job/anno_list.html?isImpAnno=1",
+      "error": "URLError: <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1081)>"
+    }
+  ]
+}

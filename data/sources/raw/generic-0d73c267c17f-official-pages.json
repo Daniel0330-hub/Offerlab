@@ -1,0 +1,22 @@
+{
+  "parent_group": "中国交通建设集团有限公司",
+  "seed_url": "https://zhaopin.ccccltd.cn/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://zhaopin.ccccltd.cn/",
+      "http_status": 200,
+      "title": "中国交建",
+      "text": "﻿ 中国交建",
+      "html_bytes": 92848
+    },
+    {
+      "url": "https://zhaopin.ccccltd.cn/italent.ico",
+      "http_status": 200,
+      "title": "",
+      "text": "",
+      "html_bytes": 0
+    }
+  ],
+  "errors": []
+}

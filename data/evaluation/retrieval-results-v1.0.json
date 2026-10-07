@@ -1,0 +1,394 @@
+{
+  "dataset": "development-set-v1.0.json",
+  "queries": [
+    {
+      "query_id": "D01",
+      "query": "AI应用 需求对接 场景落地 解决方案",
+      "relevant_count": 4,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6367,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.25
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.25
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.25
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6367,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.25
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.1
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.1
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.425
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.3125
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.2
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.1
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.1
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D02",
+      "query": "大模型微调 RAG 智能体 模型训练",
+      "relevant_count": 2,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.2
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.44
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.36
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9197,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.47
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.24
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.21
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D03",
+      "query": "网络规划 运维优化 网络安全 故障处理",
+      "relevant_count": 2,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.5
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.35
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.15
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "pilot-cmcc-nj-network-ops",
+              0.4125
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.4
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.1
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.1
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.0875
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D04",
+      "query": "项目交付 售前方案 客户需求 实施管理",
+      "relevant_count": 4,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.25,
+          "recall_at_10": 0.25,
+          "ndcg_at_5": 0.3904,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.4
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.25,
+          "recall_at_10": 0.25,
+          "ndcg_at_5": 0.3904,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.4
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.12
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 0.9829,
+          "top_5": [
+            [
+              "pilot-cmcc-dt-delivery",
+              0.5
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.32
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.16
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.08
+            ],
+            [
+              "pilot-cmcc-nj-ai-app",
+              0.08
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D05",
+      "query": "计算机视觉 工业AI 边缘部署 算法产品化",
+      "relevant_count": 2,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.5,
+          "recall_at_10": 0.5,
+          "ndcg_at_5": 0.6131,
+          "top_5": [
+            [
+              "corpus-cetc-sz-cv",
+              0.4
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-sz-cv",
+              0.52
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.48
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.12
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-gz-ai-application",
+              0.6
+            ],
+            [
+              "corpus-cetc-sz-cv",
+              0.41
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.08
+            ],
+            [
+              "pilot-cmcc-nj-ai-rd",
+              0.07
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "D06",
+      "query": "数据中台 数据治理 数据质量 大数据开发",
+      "relevant_count": 3,
+      "methods": {
+        "title_only": {
+          "recall_at_5": 0.6667,
+          "recall_at_10": 0.6667,
+          "ndcg_at_5": 0.7654,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.2
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.2
+            ]
+          ]
+        },
+        "title_skill": {
+          "recall_at_5": 0.6667,
+          "recall_at_10": 0.6667,
+          "ndcg_at_5": 0.5307,
+          "top_5": [
+            [
+              "corpus-cetc-bj-llm",
+              0.12
+            ],
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.08
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.08
+            ]
+          ]
+        },
+        "offerlab_hybrid": {
+          "recall_at_5": 1.0,
+          "recall_at_10": 1.0,
+          "ndcg_at_5": 1.0,
+          "top_5": [
+            [
+              "corpus-cetc-xj-big-data-rd",
+              0.26
+            ],
+            [
+              "pilot-cmcc-ah-it-dev",
+              0.21
+            ],
+            [
+              "pilot-cmcc-bynr-tech",
+              0.19
+            ],
+            [
+              "corpus-cetc-bj-llm",
+              0.15
+            ],
+            [
+              "corpus-cetc-gz-ai-application",
+              0.08
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "title_only": {
+      "mean_recall_at_5": 0.4861,
+      "mean_recall_at_10": 0.4861,
+      "mean_ndcg_at_5": 0.6053
+    },
+    "title_skill": {
+      "mean_recall_at_5": 0.6528,
+      "mean_recall_at_10": 0.6528,
+      "mean_ndcg_at_5": 0.6951
+    },
+    "offerlab_hybrid": {
+      "mean_recall_at_5": 1.0,
+      "mean_recall_at_10": 1.0,
+      "mean_ndcg_at_5": 0.9838
+    }
+  }
+}

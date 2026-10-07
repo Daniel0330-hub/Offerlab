@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0",
+  "task": "profile_job_relevance",
+  "label_definition": {
+    "0": "不相关",
+    "1": "一般相关",
+    "2": "高度相关"
+  },
+  "exported_at": "2026-10-07T19:22:16.098Z",
+  "profile": {
+    "graduationYear": 2027,
+    "degree": "硕士研究生",
+    "majors": [
+      "统计学",
+      "精算学"
+    ],
+    "locations": [
+      "北京"
+    ],
+    "rotation": "接受",
+    "language": "TOEFL 100",
+    "skills": [
+      "sql",
+      "python"
+    ],
+    "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+    "directions": [
+      "数据分析",
+      "AI 产品",
+      "经营分析",
+      "数字化运营"
+    ]
+  },
+  "records": [
+    {
+      "job_id": "corpus-huaneng-sz-data-analysis-governance",
+      "title": "数据分析治理岗",
+      "company": "长城证券股份有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.404,
+      "components": {
+        "direction": 0.4375,
+        "skill": 0.43,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:05.616Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890481705",
+      "title": "数据运营管理岗",
+      "company": "中国联通广东省分公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.3725,
+      "components": {
+        "direction": 0.4375,
+        "skill": 0.325,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:19.440Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890347105",
+      "title": "大数据岗",
+      "company": "联通软件研究院",
+      "label": 2,
+      "note": "",
+      "model_score": 0.3625,
+      "components": {
+        "direction": 0.25,
+        "skill": 0.37500000000000006,
+        "experience": 0.3333333333333333,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:40.491Z"
+    },
+    {
+      "job_id": "pilot-ct-bj-data-analyst",
+      "title": "数据分析师",
+      "company": "中国电信北京公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.3565,
+      "components": {
+        "direction": 0.4375,
+        "skill": 0.105,
+        "experience": 0,
+        "major": 1,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:42.305Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40892009805",
+      "title": "商业分析岗",
+      "company": "中国船舶集团广州船舶工业有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.3335,
+      "components": {
+        "direction": 0.4375,
+        "skill": 0.195,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:44.225Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890672305",
+      "title": "人工智能开发工程师",
+      "company": "中国联通云南省分公司",
+      "label": 0,
+      "note": "",
+      "model_score": 0.3223,
+      "components": {
+        "direction": 0.25,
+        "skill": 0.40750000000000003,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:51.486Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890019405",
+      "title": "大数据分析师",
+      "company": "中国联通海南省分公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.3193,
+      "components": {
+        "direction": 0.25,
+        "skill": 0.3975,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:55.261Z"
+    },
+    {
+      "job_id": "cict-51job-173693124",
+      "title": "数据分析工程师",
+      "company": "中国信息通信科技集团有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.3052,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.2675,
+        "experience": 0,
+        "major": 1,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:20:57.338Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40893141805",
+      "title": "船型开发与数据分析",
+      "company": "中国船舶集团有限公司第七〇二研究所",
+      "label": 0,
+      "note": "",
+      "model_score": 0.2943,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.3975,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:21:06.531Z"
+    },
+    {
+      "job_id": "dev-crrc-cc-data-analysis",
+      "title": "数据分析工程师",
+      "company": "中车长春轨道客车股份有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2943,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.3975,
+        "experience": 0,
+        "major": 1,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "TOEFL 100",
+        "skills": [
+          "sql",
+          "python"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "数据分析",
+          "AI 产品",
+          "经营分析",
+          "数字化运营"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|数据分析|ai 产品|经营分析|数字化运营|sql|python",
+      "annotated_at": "2026-10-07T19:21:18.856Z"
+    }
+  ]
+}

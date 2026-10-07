@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国人民保险集团股份有限公司",
+  "seed_url": "http://picc.zhiye.com/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "http://picc.zhiye.com/",
+      "http_status": 200,
+      "title": "中国人民保险招聘",
+      "text": "﻿ 中国人民保险招聘",
+      "html_bytes": 238472
+    }
+  ],
+  "errors": []
+}

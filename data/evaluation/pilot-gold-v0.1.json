@@ -1,0 +1,333 @@
+[
+  {
+    "job_id": "pilot-ct-bj-ai-pm",
+    "title": "AI产品经理",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "产品全生命周期",
+        "evidence_span": "产品全生命周期管理"
+      },
+      {
+        "normalized_label": "需求调研",
+        "evidence_span": "开展客户需求调研"
+      },
+      {
+        "normalized_label": "原型设计",
+        "evidence_span": "原型绘制与需求文档撰写"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "原型绘制",
+        "normalized_name": "原型设计",
+        "level": "expected",
+        "evidence_span": "原型绘制与需求文档撰写"
+      },
+      {
+        "raw_name": "竞品分析",
+        "normalized_name": "竞品分析",
+        "level": "expected",
+        "evidence_span": "客户需求调研、竞品分析"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-ct-bj-pm",
+    "title": "产品经理",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "市场调研",
+        "evidence_span": "市场调研"
+      },
+      {
+        "normalized_label": "需求分析",
+        "evidence_span": "需求分析及产品设计"
+      },
+      {
+        "normalized_label": "经营分析",
+        "evidence_span": "数据治理/经营分析"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "需求分析",
+        "normalized_name": "需求分析",
+        "level": "expected",
+        "evidence_span": "需求分析及产品设计"
+      },
+      {
+        "raw_name": "数据治理",
+        "normalized_name": "数据治理",
+        "level": "expected",
+        "evidence_span": "数据治理/经营分析"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-ct-bj-data-analyst",
+    "title": "数据分析师",
+    "company": "中国电信北京公司",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "预算分析",
+        "evidence_span": "预算偏差分析、滚动预测"
+      },
+      {
+        "normalized_label": "经营分析",
+        "evidence_span": "日常经营分析体系建设"
+      },
+      {
+        "normalized_label": "风险预警",
+        "evidence_span": "异动预警与问题诊断"
+      }
+    ],
+    "skills": [
+      {
+        "raw_name": "经营分析",
+        "normalized_name": "经营分析",
+        "level": "expected",
+        "evidence_span": "日常经营分析体系建设"
+      },
+      {
+        "raw_name": "滚动预测",
+        "normalized_name": "预测分析",
+        "level": "expected",
+        "evidence_span": "滚动预测与资源优化调配"
+      }
+    ],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "equals",
+        "value": 2027,
+        "requirement_level": "required",
+        "evidence_span": "2027年度秋季校园招聘"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "统计学类"
+        ],
+        "requirement_level": "preferred",
+        "evidence_span": "统计学类等专业优先"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/subscriptionPositionList?operational=0ffc349bb540746ed5a84785be43e981e76b0218eace75df160d8d9420887ca7ea564301046ae5bfb5b43780be46aa6e270b1c9ecceb69341eb3151d30a6660c6dd97198bcecd16af7b025b56429d677",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国电信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-ah-it-dev",
+    "title": "IT开发与系统运营（省公司）",
+    "company": "中国移动安徽公司",
+    "locations": [
+      "合肥"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI应用开发",
+        "evidence_span": "负责AI开发与数智化应用"
+      },
+      {
+        "normalized_label": "数据质量",
+        "evidence_span": "网络资源数据全生命周期质量监控"
+      },
+      {
+        "normalized_label": "产品需求分析",
+        "evidence_span": "个人及家庭产品的需求分析"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届应届、2026届未就业"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上学历"
+      },
+      {
+        "criterion": "major",
+        "operator": "includes",
+        "value": [
+          "人工智能",
+          "计算机科学与技术",
+          "软件工程",
+          "数据科学与大数据技术"
+        ],
+        "requirement_level": "required",
+        "evidence_span": "人工智能、计算机科学与技术、软件工程"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=1d01e88a-1748-4dd0-8589-ab062862f731&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  },
+  {
+    "job_id": "pilot-cmcc-nj-ai-app",
+    "title": "AI应用工程师",
+    "company": "中国移动南京分公司",
+    "locations": [
+      "南京"
+    ],
+    "recruitment_type": "campus",
+    "graduation_years": [
+      2026,
+      2027
+    ],
+    "responsibilities": [
+      {
+        "normalized_label": "AI场景落地",
+        "evidence_span": "推动AI应用场景落地"
+      },
+      {
+        "normalized_label": "需求对接",
+        "evidence_span": "负责现场需求对接/业务梳理"
+      },
+      {
+        "normalized_label": "解决方案",
+        "evidence_span": "定制信息化解决方案"
+      }
+    ],
+    "skills": [],
+    "base_requirements": [
+      {
+        "criterion": "graduation_year",
+        "operator": "includes",
+        "value": [
+          2026,
+          2027
+        ],
+        "requirement_level": "required",
+        "evidence_span": "2027届普通高等教育形式"
+      },
+      {
+        "criterion": "degree",
+        "operator": "minimum",
+        "value": "硕士研究生",
+        "requirement_level": "required",
+        "evidence_span": "硕士研究生及以上应届毕业生"
+      }
+    ],
+    "other_explicit_conditions": [],
+    "source": {
+      "url": "https://job.10086.cn/personal/job/detail.html?id=1dccfc2f-f07a-401c-9cd7-e200bb4126a2&typess=1",
+      "collected_at": "2026-10-06"
+    },
+    "parent_group": "中国移动通信集团有限公司"
+  }
+]

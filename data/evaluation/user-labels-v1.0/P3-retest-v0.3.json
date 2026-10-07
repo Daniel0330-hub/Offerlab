@@ -1,0 +1,457 @@
+{
+  "schema_version": "1.1",
+  "task": "profile_job_relevance",
+  "ordering": "current_model_rank",
+  "label_definition": {
+    "0": "不相关",
+    "1": "一般相关",
+    "2": "高度相关"
+  },
+  "exported_at": "2026-10-07T20:10:11.413Z",
+  "profile": {
+    "graduationYear": 2027,
+    "degree": "硕士研究生",
+    "majors": [
+      "统计学",
+      "精算学"
+    ],
+    "locations": [
+      "北京",
+      "上海"
+    ],
+    "rotation": "接受",
+    "skills": [
+      "Python",
+      "SQL",
+      "统计分析",
+      "需求调研",
+      "数据清洗"
+    ],
+    "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+    "directions": [
+      "AI 产品"
+    ]
+  },
+  "records": [
+    {
+      "job_id": "unicom-cc145093010j40890524705",
+      "title": "医疗AI产品经理",
+      "company": "北京医疗健康大模型有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.5386,
+      "components": {
+        "direction": 0.75,
+        "skill": 0.29523809523809524,
+        "experience": 0,
+        "major": 1,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:39.153Z"
+    },
+    {
+      "job_id": "pilot-ct-bj-ai-pm",
+      "title": "AI产品经理",
+      "company": "中国电信北京公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.4329,
+      "components": {
+        "direction": 0.75,
+        "skill": 0.10952380952380952,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:10:10.300Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890615205",
+      "title": "办公及风险监管产品经理",
+      "company": "联通数字科技有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.1464,
+      "components": {
+        "direction": 0,
+        "skill": 0.15476190476190477,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:41.344Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891971905",
+      "title": "技术研发岗（指控和仿真系统软件研发）",
+      "company": "中国舰船研究院",
+      "label": 0,
+      "note": "",
+      "model_score": 0.1429,
+      "components": {
+        "direction": 0,
+        "skill": 0.30952380952380953,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:51.437Z"
+    },
+    {
+      "job_id": "cict-51job-173556626",
+      "title": "ai应用开发工程师(WEB全栈)",
+      "company": "中信科智联科技有限公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.12,
+      "components": {
+        "direction": 0,
+        "skill": 0.23333333333333334,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:52.985Z"
+    },
+    {
+      "job_id": "cict-51job-173536990",
+      "title": "ai应用开发工程师（WEB全栈）",
+      "company": "中国信息通信科技集团有限公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.12,
+      "components": {
+        "direction": 0,
+        "skill": 0.23333333333333334,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:54.517Z"
+    },
+    {
+      "job_id": "pilot-ct-bj-pm",
+      "title": "产品经理",
+      "company": "中国电信北京公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.1186,
+      "components": {
+        "direction": 0,
+        "skill": 0.06190476190476191,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:56.384Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890160605",
+      "title": "公众产品运营经理",
+      "company": "中国联通北京市分公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.1186,
+      "components": {
+        "direction": 0,
+        "skill": 0.06190476190476191,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:09:59.987Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40893141805",
+      "title": "船型开发与数据分析",
+      "company": "中国船舶集团有限公司第七〇二研究所",
+      "label": 0,
+      "note": "",
+      "model_score": 0.0922,
+      "components": {
+        "direction": 0,
+        "skill": 0.37857142857142856,
+        "experience": 0,
+        "major": 1,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:10:03.081Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890712905",
+      "title": "网络安全产品经理",
+      "company": "中讯邮电咨询设计院有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.0871,
+      "components": {
+        "direction": 0,
+        "skill": 0.12380952380952381,
+        "experience": 0,
+        "major": 0,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "统计学",
+          "精算学"
+        ],
+        "locations": [
+          "北京",
+          "上海"
+        ],
+        "rotation": "接受",
+        "skills": [
+          "Python",
+          "SQL",
+          "统计分析",
+          "需求调研",
+          "数据清洗"
+        ],
+        "experience": "统计建模项目：使用 pandas、scikit-learn 完成数据清洗与预测；OfferLab：访谈8名求职者，完成需求分析与原型。",
+        "directions": [
+          "AI 产品"
+        ]
+      },
+      "profile_fingerprint": "统计学|精算学|ai 产品|python|sql|统计分析|需求调研|数据清洗",
+      "annotated_at": "2026-10-07T20:10:04.711Z"
+    }
+  ]
+}

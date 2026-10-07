@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国兵器工业集团有限公司",
+  "seed_url": "https://zgbq2027.iguopin.com/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://zgbq2027.iguopin.com/",
+      "http_status": 200,
+      "title": "招聘官网",
+      "text": "招聘官网 You need to enable JavaScript to run this app.",
+      "html_bytes": 604
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "query_id": "TP01",
+    "query": "把客户想法转成产品文档和交互草图并持续跟踪上线效果",
+    "terms": [
+      "客户需求",
+      "产品文档",
+      "交互设计",
+      "上线效果"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-ai-pm",
+      "corpus-huaneng-sz-product-management"
+    ]
+  },
+  {
+    "query_id": "TP02",
+    "query": "研究市场和用户后设计功能，再依据业务数据改进产品",
+    "terms": [
+      "市场研究",
+      "用户研究",
+      "功能设计",
+      "业务数据",
+      "产品改进"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-pm",
+      "corpus-huaneng-sz-product-management"
+    ]
+  },
+  {
+    "query_id": "TP03",
+    "query": "分析经营计划和实际结果差异，预测趋势并发现异常",
+    "terms": [
+      "计划实际差异",
+      "趋势预测",
+      "异常发现",
+      "经营诊断"
+    ],
+    "relevant_job_ids": [
+      "pilot-ct-bj-data-analyst"
+    ]
+  },
+  {
+    "query_id": "TP04",
+    "query": "建设企业数字系统，同时负责项目推进、日常保障和数据规范",
+    "terms": [
+      "企业数字系统",
+      "项目推进",
+      "日常保障",
+      "数据规范"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-information-j2027",
+      "corpus-huaneng-sz-digital-project-system-ops"
+    ]
+  },
+  {
+    "query_id": "TP05",
+    "query": "推动航空装备国际业务落地并协调销售、产品和售后支持",
+    "terms": [
+      "航空装备",
+      "国际业务",
+      "销售",
+      "产品",
+      "售后支持"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-arms-trade-engineering-j2027"
+    ]
+  },
+  {
+    "query_id": "TP06",
+    "query": "检查航空装备是否符合质量和准入认证要求",
+    "terms": [
+      "航空装备",
+      "质量检查",
+      "准入认证"
+    ],
+    "relevant_job_ids": [
+      "corpus-avic-catic-bj-quality-airworthiness-j2027"
+    ]
+  },
+  {
+    "query_id": "TP07",
+    "query": "让多个AI代理协同完成任务并用企业知识提升回答效果",
+    "terms": [
+      "AI代理",
+      "协同任务",
+      "企业知识",
+      "回答效果"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-ai-agent-development"
+    ]
+  },
+  {
+    "query_id": "TP08",
+    "query": "制定企业数据口径，检查数据可靠性并用脚本做分析",
+    "terms": [
+      "数据口径",
+      "数据可靠性",
+      "脚本分析"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-data-analysis-governance"
+    ]
+  },
+  {
+    "query_id": "TP09",
+    "query": "把后台部门需求转为系统功能，协调研发测试并负责投产后的稳定运行",
+    "terms": [
+      "后台需求",
+      "系统功能",
+      "研发测试",
+      "投产",
+      "稳定运行"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-digital-project-system-ops",
+      "corpus-avic-catic-bj-information-j2027"
+    ]
+  },
+  {
+    "query_id": "TP10",
+    "query": "搭建自动发布流水线和容器集群，保障私有云基础设施",
+    "terms": [
+      "自动发布",
+      "流水线",
+      "容器集群",
+      "私有云",
+      "基础设施"
+    ],
+    "relevant_job_ids": [
+      "corpus-huaneng-sz-devops-cloud"
+    ]
+  }
+]

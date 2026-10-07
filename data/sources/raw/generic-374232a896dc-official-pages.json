@@ -1,0 +1,12 @@
+{
+  "parent_group": "中国农业银行股份有限公司",
+  "seed_url": "https://career.abchina.com.cn/",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://career.abchina.com.cn/",
+      "error": "URLError: <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1081)>"
+    }
+  ]
+}

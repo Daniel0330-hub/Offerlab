@@ -1,0 +1,816 @@
+{
+  "catalog_version": "1.0",
+  "scope": "中国航天科工2027校园招聘",
+  "source_total": 35,
+  "selected_total": 8,
+  "jobs": [
+    {
+      "job_id": "casic-51job-173485448",
+      "title": "工程信息化系统开发与应用设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "领域大模型训练与微调",
+          "evidence_span": "领域大模型训练与微调"
+        },
+        {
+          "normalized_label": "领域大模型训练数据集构建",
+          "evidence_span": "领域大模型训练数据集构建"
+        },
+        {
+          "normalized_label": "智能体训练平台开发",
+          "evidence_span": "智能体训练平台开发"
+        },
+        {
+          "normalized_label": "具有较好的沟通交流能力和理解分析能力",
+          "evidence_span": "具有较好的沟通交流能力和理解分析能力；"
+        },
+        {
+          "normalized_label": "熟悉Oracle、SQL serve",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具、熟悉Tomcat、.net、IIS等中间件的操作配置，熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识、了解设计、研发、试验业务及其关键流程；"
+        },
+        {
+          "normalized_label": "具备数据工程开发能力或大模型微调能力",
+          "evidence_span": "具备数据工程开发能力或大模型微调能力；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "SQL",
+          "normalized_name": "SQL",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具、熟悉Tomcat、.net、IIS等中间件的操作配置，熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识、了解设计、研发、试验业务及其关键流程；"
+        },
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能、集成电路科学与工程等相关专业。"
+        },
+        {
+          "raw_name": "大模型",
+          "normalized_name": "大模型",
+          "level": "expected",
+          "evidence_span": "领域大模型训练与微调"
+        },
+        {
+          "raw_name": "平台开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "智能体训练平台开发"
+        },
+        {
+          "raw_name": "Oracle",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具、熟悉Tomcat、.net、IIS等中间件的操作配置，熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识、了解设计、研发、试验业务及其关键流程；"
+        },
+        {
+          "raw_name": "信息安全",
+          "normalized_name": "网络安全",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具、熟悉Tomcat、.net、IIS等中间件的操作配置，熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识、了解设计、研发、试验业务及其关键流程；"
+        },
+        {
+          "raw_name": "项目管理",
+          "normalized_name": "项目管理",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具、熟悉Tomcat、.net、IIS等中间件的操作配置，熟悉信息化项目管理的流程、了解软件开发的流程、掌握网络及信息安全相关知识、了解设计、研发、试验业务及其关键流程；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485448&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485448",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "系统开发"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485459",
+      "title": "网络与信息安全设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "运维、云与安全",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责信息化基础环境（四网、应用平台、",
+          "evidence_span": "负责信息化基础环境（四网、应用平台、信息设备、存储设备等）的运行维护，保障软硬件环境正常运行。"
+        },
+        {
+          "normalized_label": "负责信息化基础环境的规划论证，建设实",
+          "evidence_span": "负责信息化基础环境的规划论证，建设实施；"
+        },
+        {
+          "normalized_label": "负责信息化基础环境的巡检、预警监测、",
+          "evidence_span": "负责信息化基础环境的巡检、预警监测、值班值守。"
+        },
+        {
+          "normalized_label": "负责信息系统运维相关信息技术研究与应",
+          "evidence_span": "负责信息系统运维相关信息技术研究与应用。"
+        },
+        {
+          "normalized_label": "具有较好的沟通交流能力和理解分析能力",
+          "evidence_span": "具有较好的沟通交流能力和理解分析能力；"
+        },
+        {
+          "normalized_label": "熟悉较强服务器、计算机、操作系统、数",
+          "evidence_span": "熟悉较强服务器、计算机、操作系统、数据库、中间件、存储设备、安全产品等理论知识与技术技能；"
+        },
+        {
+          "normalized_label": "掌握服务器、计算机、网络设备、存储设",
+          "evidence_span": "掌握服务器、计算机、网络设备、存储设备等硬件以及大模型、云平台、容器、虚拟化、应用系统、数据库、中间件、操作系统、常用工具等软件平台的运维能力；"
+        },
+        {
+          "normalized_label": "具备信息化基础设施设备的规划论证能力",
+          "evidence_span": "具备信息化基础设施设备的规划论证能力，自动化运维脚本、运维工具平台开发、大模型应用等能力；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能、集成电路科学与工程等相关专业"
+        },
+        {
+          "raw_name": "大模型",
+          "normalized_name": "大模型",
+          "level": "expected",
+          "evidence_span": "掌握服务器、计算机、网络设备、存储设备等硬件以及大模型、云平台、容器、虚拟化、应用系统、数据库、中间件、操作系统、常用工具等软件平台的运维能力；"
+        },
+        {
+          "raw_name": "平台开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "具备信息化基础设施设备的规划论证能力，自动化运维脚本、运维工具平台开发、大模型应用等能力；"
+        },
+        {
+          "raw_name": "数据库",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉较强服务器、计算机、操作系统、数据库、中间件、存储设备、安全产品等理论知识与技术技能；"
+        },
+        {
+          "raw_name": "云平台",
+          "normalized_name": "云计算",
+          "level": "expected",
+          "evidence_span": "掌握服务器、计算机、网络设备、存储设备等硬件以及大模型、云平台、容器、虚拟化、应用系统、数据库、中间件、操作系统、常用工具等软件平台的运维能力；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485459&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485459",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "信息安全"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485460",
+      "title": "FPGA软件测试设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "测试与质量",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责开展通用测试激励构建工作，FPG",
+          "evidence_span": "负责开展通用测试激励构建工作，FPGA软件测试工具研制工作。"
+        },
+        {
+          "normalized_label": "熟悉VHDL、Verilog HDL",
+          "evidence_span": "熟悉VHDL、Verilog HDL语言；"
+        },
+        {
+          "normalized_label": "具有较好的FPGA软件开发经验；",
+          "evidence_span": "具有较好的FPGA软件开发经验；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "需求分析",
+          "normalized_name": "产品设计",
+          "level": "expected",
+          "evidence_span": "负责按照要求开展FPGA软件测试需求分析和策划，测试设计和实现；"
+        },
+        {
+          "raw_name": "软件开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "具有较好的FPGA软件开发经验；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485460&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485460",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "软件测试"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485462",
+      "title": "体系仿真开发与集成设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责体系攻防对抗仿真平台总体设计、架",
+          "evidence_span": "负责体系攻防对抗仿真平台总体设计、架构设计等工作；"
+        },
+        {
+          "normalized_label": "负责仿真系统、工具、模型等的开发、测",
+          "evidence_span": "负责仿真系统、工具、模型等的开发、测试、集成等相关工作；"
+        },
+        {
+          "normalized_label": "负责体系攻防对抗仿真技术以及智能训练",
+          "evidence_span": "负责体系攻防对抗仿真技术以及智能训练技术研究应用工作；"
+        },
+        {
+          "normalized_label": "负责体系仿真推演总体设计、体系效能/",
+          "evidence_span": "负责体系仿真推演总体设计、体系效能/贡献率评估。"
+        },
+        {
+          "normalized_label": "具有航天领域雷达或飞行器或对抗仿真或",
+          "evidence_span": "具有航天领域雷达或飞行器或对抗仿真或控制等技术研究基础；"
+        },
+        {
+          "normalized_label": "具有C、C++编程基础或软件工具开发",
+          "evidence_span": "具有C、C++编程基础或软件工具开发能力；"
+        },
+        {
+          "normalized_label": "具有较好的协调沟通、总结归纳能力；",
+          "evidence_span": "具有较好的协调沟通、总结归纳能力；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "C++",
+          "normalized_name": "C/C++",
+          "level": "expected",
+          "evidence_span": "具有C、C++编程基础或软件工具开发能力；"
+        },
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术、软件工程、计算机应用技术、人工智能、模式识别与智能系统、应用数学等。"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485462&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485462",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "技术JD信号"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485463",
+      "title": "地面软件开发设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责开展地面装备指挥控制系统软件产品",
+          "evidence_span": "负责开展地面装备指挥控制系统软件产品架构设计及部门相关产品研制工作；"
+        },
+        {
+          "normalized_label": "负责开展软件工程技术研究工作；",
+          "evidence_span": "负责开展软件工程技术研究工作；"
+        },
+        {
+          "normalized_label": "负责开展先进软件开发模式研究及应用；",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        },
+        {
+          "normalized_label": "负责软件及信息设备总体设计前沿技术研",
+          "evidence_span": "负责软件及信息设备总体设计前沿技术研究，申报相关课题。"
+        },
+        {
+          "normalized_label": "具有软件开发、测试及计算机硬件等相关",
+          "evidence_span": "具有软件开发、测试及计算机硬件等相关基础知识，具有软件架构设计，国产操作系统（如麒麟、鸿蒙等）应用软件开发经验，具有较强的软件及硬件研发能力；"
+        },
+        {
+          "normalized_label": "具有模型驱动的软件开发、敏捷软件开发",
+          "evidence_span": "具有模型驱动的软件开发、敏捷软件开发、智能计算系统、边缘云、面向服务的软件开发等方向研究经验优先；"
+        },
+        {
+          "normalized_label": "具有计算机技术与软件技术资格（水平）",
+          "evidence_span": "具有计算机技术与软件技术资格（水平）考试中级、高级优先；"
+        },
+        {
+          "normalized_label": "具备较强的学习、沟通、协调和表达能力",
+          "evidence_span": "具备较强的学习、沟通、协调和表达能力，开展软件及信息处理设备前沿技术研究及相关课题申报；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、信息与通信工程、控制科学与工程等相关专业。"
+        },
+        {
+          "raw_name": "软件开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485463&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485463",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "软件开发"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485468",
+      "title": "弹上软件开发设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责开展装备嵌入式控制类软件产品架构",
+          "evidence_span": "负责开展装备嵌入式控制类软件产品架构设计及部门相关产品研制工作；"
+        },
+        {
+          "normalized_label": "负责开展软件工程技术研究工作；",
+          "evidence_span": "负责开展软件工程技术研究工作；"
+        },
+        {
+          "normalized_label": "负责开展先进软件开发模式研究及应用；",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        },
+        {
+          "normalized_label": "负责软件及信息设备总体设计前沿技术研",
+          "evidence_span": "负责软件及信息设备总体设计前沿技术研究，申报相关课题。"
+        },
+        {
+          "normalized_label": "具有软件开发、测试及计算机硬件等相关",
+          "evidence_span": "具有软件开发、测试及计算机硬件等相关基础知识，具有软件架构设计，国产操作系统（如麒麟、鸿蒙等）应用软件开发、DSP、ARM嵌入式软件开发经验，具有较强的软件及硬件研发能力；"
+        },
+        {
+          "normalized_label": "具有模型驱动的软件开发、敏捷软件开发",
+          "evidence_span": "具有模型驱动的软件开发、敏捷软件开发、智能计算系统、边缘云、面向服务的软件开发等方向研究经验优先；"
+        },
+        {
+          "normalized_label": "具有计算机技术与软件技术资格（水平）",
+          "evidence_span": "具有计算机技术与软件技术资格（水平）考试中级、高级优先；"
+        },
+        {
+          "normalized_label": "具备较强的学习、沟通、协调和表达能力",
+          "evidence_span": "具备较强的学习、沟通、协调和表达能力，开展软件及信息处理设备前沿技术研究及相关课题申报；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、信息与通信工程、控制科学与工程等相关专业。"
+        },
+        {
+          "raw_name": "软件开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485468&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485468",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "软件开发"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485470",
+      "title": "智能软件测试设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "测试与质量",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责开展智能软件数据测试",
+          "evidence_span": "负责开展智能软件数据测试"
+        },
+        {
+          "normalized_label": "负责开展智能软件模型算法测试",
+          "evidence_span": "负责开展智能软件模型算法测试"
+        },
+        {
+          "normalized_label": "负责开展智能软件测试技术研究",
+          "evidence_span": "负责开展智能软件测试技术研究"
+        },
+        {
+          "normalized_label": "具有较好的沟通交流能力和理解分析能力",
+          "evidence_span": "具有较好的沟通交流能力和理解分析能力；"
+        },
+        {
+          "normalized_label": "熟悉Oracle、SQL serve",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具；具备数据工程开发能力或大模型微调能力；"
+        },
+        {
+          "normalized_label": "具有较好的智能模型、算法训练能力和数",
+          "evidence_span": "具有较好的智能模型、算法训练能力和数据集构建能力；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "SQL",
+          "normalized_name": "SQL",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具；具备数据工程开发能力或大模型微调能力；"
+        },
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术，信息管理与信息系统，软件工程、大数据、人工智能等相关专业"
+        },
+        {
+          "raw_name": "大模型",
+          "normalized_name": "大模型",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具；具备数据工程开发能力或大模型微调能力；"
+        },
+        {
+          "raw_name": "Oracle",
+          "normalized_name": "数据库",
+          "level": "expected",
+          "evidence_span": "熟悉Oracle、SQL server、My SQL等主流数据库管理工具；具备数据工程开发能力或大模型微调能力；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485470&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485470",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "软件测试"
+        ]
+      }
+    },
+    {
+      "job_id": "casic-51job-173485473",
+      "title": "体系软件设计与开发设计师",
+      "company": "江南机电设计研究所",
+      "parent_group": "中国航天科工集团有限公司",
+      "locations": [
+        "贵阳"
+      ],
+      "recruitment_type": "campus",
+      "graduation_years": [
+        2027
+      ],
+      "job_family": "软件与平台开发",
+      "responsibilities": [
+        {
+          "normalized_label": "岗位职责：",
+          "evidence_span": "岗位职责："
+        },
+        {
+          "normalized_label": "负责开展体系软件产品架构设计及部门相",
+          "evidence_span": "负责开展体系软件产品架构设计及部门相关产品研制工作；"
+        },
+        {
+          "normalized_label": "负责开展软件工程技术研究工作；",
+          "evidence_span": "负责开展软件工程技术研究工作；"
+        },
+        {
+          "normalized_label": "负责开展先进软件开发模式研究及应用；",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        },
+        {
+          "normalized_label": "负责体系软件前沿技术研究，申报相关课",
+          "evidence_span": "负责体系软件前沿技术研究，申报相关课题。"
+        },
+        {
+          "normalized_label": "具有软件开发、软件测试、计算机硬件等",
+          "evidence_span": "具有软件开发、软件测试、计算机硬件等相关基础知识，具有软件架构设计经验；具有较强的软件研发能力；"
+        },
+        {
+          "normalized_label": "具备较强的学习、沟通、协调和表达能力",
+          "evidence_span": "具备较强的学习、沟通、协调和表达能力，牵头开展软件前沿技术研究并申报相关课题；"
+        },
+        {
+          "normalized_label": "具有模型驱动的软件开发、敏捷软件开发",
+          "evidence_span": "具有模型驱动的软件开发、敏捷软件开发、智能计算系统、边缘云、面向服务的软件开发等方向研究经验优先；"
+        },
+        {
+          "normalized_label": "认同航天文化、热爱航天事业，具有高度",
+          "evidence_span": "认同航天文化、热爱航天事业，具有高度责任心和敬业精神，有较强的团队意识。"
+        }
+      ],
+      "skills": [
+        {
+          "raw_name": "人工智能",
+          "normalized_name": "人工智能",
+          "level": "expected",
+          "evidence_span": "专业需求：计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、信息与通信工程、控制科学与工程等相关专业。"
+        },
+        {
+          "raw_name": "软件开发",
+          "normalized_name": "软件开发",
+          "level": "expected",
+          "evidence_span": "负责开展先进软件开发模式研究及应用；"
+        }
+      ],
+      "base_requirements": [
+        {
+          "criterion": "graduation_year",
+          "operator": "equals",
+          "value": 2027,
+          "requirement_level": "required",
+          "evidence_span": "中国航天科工2027校园招聘"
+        },
+        {
+          "criterion": "degree",
+          "operator": "minimum",
+          "value": "硕士研究生",
+          "requirement_level": "required",
+          "evidence_span": "学历要求：硕士"
+        }
+      ],
+      "other_explicit_conditions": [],
+      "source": {
+        "url": "https://xyz.51job.com/external/apply.aspx?jobid=173485473&ctmid=9567374",
+        "collected_at": "2026-10-07",
+        "job_number": "173485473",
+        "official_campaign": "中国航天科工2027校园招聘"
+      },
+      "catalog_selection": {
+        "method": "title_first_taxonomy_v1",
+        "matched_signals": [
+          "技术JD信号"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent_group": "国家电网有限公司",
+  "seed_url": "https://zhaopin.sgcc.com.cn",
+  "collected_at": "2026-10-07",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://zhaopin.sgcc.com.cn",
+      "error": "HTTPError: HTTP Error 412: Precondition Failed"
+    }
+  ]
+}

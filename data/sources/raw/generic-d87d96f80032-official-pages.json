@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国东方资产管理股份有限公司",
+  "seed_url": "https://coamc.zhiye.com/campus",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://coamc.zhiye.com/campus",
+      "http_status": 200,
+      "title": "招聘门户",
+      "text": "﻿ 招聘门户",
+      "html_bytes": 75989
+    }
+  ],
+  "errors": []
+}

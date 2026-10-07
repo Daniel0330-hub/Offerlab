@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "weights": {
+    "directions": 0.4,
+    "skills": 0.3,
+    "experience": 0.15,
+    "majors": 0.1,
+    "locations": 0.05
+  },
+  "tuned_on": "profile-job-cases-v1.0 development",
+  "frozen_test": "profile-job-cases-v1.0 test"
+}

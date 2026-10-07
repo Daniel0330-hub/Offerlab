@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国航天科技集团有限公司",
+  "seed_url": "https://www.spacetalent.com.cn/",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://www.spacetalent.com.cn/",
+      "http_status": 200,
+      "title": "",
+      "text": "",
+      "html_bytes": 2600
+    }
+  ],
+  "errors": []
+}

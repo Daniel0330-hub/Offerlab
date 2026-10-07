@@ -1,0 +1,178 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OfferLabJobExtraction",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "job_id",
+    "title",
+    "company",
+    "parent_group",
+    "locations",
+    "recruitment_type",
+    "graduation_years",
+    "responsibilities",
+    "skills",
+    "base_requirements",
+    "other_explicit_conditions",
+    "source"
+  ],
+  "properties": {
+    "job_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "parent_group": {
+      "type": "string"
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recruitment_type": {
+      "enum": [
+        "campus",
+        "experienced",
+        "internship",
+        "unknown"
+      ]
+    },
+    "graduation_years": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "responsibilities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidencedText"
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "raw_name",
+          "normalized_name",
+          "level",
+          "evidence_span"
+        ],
+        "properties": {
+          "raw_name": {
+            "type": "string"
+          },
+          "normalized_name": {
+            "type": "string"
+          },
+          "level": {
+            "enum": [
+              "required",
+              "expected",
+              "preferred",
+              "exposure",
+              "unknown"
+            ]
+          },
+          "evidence_span": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "base_requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "criterion",
+          "operator",
+          "value",
+          "requirement_level",
+          "evidence_span"
+        ],
+        "properties": {
+          "criterion": {
+            "enum": [
+              "graduation_year",
+              "degree",
+              "major",
+              "recruitment_type"
+            ]
+          },
+          "operator": {
+            "enum": [
+              "equals",
+              "includes",
+              "minimum",
+              "excludes",
+              "unknown"
+            ]
+          },
+          "value": {},
+          "requirement_level": {
+            "enum": [
+              "required",
+              "preferred",
+              "unknown"
+            ]
+          },
+          "evidence_span": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "other_explicit_conditions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidencedText"
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "collected_at"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "collected_at": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "evidencedText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "normalized_label",
+        "evidence_span"
+      ],
+      "properties": {
+        "normalized_label": {
+          "type": "string"
+        },
+        "evidence_span": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

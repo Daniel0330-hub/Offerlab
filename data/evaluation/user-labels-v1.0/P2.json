@@ -1,0 +1,478 @@
+{
+  "schema_version": "1.0",
+  "task": "profile_job_relevance",
+  "label_definition": {
+    "0": "不相关",
+    "1": "一般相关",
+    "2": "高度相关"
+  },
+  "exported_at": "2026-10-07T19:24:41.605Z",
+  "profile": {
+    "graduationYear": 2027,
+    "degree": "硕士研究生",
+    "majors": [
+      "计算机",
+      "精算学计算机"
+    ],
+    "locations": [
+      "北京"
+    ],
+    "rotation": "接受",
+    "language": "已过四六级",
+    "skills": [
+      "sql",
+      "python",
+      "java",
+      "C++"
+    ],
+    "experience": "",
+    "directions": [
+      "软件开发",
+      "算法工程",
+      "数据开发",
+      "系统运维"
+    ]
+  },
+  "records": [
+    {
+      "job_id": "unicom-cc145093010j40890347105",
+      "title": "大数据岗",
+      "company": "联通软件研究院",
+      "label": 1,
+      "note": "",
+      "model_score": 0.2876,
+      "components": {
+        "direction": 0.375,
+        "skill": 0.29210526315789476,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:23:57.792Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890704905",
+      "title": "模型算法工程师",
+      "company": "联通数据智能有限公司（中国联通数据科学与人工智能研究院）",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2821,
+      "components": {
+        "direction": 0.375,
+        "skill": 0.2736842105263158,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:00.169Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890624205",
+      "title": "数据治理工程师",
+      "company": "联通数字科技有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2571,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.2736842105263158,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:24.940Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890619805",
+      "title": "云计算测试开发工程师",
+      "company": "联通数字科技有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2468,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.2394736842105263,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:26.727Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891960205",
+      "title": "技术研发岗（人工智能系统集成）",
+      "company": "中国舰船研究院",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2263,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.17105263157894737,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:28.055Z"
+    },
+    {
+      "job_id": "corpus-huaneng-sz-data-analysis-governance",
+      "title": "数据分析治理岗",
+      "company": "长城证券股份有限公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.2245,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.33157894736842103,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:30.421Z"
+    },
+    {
+      "job_id": "cssc-ccl1226837610j40891999405",
+      "title": "主控软件工程师",
+      "company": "中船科技股份有限公司",
+      "label": 1,
+      "note": "",
+      "model_score": 0.2161,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.1368421052631579,
+        "experience": 0,
+        "major": 0.5,
+        "location": 1,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:35.742Z"
+    },
+    {
+      "job_id": "corpus-norinco-nanjing-embedded-algorithm-j14678",
+      "title": "算法工程师(J14678)",
+      "company": "中国兵器工业集团江山重工研究院有限公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2103,
+      "components": {
+        "direction": 0.375,
+        "skill": 0.034210526315789476,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:38.485Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890341505",
+      "title": "软件研发岗",
+      "company": "联通软件研究院",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2071,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.2736842105263158,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:39.857Z"
+    },
+    {
+      "job_id": "unicom-cc145093010j40890482805",
+      "title": "研发工程师",
+      "company": "中国联通广东省分公司",
+      "label": 2,
+      "note": "",
+      "model_score": 0.2071,
+      "components": {
+        "direction": 0.1875,
+        "skill": 0.2736842105263158,
+        "experience": 0,
+        "major": 0.5,
+        "location": 0,
+        "typed": 0
+      },
+      "profile": {
+        "graduationYear": 2027,
+        "degree": "硕士研究生",
+        "majors": [
+          "计算机",
+          "精算学计算机"
+        ],
+        "locations": [
+          "北京"
+        ],
+        "rotation": "接受",
+        "language": "已过四六级",
+        "skills": [
+          "sql",
+          "python",
+          "java",
+          "C++"
+        ],
+        "experience": "",
+        "directions": [
+          "软件开发",
+          "算法工程",
+          "数据开发",
+          "系统运维"
+        ]
+      },
+      "profile_fingerprint": "计算机|精算学计算机|软件开发|算法工程|数据开发|系统运维|sql|python|java|c++",
+      "annotated_at": "2026-10-07T19:24:40.996Z"
+    }
+  ]
+}

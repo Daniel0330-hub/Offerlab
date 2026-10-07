@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "campaigns": [
+    {"key":"unicom","parent_group":"中国联合网络通信集团有限公司","campaign":"中国联通2027校园招聘","org_number":"105347","origin":"https://zglt.zhaopin.com","referer":"https://zglt.zhaopin.com/scjobs/index.html"},
+    {"key":"cssc","parent_group":"中国船舶集团有限公司","campaign":"中国船舶集团校园招聘","org_number":"105924","origin":"https://cssc.zhaopin.com","referer":"https://cssc.zhaopin.com/job/index.html"},
+    {"key":"cdb","parent_group":"国家开发银行","campaign":"国家开发银行2027校园招聘","org_number":"105127","origin":"https://cdb2027.zhaopin.com","referer":"https://cdb2027.zhaopin.com/"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "parent_group": "中国石油化工集团有限公司",
+  "seed_url": "https://job.sinopec.com",
+  "collected_at": "2026-10-07",
+  "pages": [
+    {
+      "url": "https://job.sinopec.com",
+      "http_status": 200,
+      "title": "中国石化招聘网站",
+      "text": "中国石化招聘网站",
+      "html_bytes": 2617
+    }
+  ],
+  "errors": []
+}
