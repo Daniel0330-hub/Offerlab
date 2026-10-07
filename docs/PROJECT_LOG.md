@@ -465,3 +465,10 @@
 - 删除`docs/07-portfolio/`及其中的求职包装材料，文档索引同步改为项目描述和项目日志；
 - 保留上传前公开审计脚本，因为它用于检查JSON、相对链接、敏感信息和本地文件忽略规则；
 - 阶段9后续仅需配置Git提交身份、创建远程仓库并上传项目。
+
+## GitHub Pages 在线演示
+
+- 项目已上传至公开仓库`Daniel0330-hub/Offerlab`；
+- 新增仓库根目录入口页，将GitHub Pages访问自动转到`prototype/`；
+- README增加在线体验地址`https://daniel0330-hub.github.io/Offerlab/`；
+- GitHub Pages使用`main`分支根目录发布，不需要额外Actions工作流或第三方服务。
